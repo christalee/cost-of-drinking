@@ -1,4 +1,4 @@
-# cost-of-drinking
+# Cost of Drinking
 
 ## City Data
 - City, Country, Latitude, Longitude, and Population data sourced from [Simple Maps](https://simplemaps.com/data/world-cities)
