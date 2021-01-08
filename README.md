@@ -9,3 +9,6 @@
 - Data sourced from [Mapping the World Prices 2019](https://www.dbresearch.com/PROD/RPS_EN-PROD/Mapping_the_world_prices_2019/RPS_EN_DOC_VIEW.calias?rwnode=PROD0000000000436748&ProdCollection=PROD0000000000505140) dataset
 - Sourced beer data based on 500 mL serving size
 - Sourced cappuccino data
+
+## Numbeo Data Set
+- Data gathered January 2021 on [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114), [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15), [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
