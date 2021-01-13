@@ -12,3 +12,6 @@
 
 ## Numbeo Data Set
 - Data gathered January 2021 on [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114), [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15), [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
+
+## PintPrice Data Set
+- Data gathered January 2021 on the price of a pint / local equivalent from [PintPrice.com](http://www.pintprice.com/index.php)

@@ -1,0 +1,659 @@
+,city_ascii,admin_name,country,region,bread,beer,coffee,latitude,longitude,population
+0,Richmond,Virginia,United States,North America ,2.63,3.71,4.54,37.5295,-77.4756,1075798.0
+1,Fort Collins,Colorado,United States,North America ,2.93,3.47,4.29,40.5478,-105.0656,312666.0
+2,Boston,Massachusetts,United States,North America ,3.16,3.37,4.31,42.3188,-71.0846,4688346.0
+3,New York,New York,United States,North America ,3.78,3.29,4.82,40.6943,-73.9249,18713220.0
+4,Philadelphia,Pennsylvania,United States,North America ,2.83,3.26,3.92,40.0077,-75.1339,5649300.0
+5,San Jose,California,United States,North America ,3.22,3.2,4.66,37.3019,-121.8486,1798103.0
+6,Colorado Springs,Colorado,United States,North America ,2.54,3.04,4.83,38.8674,-104.7606,642413.0
+7,Raleigh,North Carolina,United States,North America ,2.78,3.04,4.29,35.8325,-78.6435,1038738.0
+8,Dallas,Texas,United States,North America ,2.72,2.96,4.14,32.7936,-96.7662,5743938.0
+9,San Diego,California,United States,North America ,3.7,2.92,4.27,32.8312,-117.1225,3220118.0
+10,Fresno,California,United States,North America ,1.85,2.85,4.61,36.7831,-119.7941,703498.0
+11,Portland,Oregon,United States,North America ,3.03,2.85,4.16,45.5372,-122.65,2074775.0
+12,San Francisco,California,United States,North America ,3.9,2.78,4.69,37.7562,-122.443,3592294.0
+13,Denver,Colorado,United States,North America ,2.7,2.77,4.62,39.7621,-104.8759,2876625.0
+14,New Orleans,Louisiana,United States,North America ,3.25,2.75,5.08,30.0687,-89.9288,1020886.0
+15,Miami,Florida,United States,North America ,2.92,2.73,4.26,25.7839,-80.2102,6445545.0
+16,Omaha,Nebraska,United States,North America ,2.44,2.72,4.57,41.2627,-96.0522,847819.0
+17,Brooklyn,New York,United States,North America ,3.56,2.72,4.32,40.6501,-73.9496,2559903.0
+18,Detroit,Michigan,United States,North America ,2.32,2.69,4.7,42.3834,-83.1024,3506126.0
+19,Atlanta,Georgia,United States,North America ,2.72,2.68,4.2,33.7627,-84.4224,5449398.0
+20,Los Angeles,California,United States,North America ,3.75,2.68,4.69,34.1139,-118.4068,12750807.0
+21,San Antonio,Texas,United States,North America ,2.4,2.68,4.13,29.4658,-98.5253,2049293.0
+22,Seattle,Washington,United States,North America ,3.51,2.67,4.75,47.6211,-122.3244,3789215.0
+23,Tampa,Florida,United States,North America ,2.95,2.64,3.93,27.9942,-82.4451,2908063.0
+24,Buffalo,New York,United States,North America ,2.11,2.63,3.63,42.9016,-78.8487,914341.0
+25,Jacksonville,Florida,United States,North America ,2.96,2.63,4.06,30.3322,-81.6749,1181496.0
+26,Oakland,California,United States,North America ,3.77,2.61,4.33,37.7903,-122.2165,433031.0
+27,Honolulu,Hawaii,United States,North America ,4.66,2.57,5.33,21.3294,-157.846,820987.0
+28,St. Paul,Minnesota,United States,North America ,2.75,2.53,4.25,44.9477,-93.104,308096.0
+29,Washington,District of Columbia,United States,North America ,2.96,2.51,4.69,38.9047,-77.0163,5379184.0
+30,Baltimore,Maryland,United States,North America ,2.21,2.46,3.88,39.3051,-76.6144,2106068.0
+31,Indianapolis,Indiana,United States,North America ,2.07,2.46,3.52,39.7771,-86.1458,1588961.0
+32,Columbus,Ohio,United States,North America ,2.41,2.42,4.04,39.9862,-82.985,1562009.0
+33,Chicago,Illinois,United States,North America ,3.06,2.41,4.24,41.8373,-87.6862,8604203.0
+34,Charlotte,North Carolina,United States,North America ,2.77,2.39,4.33,35.208,-80.8304,1512923.0
+35,Houston,Texas,United States,North America ,2.54,2.38,4.07,29.7863,-95.3889,5464251.0
+36,Ann Arbor,Michigan,United States,North America ,2.14,2.38,4.04,42.2755,-83.7312,322267.0
+37,St. Louis,Missouri,United States,North America ,1.99,2.32,4.53,38.6358,-90.2451,2024074.0
+38,Nashville,Tennessee,United States,North America ,2.7,2.32,4.62,36.1715,-86.7843,1081903.0
+39,Louisville,Kentucky,United States,North America ,1.89,2.3,4.88,38.1663,-85.6485,1005654.0
+40,Minneapolis,Minnesota,United States,North America ,2.98,2.3,4.37,44.9635,-93.2678,2977172.0
+41,Salt Lake City,Utah,United States,North America ,2.66,2.22,4.43,40.7777,-111.9306,1098526.0
+42,Lexington,Kentucky,United States,North America ,2.36,2.16,4.42,38.0423,-84.4587,317110.0
+43,Tucson,Arizona,United States,North America ,2.42,2.15,4.67,32.1545,-110.8782,888486.0
+44,Memphis,Tennessee,United States,North America ,1.85,2.06,4.86,35.1046,-89.9773,1066967.0
+45,Sacramento,California,United States,North America ,3.51,2.05,4.53,38.5667,-121.4683,1898019.0
+46,Austin,Texas,United States,North America ,2.27,1.96,3.95,30.3004,-97.7522,1687311.0
+47,Tacoma,Washington,United States,North America ,3.56,1.96,4.03,47.2431,-122.4531,217827.0
+48,Albany,New York,United States,North America ,2.6,1.96,3.82,42.6664,-73.7987,586383.0
+49,Kansas City,Missouri,United States,North America ,2.19,1.94,4.32,39.1239,-94.5541,1636715.0
+50,Reno,Nevada,United States,North America ,2.92,1.94,4.57,39.5497,-119.8483,445020.0
+51,Des Moines,Iowa,United States,North America ,2.8,1.93,3.98,41.5725,-93.6105,473957.0
+52,Boise,Idaho,United States,North America ,2.61,1.89,4.51,43.6007,-116.2312,389280.0
+53,Madison,Wisconsin,United States,North America ,3.3,1.88,3.89,43.0826,-89.3931,447245.0
+54,Phoenix,Arizona,United States,North America ,2.4,1.88,4.15,33.5722,-112.0891,4219697.0
+55,Las Vegas,Nevada,United States,North America ,2.63,1.87,4.47,36.2333,-115.2654,2104198.0
+56,Berkeley,California,United States,North America ,3.83,1.85,4.04,37.8723,-122.27600000000001,121363.0
+57,Orlando,Florida,United States,North America ,2.85,1.84,4.41,28.4772,-81.3369,1822394.0
+58,El Paso,Texas,United States,North America ,2.27,1.82,3.61,31.8479,-106.4309,843386.0
+59,Cincinnati,Ohio,United States,North America ,2.44,1.8,4.15,39.1413,-84.5061,1662691.0
+60,Charleston,South Carolina,United States,North America ,2.78,1.67,4.83,32.8153,-79.9628,628377.0
+61,Spokane,Washington,United States,North America ,2.6,1.58,4.48,47.6671,-117.43299999999999,412275.0
+62,Boulder,Colorado,United States,North America ,3.91,1.14,4.52,40.0249,-105.2523,124345.0
+63,Santa Clara,California,United States,North America ,4.55,,5.0,37.3645,-121.96799999999999,130365.0
+64,Santa Barbara,California,United States,North America ,4.41,,4.75,34.4285,-119.7202,202401.0
+65,Santa Rosa,California,United States,North America ,4.2,,4.56,38.4458,-122.7067,324634.0
+66,Fort Lauderdale,Florida,United States,North America ,4.13,,4.29,26.1412,-80.1464,182437.0
+67,Anchorage,Alaska,United States,North America ,3.94,,4.41,61.1508,-149.1091,247949.0
+68,Bend,Oregon,United States,North America ,3.83,,3.78,44.0562,-121.3087,109802.0
+69,Irvine,California,United States,North America ,3.81,,4.72,33.6772,-117.7738,287401.0
+70,West Palm Beach,Florida,United States,North America ,3.46,,5.25,26.7468,-80.1316,111955.0
+71,Fremont,California,United States,North America ,3.31,,4.33,37.5265,-121.9852,241110.0
+72,Alexandria,Virginia,United States,North America ,3.31,,4.5,38.8185,-77.0861,159428.0
+73,Bellevue,Washington,United States,North America ,3.31,,3.96,47.5951,-122.1535,148164.0
+74,Long Beach,California,United States,North America ,3.12,,4.33,33.7981,-118.1675,462628.0
+75,Fairfax,Virginia,United States,North America ,3.12,,3.75,38.8531,-77.2998,24019.0
+76,Queens,New York,United States,North America ,3.12,,4.71,40.7498,-73.7976,2230722.0
+77,Bellingham,Washington,United States,North America ,3.04,,4.27,48.7543,-122.4687,130641.0
+78,Jersey City,New Jersey,United States,North America ,2.92,,3.72,40.7161,-74.0682,262075.0
+79,Eugene,Oregon,United States,North America ,2.9,,4.19,44.0563,-123.1173,273439.0
+80,Pittsburgh,Pennsylvania,United States,North America ,2.79,,3.73,40.4396,-79.9762,1703266.0
+81,Sarasota,Florida,United States,North America ,2.77,,4.76,27.3386,-82.5431,722243.0
+82,Rochester,New York,United States,North America ,2.76,,3.89,43.168,-77.6162,703952.0
+83,Tallahassee,Florida,United States,North America ,2.75,,4.14,30.4551,-84.2526,257601.0
+84,Knoxville,Tennessee,United States,North America ,2.65,,4.33,35.9692,-83.9496,586048.0
+85,Riverside,California,United States,North America ,2.65,,,33.9381,-117.3948,2107852.0
+86,Albuquerque,New Mexico,United States,North America ,2.64,,3.92,35.1053,-106.6464,761195.0
+87,Everett,Washington,United States,North America ,2.64,,4.54,47.9525,-122.1669,111475.0
+88,Birmingham,Alabama,United States,North America ,2.62,,4.75,33.5277,-86.7987,739573.0
+89,Oklahoma City,Oklahoma,United States,North America ,2.54,,3.88,35.4676,-97.5136,972943.0
+90,Olympia,Washington,United States,North America ,2.53,,4.59,47.0417,-122.8959,200915.0
+91,Cleveland,Ohio,United States,North America ,2.49,,4.16,41.4767,-81.6804,1710093.0
+92,Chattanooga,Tennessee,United States,North America ,2.48,,4.41,35.0657,-85.2488,415501.0
+93,Henderson,Nevada,United States,North America ,2.48,,3.85,36.0133,-115.038,320189.0
+94,Huntsville,Alabama,United States,North America ,2.48,,4.56,34.6988,-86.6412,319249.0
+95,Baton Rouge,Louisiana,United States,North America ,2.45,,4.31,30.4418,-91.131,570308.0
+96,Tulsa,Oklahoma,United States,North America ,2.42,,4.08,36.1284,-95.9042,671033.0
+97,Vancouver,Washington,United States,North America ,2.42,,4.66,45.6366,-122.5967,184463.0
+98,Lincoln,Nebraska,United States,North America ,2.4,,3.55,40.809,-96.6788,289490.0
+99,Dayton,Ohio,United States,North America ,2.4,,3.98,39.7797,-84.1998,718353.0
+100,Milwaukee,Wisconsin,United States,North America ,2.39,,3.75,43.0642,-87.9673,1365787.0
+101,Salem,Oregon,United States,North America ,2.36,,3.77,44.9231,-123.0246,266804.0
+102,Fort Worth,Texas,United States,North America ,2.34,,4.28,32.7811,-97.3473,909585.0
+103,Little Rock,Arkansas,United States,North America ,2.28,,4.57,34.7256,-92.3576,439815.0
+104,Wichita,Kansas,United States,North America ,2.18,,4.0,37.6896,-97.3442,482249.0
+105,Grand Rapids,Michigan,United States,North America ,1.95,,4.23,42.961999999999996,-85.6562,609314.0
+106,Akron,Ohio,United States,North America ,1.91,,3.5,41.0798,-81.5219,565208.0
+107,Mesa,Arizona,United States,North America ,,,4.4,33.4017,-111.71799999999999,518012.0
+0,Doha,Ad Dawḩah,Qatar,Middle East ,1.45,8.51,4.63,25.3,51.5333,1312947.0
+1,Amman,Al ‘Āşimah,Jordan,Middle East ,0.41,5.3,4.14,31.95,35.9333,4007526.0
+2,Newcastle,New South Wales,Australia,Asia & Pacific ,1.67,4.7,3.52,-32.9167,151.75,322278.0
+3,Muscat,Masqaţ,Oman,Middle East ,1.08,4.66,4.61,23.6139,58.5922,1421409.0
+4,Melbourne,Victoria,Australia,Asia & Pacific ,2.34,4.57,3.4,-37.8136,144.9631,5078193.0
+5,Adelaide,South Australia,Australia,Asia & Pacific ,2.1,4.54,3.31,-34.9289,138.6011,1345777.0
+6,Trondheim,Sør-Trøndelag,Norway,Europe ,3.66,4.52,5.21,63.44,10.4,183378.0
+7,Brisbane,Queensland,Australia,Asia & Pacific ,2.12,4.5,3.55,-27.4678,153.0281,2514184.0
+8,Canberra,Australian Capital Territory,Australia,Asia & Pacific ,2.57,4.26,3.45,-35.2931,149.1269,426704.0
+9,Sydney,New South Wales,Australia,Asia & Pacific ,2.05,4.09,3.27,-33.865,151.2094,5312163.0
+10,Singapore,Central Singapore,Singapore,Asia & Pacific ,1.74,3.94,4.19,1.3,103.8,5745000.0
+11,Stavanger,Rogaland,Norway,Europe ,3.8,3.93,5.3,58.9701,5.7333,129300.0
+12,Tromso,Troms,Norway,Europe ,2.63,3.92,5.68,69.6489,18.9551,38980.0
+13,Dubai,Dubayy,United Arab Emirates,Middle East ,1.35,3.9,5.09,25.2697,55.3094,2502715.0
+14,Auckland,Auckland,New Zealand,Asia & Pacific ,2.2,3.87,3.59,-36.85,174.7833,1467800.0
+15,Bergen,Hordaland,Norway,Europe ,2.82,3.8,5.49,60.3925,5.3233,257087.0
+16,Perth,Western Australia,Australia,Asia & Pacific ,2.22,3.76,3.58,-31.9522,115.8589,2059484.0
+17,Oslo,Oslo,Norway,Europe ,3.53,3.73,5.15,59.9111,10.7528,693494.0
+18,Halifax,Nova Scotia,Canada,North America ,2.37,3.67,3.33,44.6475,-63.5906,403131.0
+19,Abu Dhabi,Abū Z̧aby,United Arab Emirates,Middle East ,1.28,3.59,4.94,24.4781,54.3686,1000000.0
+20,Turku,Varsinais-Suomi,Finland,Europe ,1.89,3.48,4.19,60.4517,22.27,187604.0
+21,Johor Bahru,Johor,Malaysia,Asia & Pacific ,0.75,3.46,2.96,1.4556,103.7611,497097.0
+22,Helsinki,Uusimaa,Finland,Europe ,2.69,3.46,4.94,60.1756,24.9342,642045.0
+23,Hobart,Tasmania,Australia,Asia & Pacific ,1.93,3.44,3.59,-42.8806,147.325,240342.0
+24,Dublin,Dublin,Ireland,Europe ,1.81,3.43,4.15,53.3425,-6.2658,1173179.0
+25,Cork,Cork,Ireland,Europe ,2.29,3.41,3.84,51.9,-8.4731,208669.0
+26,Belfast,Belfast,United Kingdom,Europe ,1.33,3.4,3.6,54.5964,-5.93,333871.0
+27,Wellington,Wellington,New Zealand,Asia & Pacific ,2.03,3.33,3.41,-41.2889,174.7772,418500.0
+28,Tel Aviv-Yafo,Tel Aviv,Israel,Europe ,2.39,3.29,4.21,32.0833,34.8,451523.0
+29,Reykjavik,,Iceland,Europe ,3.66,3.26,4.61,64.1475,-21.935,128793.0
+30,Tokyo,Tōkyō,Japan,Asia & Pacific ,2.16,3.25,3.77,35.6897,139.6922,37977000.0
+31,Lausanne,Vaud,Switzerland,Europe ,3.37,3.21,4.99,46.5333,6.6333,138905.0
+32,Limerick,Limerick,Ireland,Europe ,1.9,3.06,3.79,52.6653,-8.6238,58319.0
+33,Arhus,,Denmark,,2.87,3.05,6.57,,,
+34,Gold Coast,Queensland,Australia,Asia & Pacific ,2.42,3.02,3.65,-28.0167,153.4,679127.0
+35,Galway,Galway,Ireland,Europe ,1.74,3.01,3.78,53.2729,-9.0418,79504.0
+36,Leeds,Leeds,United Kingdom,Europe ,1.2,2.99,3.89,53.7997,-1.5492,1901934.0
+37,Manama,Al ‘Āşimah,Bahrain,Arab States ,1.25,2.99,4.69,26.2167,50.5831,157474.0
+38,Luxembourg,Luxembourg,Luxembourg,Europe ,2.94,2.99,4.11,49.6106,6.1328,122273.0
+39,Petaling Jaya,Selangor,Malaysia,Asia & Pacific ,0.95,2.97,2.87,3.1073,101.6067,638516.0
+40,Manchester,Manchester,United Kingdom,Europe ,1.37,2.97,3.81,53.4794,-2.2453,2705000.0
+41,Espoo,Uusimaa,Finland,Europe ,2.6,2.95,4.91,60.21,24.66,269802.0
+42,Aberdeen,Aberdeen City,United Kingdom,Europe ,1.23,2.94,3.64,57.15,-2.11,214610.0
+43,Calgary,Alberta,Canada,North America ,2.0,2.91,3.43,51.05,-114.0667,1239220.0
+44,Saskatoon,Saskatchewan,Canada,North America ,2.21,2.91,3.49,52.1333,-106.6833,246376.0
+45,Vancouver,British Columbia,Canada,North America ,2.52,2.91,3.47,49.25,-123.1,2264823.0
+46,Winnipeg,Manitoba,Canada,North America ,1.93,2.9,3.66,49.8844,-97.1464,705244.0
+47,Haifa,Haifa,Israel,Europe ,2.24,2.9,3.77,32.8,34.9833,281087.0
+48,Victoria,British Columbia,Canada,North America ,2.69,2.88,3.57,48.4283,-123.3647,335696.0
+49,Surabaya,Jawa Timur,Indonesia,Asia & Pacific ,1.19,2.87,2.28,-7.2458,112.7378,4975000.0
+50,Cambridge,Cambridgeshire,United Kingdom,Europe ,1.57,2.79,3.9,52.2053,0.1192,66.0
+51,Grenoble,Auvergne-Rhône-Alpes,France,Europe ,1.64,2.77,3.6,45.1715,5.7224,687985.0
+52,Dubrovnik,Dubrovačko-Neretvanska Županija,Croatia,Europe ,1.69,2.75,3.54,42.6403,18.1083,42615.0
+53,Oxford,Oxfordshire,United Kingdom,Europe ,1.19,2.75,4.05,51.7519,-1.2578,154600.0
+54,Sheffield,Sheffield,United Kingdom,Europe ,1.28,2.75,3.73,53.3833,-1.4667,685368.0
+55,Jerusalem,Southern,Israel,Europe ,1.65,2.74,3.76,31.7833,35.2167,919438.0
+56,London,"London, City of",United Kingdom,Europe ,1.38,2.73,4.03,51.5072,-0.1275,10979000.0
+57,Casablanca,Casablanca-Settat,Morocco,Arab States ,0.81,2.72,1.8,33.5992,-7.62,4370000.0
+58,Oulu,Pohjois-Pohjanmaa,Finland,Europe ,2.06,2.72,3.66,65.0142,25.4719,200526.0
+59,Paris,Île-de-France,France,Europe ,2.23,2.71,4.47,48.8566,2.3522,11020000.0
+60,Jakarta,Jakarta,Indonesia,Asia & Pacific ,1.24,2.71,2.23,-6.2146,106.8451,34540000.0
+61,Nantes,Pays de la Loire,France,Europe ,1.36,2.7,3.22,47.2181,-1.5528,633690.0
+62,Quebec City,Quebec,Canada,North America ,2.38,2.69,3.1,46.8139,-71.2081,705103.0
+63,Nassau,,Bahamas,South/Latin America ,3.35,2.67,4.5,25.0667,-77.3333,274400.0
+64,Tampere,Pirkanmaa,Finland,Europe ,2.37,2.66,4.37,61.4981,23.7608,225118.0
+65,Toronto,Ontario,Canada,North America ,2.23,2.66,3.56,43.7417,-79.3733,5429524.0
+66,Edmonton,Alberta,Canada,North America ,2.06,2.65,3.57,53.5344,-113.4903,1062643.0
+67,Christchurch,Canterbury,New Zealand,Asia & Pacific ,1.7,2.65,3.43,-43.5309,172.6365,377200.0
+68,Osaka,Ōsaka,Japan,Asia & Pacific ,1.88,2.64,3.65,34.6936,135.5019,14977000.0
+69,Bristol,"Bristol, City of",United Kingdom,Europe ,1.52,2.63,3.79,51.45,-2.5833,724000.0
+70,Kuala Lumpur,Kuala Lumpur,Malaysia,Asia & Pacific ,0.8,2.55,2.87,3.1478,101.6953,8285000.0
+71,London,Ontario,Canada,North America ,1.97,2.54,3.45,42.9836,-81.2497,383822.0
+72,Brampton,Ontario,Canada,North America ,1.83,2.53,2.65,43.6833,-79.7667,593638.0
+73,Montpellier,Occitanie,France,Europe ,1.74,2.49,3.31,43.6119,3.8772,607896.0
+74,Gent,Flanders,Belgium,Europe ,1.94,2.48,3.53,51.0536,3.7253,262219.0
+75,Uppsala,Uppsala,Sweden,Europe ,2.92,2.47,4.11,59.8498,17.6389,164535.0
+76,Uppsala,Stockholm,Sweden,Europe ,2.92,2.47,4.11,59.8601,17.64,133117.0
+77,Mississauga,Ontario,Canada,North America ,2.22,2.46,2.84,43.6,-79.65,721599.0
+78,Exeter,Devon,United Kingdom,Europe ,1.19,2.46,3.39,50.7167,-3.5333,124180.0
+79,Nagoya,Aichi,Japan,Asia & Pacific ,2.06,2.45,3.99,35.1167,136.9333,9113000.0
+80,Reading,Reading,United Kingdom,Europe ,1.64,2.45,3.37,51.4542,-0.9731,337108.0
+81,Penang,,Malaysia,,1.11,2.45,2.94,,,
+82,Seoul,Seoul,South Korea,Asia & Pacific ,2.76,2.44,4.34,37.5833,127.0,21794000.0
+83,Edinburgh,"Edinburgh, City of",United Kingdom,Europe ,1.37,2.4,3.7,55.953,-3.1889999999999996,488050.0
+84,Glasgow,Glasgow City,United Kingdom,Europe ,1.16,2.4,3.81,55.8609,-4.2514,985290.0
+85,Kitchener,Ontario,Canada,North America ,2.21,2.39,2.93,43.4186,-80.4728,470015.0
+86,Basel,Basel-Stadt,Switzerland,Europe ,3.14,2.37,5.68,47.5606,7.5906,177595.0
+87,Montreal,Quebec,Canada,North America ,2.74,2.34,3.01,45.5089,-73.5617,3519595.0
+88,Liverpool,Liverpool,United Kingdom,Europe ,1.28,2.34,3.67,53.4,-2.9833,864122.0
+89,Beirut,Beyrouth,Lebanon,Middle East ,1.04,2.33,5.11,33.8869,35.5131,361366.0
+90,La Paz,La Paz,Bolivia,South/Latin America ,1.09,2.32,2.63,-16.4942,-68.1475,2867504.0
+91,Plymouth,Plymouth,United Kingdom,Europe ,1.36,2.31,3.55,50.3714,-4.1422,267918.0
+92,Rennes,Bretagne,France,Europe ,1.46,2.3,3.27,48.1147,-1.6794,727357.0
+93,Strasbourg,Grand Est,France,Europe ,1.37,2.3,3.11,48.5833,7.7458,465069.0
+94,Leicester,Leicester,United Kingdom,Europe ,1.32,2.3,3.48,52.6333,-1.1333,508916.0
+95,Cardiff,,United Kingdom,,1.52,2.28,3.71,,,
+96,Gothenburg,Västra Götaland,Sweden,Europe ,2.99,2.27,4.83,57.6717,11.981,600473.0
+97,Kathmandu,Bāgmatī,Nepal,Asia & Pacific ,0.54,2.27,1.75,27.7167,85.3667,975453.0
+98,Lyon,Auvergne-Rhône-Alpes,France,Europe ,1.46,2.27,3.72,45.76,4.84,516092.0
+99,Birmingham,Birmingham,United Kingdom,Europe ,1.35,2.27,3.61,52.48,-1.9025,2897303.0
+100,Geneva,Genève,Switzerland,Europe ,3.22,2.26,4.99,46.2,6.15,201818.0
+101,Ottawa,Ontario,Canada,North America ,2.37,2.26,3.36,45.4247,-75.695,989567.0
+102,Vadodara,Gujarāt,India,Asia & Pacific ,0.5,2.23,1.46,22.3,73.2,2065771.0
+103,Antwerp,Flanders,Belgium,Europe ,2.24,2.23,3.48,51.2211,4.3997,529247.0
+104,Kelowna,British Columbia,Canada,North America ,2.19,2.22,3.51,49.8881,-119.4956,142146.0
+105,Sliema,Sliema,Malta,Europe ,1.7,2.22,2.93,35.9125,14.5019,
+106,Navi Mumbai,,India,,0.45,2.21,2.29,,,
+107,Patna,Bihār,India,Asia & Pacific ,0.44,2.21,1.62,25.61,85.1414,1684222.0
+108,Toulouse,Occitanie,France,Europe ,1.81,2.19,3.21,43.6045,1.444,968638.0
+109,Nottingham,Nottingham,United Kingdom,Europe ,1.15,2.19,3.51,52.95,-1.15,768638.0
+110,Indore,Madhya Pradesh,India,Asia & Pacific ,0.45,2.17,1.45,22.7206,75.8472,2201927.0
+111,Brighton,Brighton and Hove,United Kingdom,Europe ,1.43,2.15,3.89,50.8429,-0.1313,134293.0
+112,Mumbai,Mahārāshtra,India,Asia & Pacific ,0.5,2.15,2.15,18.9667,72.8333,23355000.0
+113,Stockholm,Stockholm,Sweden,Europe ,2.7,2.13,4.76,59.3294,18.0686,972647.0
+114,Heraklion,,Greece,,1.13,2.13,3.39,,,
+115,Raipur,Chhattīsgarh,India,Asia & Pacific ,0.32,2.13,1.37,21.2379,81.6337,1010087.0
+116,Newcastle upon Tyne,,United Kingdom,,1.11,2.12,3.71,,,
+117,Marrakech,Marrakech-Safi,Morocco,Arab States ,0.97,2.11,2.07,31.6295,-7.9811,928850.0
+118,Pune,Mahārāshtra,India,Asia & Pacific ,0.48,2.11,1.83,18.5196,73.8553,7764000.0
+119,Aalborg,Nordjylland,Denmark,Europe ,3.16,2.1,7.08,57.0337,9.9166,122219.0
+120,San Juan,Puerto Rico,Puerto Rico,South/Latin America ,2.31,2.09,2.88,18.4037,-66.0636,331165.0
+121,Ahmedabad,,India,,0.53,2.08,1.69,,,
+122,San Jose,San José,Costa Rica,South/Latin America ,1.43,2.06,2.55,9.9333,-84.0833,288054.0
+123,Coventry,Coventry,United Kingdom,Europe ,1.34,2.06,3.72,52.4081,-1.5106,362690.0
+124,Southampton,Southampton,United Kingdom,Europe ,1.47,2.06,3.69,50.9,-1.4,855569.0
+125,Zurich,Zürich,Switzerland,Europe ,3.18,2.05,5.65,47.3786,8.54,434008.0
+126,Rabat,Rabat-Salé-Kénitra,Morocco,Arab States ,0.62,2.04,1.65,34.0253,-6.8361,1628000.0
+127,Hamilton,Ontario,Canada,North America ,2.21,2.04,2.97,43.2567,-79.8692,693645.0
+128,Bergamo,Lombardy,Italy,Europe ,2.22,2.04,1.76,45.695,9.67,119806.0
+129,Derby,Derby,United Kingdom,Europe ,1.46,2.03,3.48,52.9167,-1.4667,270500.0
+130,Parma,Emilia-Romagna,Italy,Europe ,1.84,2.02,1.81,44.8015,10.328,194417.0
+131,Kolkata,West Bengal,India,Asia & Pacific ,0.36,2.02,1.77,22.5411,88.3378,17560000.0
+132,Windsor,Ontario,Canada,North America ,2.15,2.01,3.27,42.2833,-83.0,276165.0
+133,Windsor,Quebec,Canada,North America ,2.15,2.01,3.27,45.5667,-72.0,5367.0
+134,Bali,,Indonesia,,1.57,2.01,2.11,,,
+135,Thane,Mahārāshtra,India,Asia & Pacific ,0.44,2.01,1.88,19.18,72.9633,1261517.0
+136,Santo Domingo,Ozama,Dominican Republic,South/Latin America ,1.61,2.0,1.75,18.4764,-69.8933,2581827.0
+137,Chennai,Tamil Nādu,India,Asia & Pacific ,0.5,2.0,1.99,13.0825,80.275,11324000.0
+138,Bandung,Jawa Barat,Indonesia,Asia & Pacific ,1.28,2.0,1.81,-6.95,107.5667,2394873.0
+139,Copenhagen,Hovedstaden,Denmark,Europe ,3.46,1.99,6.52,55.6786,12.5635,1085000.0
+140,Nice,Provence-Alpes-Côte d’Azur,France,Europe ,1.49,1.99,4.2,43.7034,7.2663,1006402.0
+141,Genoa,Liguria,Italy,Europe ,2.2,1.99,1.57,44.4072,8.934,580097.0
+142,Nagpur,Mahārāshtra,India,Asia & Pacific ,0.36,1.98,1.9,21.1539,79.0831,2405665.0
+143,Bern,Bern,Switzerland,Europe ,2.23,1.97,5.18,46.948,7.4474,133798.0
+144,Lille,Hauts-de-France,France,Europe ,1.89,1.96,3.73,50.6278,3.0583,232787.0
+145,Chandigarh,Chandīgarh,India,Asia & Pacific ,0.51,1.95,1.95,30.7353,76.7911,1026459.0
+146,Milan,Lombardy,Italy,Europe ,2.25,1.95,1.98,45.4669,9.19,1351562.0
+147,Bhopal,Madhya Pradesh,India,Asia & Pacific ,0.45,1.95,1.41,23.25,77.4167,1883381.0
+148,Valletta,Valletta,Malta,Europe ,1.31,1.94,2.95,35.8978,14.5125,6444.0
+149,Malmo,Skåne,Sweden,Europe ,2.62,1.93,5.14,55.5932,13.0214,321845.0
+150,Bangkok,Krung Thep Maha Nakhon,Thailand,Asia & Pacific ,1.35,1.93,2.23,13.75,100.5167,17066000.0
+151,Gurgaon,Haryāna,India,Asia & Pacific ,0.55,1.93,2.19,28.45,77.02,197340.0
+152,Lund,,Sweden,,3.01,1.88,4.33,,,
+153,Bangalore,Karnātaka,India,Asia & Pacific ,0.55,1.88,1.76,12.9699,77.598,13707000.0
+154,Brussels,Brussels-Capital Region,Belgium,Europe ,2.05,1.88,3.87,50.8467,4.3517,185103.0
+155,Nairobi,Nairobi City,Kenya,Africa ,0.47,1.84,2.64,-1.2864,36.8172,5545000.0
+156,Odense,Syddanmark,Denmark,Europe ,3.29,1.83,6.24,55.4004,10.3833,158222.0
+157,Hong Kong,,Hong Kong,Asia & Pacific ,1.94,1.83,4.75,22.305,114.185,7347000.0
+158,Patras,,Greece,,0.97,1.82,3.38,,,
+159,Taipei,Taipei,Taiwan,Asia & Pacific ,1.98,1.82,3.46,25.0478,121.5319,2684567.0
+160,Bologna,Emilia-Romagna,Italy,Europe ,2.58,1.81,1.75,44.4939,11.3428,388367.0
+161,Istanbul,İstanbul,Turkey,Europe ,0.39,1.8,1.89,41.01,28.9603,15154000.0
+162,Hyderabad,Telangana,India,Asia & Pacific ,0.54,1.8,1.57,17.3667,78.4667,9746000.0
+163,Ankara,Ankara,Turkey,Europe ,0.38,1.79,1.8,39.93,32.85,5503985.0
+164,Vijayawada,,India,,0.54,1.79,1.78,,,
+165,Chiang Mai,Chiang Mai,Thailand,Asia & Pacific ,1.42,1.78,2.07,18.7889,98.9833,132634.0
+166,Ghaziabad,Uttar Pradesh,India,Asia & Pacific ,0.48,1.78,1.73,28.6667,77.4167,2381452.0
+167,Guwahati,Assam,India,Asia & Pacific ,0.4,1.78,1.54,26.1667,91.7667,957352.0
+168,Pattaya,,Thailand,,1.19,1.77,2.34,,,
+169,Kochi,Kerala,India,Asia & Pacific ,0.54,1.77,1.35,9.9667,76.2833,677381.0
+170,Noida,,India,,0.48,1.77,1.97,,,
+171,Kaohsiung,Kaohsiung,Taiwan,Asia & Pacific ,2.55,1.75,2.86,22.6167,120.3,2773533.0
+172,Izmir,İzmir,Turkey,Europe ,0.34,1.74,1.73,38.4127,27.1384,4320519.0
+173,Verona,Veneto,Italy,Europe ,1.98,1.74,1.85,45.4386,10.9928,252520.0
+174,Port of Spain,Port of Spain,Trinidad And Tobago,South/Latin America ,1.79,1.73,3.83,10.6667,-61.5167,37074.0
+175,Cairo,Al Qāhirah,Egypt,Middle East ,0.65,1.73,2.1,30.0561,31.2394,19372000.0
+176,Phuket,Phuket,Thailand,Asia & Pacific ,1.72,1.73,2.66,7.8881,98.3975,77610.0
+177,Antalya,Antalya,Turkey,Europe ,0.31,1.72,1.66,36.9081,30.6956,2426356.0
+178,Thessaloniki,Kentrikí Makedonía,Greece,Europe ,1.01,1.72,3.82,40.6333,22.95,315196.0
+179,Santa Cruz,Santa Cruz,Bolivia,South/Latin America ,1.5,1.71,2.71,-17.7892,-63.1975,3151676.0
+180,Bursa,Bursa,Turkey,Europe ,0.34,1.71,1.7,40.1833,29.0667,2901396.0
+181,Kingston,Kingston,Jamaica,South/Latin America ,2.05,1.71,2.45,17.9714,-76.7931,580000.0
+182,Rijeka,Primorsko-Goranska Županija,Croatia,Europe ,1.44,1.7,1.79,45.3297,14.4322,128624.0
+183,Tartu,Tartumaa,Estonia,Europe ,1.07,1.7,3.68,58.38,26.7225,93865.0
+184,Athens,Attikí,Greece,Europe ,0.97,1.69,3.81,37.9794,23.7161,664046.0
+185,Colombo,Western,Sri Lanka,Asia & Pacific ,0.38,1.69,2.33,6.9167,79.8333,752993.0
+186,Linz,Oberösterreich,Austria,Europe ,2.38,1.68,4.01,48.3,14.2833,204846.0
+187,Florence,Tuscany,Italy,Europe ,1.92,1.66,1.58,43.7714,11.2542,382258.0
+188,Harare,Harare,Zimbabwe,Africa ,1.15,1.66,2.77,-17.8292,31.0522,1606000.0
+189,Paramaribo,Paramaribo,Suriname,South/Latin America ,1.55,1.65,2.66,5.8667,-55.1667,223757.0
+190,Montevideo,Montevideo,Uruguay,South/Latin America ,1.99,1.64,2.58,-34.8667,-56.1667,1319108.0
+191,Cape Town,Western Cape,South Africa,Africa ,0.95,1.64,1.91,-33.925,18.425,433688.0
+192,Tallinn,Harjumaa,Estonia,Europe ,0.98,1.63,3.38,59.4372,24.745,434562.0
+193,Bhubaneswar,,India,,0.54,1.63,1.09,,,
+194,Coimbatore,Tamil Nādu,India,Asia & Pacific ,0.47,1.63,1.36,11.0,76.9667,959823.0
+195,Naples,Campania,Italy,Europe ,1.58,1.61,1.53,40.8333,14.25,972212.0
+196,Mysore,Karnātaka,India,Asia & Pacific ,0.37,1.61,1.5,12.3086,76.6531,1014227.0
+197,Nicosia,Lefkosía,Cyprus,Europe ,2.21,1.6,3.99,35.1725,33.365,330000.0
+198,Delhi,Delhi,India,Asia & Pacific ,0.46,1.6,1.88,28.66,77.23,29617000.0
+199,Gaborone,Gaborone,Botswana,Africa ,0.94,1.59,2.94,-24.6569,25.9086,231626.0
+200,Jaipur,Rājasthān,India,Asia & Pacific ,0.43,1.59,1.64,26.9167,75.8667,3073350.0
+201,Algiers,Alger,Algeria,Arab States ,0.13,1.57,0.66,36.7764,3.0586,3415811.0
+202,Lima,Lima,Peru,South/Latin America ,1.69,1.56,2.46,-12.05,-77.0333,9848000.0
+203,Padova,Veneto,Italy,Europe ,1.77,1.55,1.7,45.4064,11.8778,211560.0
+204,Alexandria,Al Iskandarīyah,Egypt,Middle East ,0.46,1.54,1.72,31.2,29.9167,4870000.0
+205,Ranchi,Jharkhand,India,Asia & Pacific ,0.42,1.54,1.58,23.3556,85.3347,1073440.0
+206,Visakhapatnam,,India,,0.55,1.54,1.48,,,
+207,Kingston upon Hull,"Kingston upon Hull, City of",United Kingdom,Europe ,1.33,1.53,3.81,53.7444,-0.3325,573300.0
+208,Makati,,Philippines,,,1.52,2.78,,,
+209,Rome,Lazio,Italy,Europe ,2.28,1.52,1.57,41.8931,12.4828,2872800.0
+210,Amsterdam,Noord-Holland,Netherlands,Europe ,2.18,1.52,4.09,52.35,4.9166,1031000.0
+211,Pretoria,Gauteng,South Africa,Africa ,0.96,1.51,1.88,-25.7464,28.1881,741651.0
+212,Lucknow (Lakhnau),,India,,0.46,1.51,1.68,,,
+213,Brescia,Lombardy,Italy,Europe ,3.28,1.5,1.97,45.5389,10.2203,197008.0
+214,Trieste,Friuli-Venezia Giulia,Italy,Europe ,2.42,1.5,1.91,45.6361,13.8042,204338.0
+215,Kaunas,Kauno Miestas,Lithuania,Europe ,1.11,1.5,2.86,54.9,23.9333,288466.0
+216,Turin,Piedmont,Italy,Europe ,1.92,1.49,1.72,45.0667,7.7,870952.0
+217,Riga,Rīga,Latvia,Europe ,1.1,1.48,3.25,56.9475,24.1069,698529.0
+218,Johannesburg,Gauteng,South Africa,Africa ,0.96,1.48,1.86,-26.2044,28.0416,4434827.0
+219,Guatemala City,Guatemala,Guatemala,South/Latin America ,2.22,1.48,2.12,14.6099,-90.5252,2450212.0
+220,Quito,Pichincha,Ecuador,South/Latin America ,1.69,1.47,2.4,-0.2186,-78.5097,2011388.0
+221,Cagliari,Sardegna,Italy,Europe ,1.92,1.46,1.57,39.2224,9.104,291511.0
+222,Eindhoven,Noord-Brabant,Netherlands,Europe ,1.96,1.46,3.63,51.43,5.5,398053.0
+223,Utrecht,Utrecht,Netherlands,Europe ,2.14,1.46,3.89,52.1003,5.12,640000.0
+224,Zagreb,"Zagreb, Grad",Croatia,Europe ,1.13,1.45,1.89,45.8,15.95,790017.0
+225,Limassol,Lemesós,Cyprus,Europe ,2.06,1.45,3.76,34.675,33.0443,235056.0
+226,Larnaca,Lárnaka,Cyprus,Europe ,2.0,1.44,3.9,34.9233,33.6305,48947.0
+227,Breda,,Netherlands,,2.25,1.44,3.12,,,
+228,Delft,,Netherlands,,2.17,1.44,3.51,,,
+229,Haarlem,Noord-Holland,Netherlands,Europe ,2.12,1.44,3.59,52.3804,4.63,349957.0
+230,San Salvador,San Salvador,El Salvador,South/Latin America ,1.88,1.43,2.72,13.6989,-89.1914,567698.0
+231,Leiden,,Netherlands,,2.17,1.43,3.37,,,
+232,Maastricht,Limburg,Netherlands,Europe ,2.14,1.43,3.59,50.853,5.6770000000000005,122378.0
+233,Nijmegen,,Netherlands,,2.14,1.43,3.18,,,
+234,Guayaquil,Guayas,Ecuador,South/Latin America ,1.53,1.41,2.18,-2.1833,-79.8833,2723665.0
+235,Thiruvananthapuram,Kerala,India,Asia & Pacific ,0.44,1.4,1.43,8.5,76.8997,743691.0
+236,Havana,La Habana,Cuba,South/Latin America ,0.78,1.4,1.49,23.1367,-82.3589,2141652.0
+237,Groningen,Groningen,Netherlands,Europe ,2.13,1.4,3.73,53.2204,6.58,216688.0
+238,The Hague (Den Haag),,Netherlands,,2.3,1.39,3.32,,,
+239,Cancun,Quintana Roo,Mexico,South/Latin America ,1.55,1.39,2.39,21.1606,-86.8475,743626.0
+240,Rotterdam,Zuid-Holland,Netherlands,Europe ,2.11,1.39,3.56,51.92,4.48,1005000.0
+241,Barcelona,Catalonia,Spain,Europe ,1.65,1.37,2.24,41.3825,2.1769,4588000.0
+242,Enschede,,Netherlands,,2.2,1.37,3.35,,,
+243,Porto,Porto,Portugal,Europe ,1.38,1.37,1.84,41.1495,-8.6108,237591.0
+244,Vilnius,Vilniaus Miestas,Lithuania,Europe ,1.11,1.36,2.85,54.6833,25.2833,574147.0
+245,Erbil (Irbil),,Iraq,,0.8,1.36,1.91,,,
+246,Damascus,Dimashq,Syria,Asia & Pacific ,0.84,1.36,1.46,33.5131,36.2919,1754000.0
+247,Split,Splitsko-Dalmatinska Županija,Croatia,Europe ,1.19,1.34,1.96,43.51,16.45,178102.0
+248,Graz,Steiermark,Austria,Europe ,2.71,1.34,3.76,47.0667,15.4333,289440.0
+249,Dresden,Saxony,Germany,Europe ,2.59,1.33,2.81,51.0493,13.7384,555805.0
+250,Santiago,Región Metropolitana,Chile,South/Latin America ,1.43,1.32,3.06,-33.45,-70.6667,7007000.0
+251,Ljubljana,Ljubljana,Slovenia,Europe ,1.44,1.31,2.01,46.05,14.5167,284355.0
+252,Catania,Sicilia,Italy,Europe ,1.26,1.31,1.69,37.5027,15.0873,311584.0
+253,Paphos,Páfos,Cyprus,Europe ,1.23,1.31,3.14,34.7761,32.4265,35961.0
+254,Zadar,Zadarska Županija,Croatia,Europe ,1.25,1.3,1.93,44.1167,15.2167,75082.0
+255,Bari,Puglia,Italy,Europe ,1.32,1.29,1.52,41.1253,16.8667,325183.0
+256,Klaipeda,Klaipėdos Miestas,Lithuania,Europe ,0.79,1.29,2.6,55.7075,21.1428,164310.0
+257,Lisbon,Lisboa,Portugal,Europe ,1.3,1.28,2.0,38.7452,-9.1604,506654.0
+258,Zapopan,Jalisco,Mexico,South/Latin America ,1.61,1.27,2.32,20.7167,-103.4,1155790.0
+259,Funchal,Madeira,Portugal,Europe ,1.68,1.27,1.81,32.65,-16.9167,111892.0
+260,Leuven,,Belgium,,2.07,1.23,3.68,,,
+261,Madrid,Madrid,Spain,Europe ,1.2,1.23,2.38,40.4189,-3.6919,3266126.0
+262,Durban,KwaZulu-Natal,South Africa,Africa ,0.98,1.23,1.81,-29.8583,31.025,595061.0
+263,Osijek,Osječko-Baranjska Županija,Croatia,Europe ,0.89,1.22,1.52,45.5603,18.6703,103162.0
+264,Frankfurt,Hesse,Germany,Europe ,1.45,1.21,3.43,50.1136,8.6797,753056.0
+265,Manila,Manila,Philippines,Asia & Pacific ,1.27,1.21,2.65,14.5958,120.9772,23088000.0
+266,Maribor,Maribor,Slovenia,Europe ,1.08,1.2,1.99,46.55,15.6333,112325.0
+267,Valencia,Valencia,Spain,Europe ,1.02,1.2,2.09,39.4667,-0.375,794288.0
+268,Heidelberg,Baden-Württemberg,Germany,Europe ,1.68,1.2,3.65,49.4122,8.71,160355.0
+269,Salzburg,Salzburg,Austria,Europe ,2.32,1.2,3.94,47.7972,13.0477,154076.0
+270,Palermo,Sicilia,Italy,Europe ,1.24,1.19,1.78,38.1157,13.3613,674435.0
+271,Vienna,Wien,Austria,Europe ,2.07,1.19,4.02,48.2083,16.3731,1840573.0
+272,Berlin,Berlin,Germany,Europe ,1.65,1.18,3.54,52.5167,13.3833,3644826.0
+273,Munich,Bavaria,Germany,Europe ,2.16,1.18,3.82,48.1372,11.5755,1471508.0
+274,Braga,Braga,Portugal,Europe ,1.11,1.18,1.55,41.5333,-8.4167,181494.0
+275,Mexico City,Ciudad de México,Mexico,South/Latin America ,1.59,1.17,2.26,19.4333,-99.1333,20996000.0
+276,Monterrey,Nuevo León,Mexico,South/Latin America ,1.75,1.17,2.58,25.6667,-100.3,4295000.0
+277,Puebla,Puebla,Mexico,South/Latin America ,1.4,1.17,2.12,19.0333,-98.1833,1576259.0
+278,Yangon,,Myanmar,,0.92,1.17,2.27,,,
+279,Bremen,Bremen,Germany,Europe ,1.6,1.17,3.59,53.1153,8.7975,724909.0
+280,Leipzig,Saxony,Germany,Europe ,1.42,1.17,3.37,51.35,12.3833,542529.0
+281,Cebu,,Philippines,,1.35,1.17,2.61,,,
+282,Baghdad,Baghdād,Iraq,Middle East ,0.72,1.17,1.48,33.35,44.4167,5796000.0
+283,Merida,Yucatán,Mexico,South/Latin America ,1.41,1.16,2.44,20.97,-89.62,892363.0
+284,Nuremberg,Bavaria,Germany,Europe ,1.56,1.16,3.43,49.4528,11.0778,518365.0
+285,Zaragoza (Saragossa),,Spain,,1.34,1.15,1.79,,,
+286,Hanover,,Germany,,1.12,1.15,3.18,,,
+287,Coimbra,Coimbra,Portugal,Europe ,,1.15,1.61,40.2111,-8.4291,143396.0
+288,Podgorica,Podgorica,Montenegro,Europe ,0.66,1.14,1.84,42.4397,19.2661,174515.0
+289,Hamburg,Hamburg,Germany,Europe ,1.97,1.14,3.6,53.55,10.0,1841179.0
+290,Cuenca,Azuay,Ecuador,South/Latin America ,1.7,1.14,2.09,-2.8974,-79.0045,329928.0
+291,Aveiro,Aveiro,Portugal,Europe ,1.48,1.14,1.18,40.6389,-8.6553,78450.0
+292,Tijuana,Baja California,Mexico,South/Latin America ,1.53,1.12,2.45,32.525,-117.0333,2384609.0
+293,Bonn,North Rhine-Westphalia,Germany,Europe ,1.12,1.12,3.11,50.7339,7.0997,327258.0
+294,Cologne,North Rhine-Westphalia,Germany,Europe ,1.58,1.12,3.26,50.9422,6.9578,1085664.0
+295,Stuttgart,Baden-Württemberg,Germany,Europe ,2.21,1.12,3.51,48.7761,9.1775,634830.0
+296,Dusseldorf,North Rhine-Westphalia,Germany,Europe ,1.37,1.12,3.57,51.2311,6.7724,619294.0
+297,Wuhan,Hubei,China,Asia & Pacific ,,1.11,3.83,30.5872,114.2881,8962000.0
+298,Medellin,Antioquia,Colombia,South/Latin America ,0.9,1.1,1.25,6.2447,-75.5748,2529403.0
+299,Freiburg im Breisgau,Baden-Württemberg,Germany,Europe ,1.65,1.09,3.18,47.9947,7.8497,230241.0
+300,Karlsruhe,Baden-Württemberg,Germany,Europe ,1.3,1.09,3.39,49.0167,8.4,313092.0
+301,Granada,Andalusia,Spain,Europe ,1.14,1.08,1.86,37.1781,-3.6008,232462.0
+302,Brasilia,Distrito Federal,Brazil,South/Latin America ,1.23,1.08,1.34,-15.7744,-48.0773,3015268.0
+303,Aachen,North Rhine-Westphalia,Germany,Europe ,1.3,1.08,2.84,50.7762,6.0838,247380.0
+304,Shenzhen,Guangdong,China,Asia & Pacific ,2.2,1.08,4.67,22.535,114.054,15929000.0
+305,Bilbao,Basque Country,Spain,Europe ,1.44,1.06,1.94,43.2622,-2.9533,346843.0
+306,Rio de Janeiro,Rio de Janeiro,Brazil,South/Latin America ,1.27,1.06,1.29,-22.9083,-43.1964,12272000.0
+307,Mannheim,Baden-Württemberg,Germany,Europe ,1.64,1.06,3.28,49.4878,8.4661,309370.0
+308,Debrecen,Hajdú-Bihar,Hungary,Europe ,0.71,1.06,1.43,47.53,21.6392,201432.0
+309,Natal,Amazonas,Brazil,South/Latin America ,1.0,1.05,1.04,-6.9838,-60.2699,980588.0
+310,Natal,Rio Grande do Norte,Brazil,South/Latin America ,1.0,1.05,1.04,-5.795,-35.2089,877662.0
+311,Recife,Pernambuco,Brazil,South/Latin America ,1.09,1.05,1.29,-8.0539,-34.8808,1555039.0
+312,Darmstadt,Hesse,Germany,Europe ,1.55,1.05,3.07,49.8667,8.65,159207.0
+313,Barranquilla,Atlántico,Colombia,South/Latin America ,1.03,1.05,1.28,10.96,-74.8,1798000.0
+314,Dumaguete,,Philippines,,1.27,1.04,,,,
+315,Sao Paulo,São Paulo,Brazil,South/Latin America ,1.2,1.04,1.33,-23.5504,-46.6339,22046000.0
+316,Panama City,Panamá,Panama,South/Latin America ,1.94,1.03,3.1,9.0,-79.5,880691.0
+317,Quezon City,Quezon,Philippines,Asia & Pacific ,1.3,1.03,2.24,14.6333,121.0333,2936116.0
+318,Guangzhou,Guangdong,China,Asia & Pacific ,1.55,1.03,4.23,23.1288,113.259,20902000.0
+319,Dar es Salaam,Dar es Salaam,Tanzania,Africa ,0.63,1.03,1.83,-6.8,39.2833,6698000.0
+320,Guadalajara,Jalisco,Mexico,South/Latin America ,1.56,1.02,2.18,20.6767,-103.3475,5253000.0
+321,Augsburg,Bavaria,Germany,Europe ,1.7,1.02,3.33,48.3717,10.8983,295135.0
+322,Accra,Greater Accra,Ghana,Africa ,1.02,1.02,2.27,5.6037,-0.187,2291352.0
+323,Kampala,Kampala,Uganda,Africa ,0.87,1.02,2.35,0.3136,32.5811,1659600.0
+324,Oradea,Bihor,Romania,Europe ,0.65,1.02,1.82,47.0722,21.9211,196367.0
+325,Baku,Bakı,Azerbaijan,Asia & Pacific ,0.3,1.01,2.35,40.3667,49.8352,2181800.0
+326,Goiania,Goiás,Brazil,South/Latin America ,1.27,1.01,0.98,-16.6789,-49.2539,1393575.0
+327,Arad,Arad,Romania,Europe ,0.67,1.01,1.58,46.1667,21.3167,159074.0
+328,Cluj-Napoca,Cluj,Romania,Europe ,0.84,1.01,2.13,46.78,23.5594,324576.0
+329,Belo Horizonte,Minas Gerais,Brazil,South/Latin America ,1.25,1.0,1.04,-19.8917,-43.9478,5159000.0
+330,Gdynia,Pomorskie,Poland,Europe ,0.75,1.0,2.64,54.5189,18.5319,247672.0
+331,Buenos Aires,"Buenos Aires, Ciudad Autónoma de",Argentina,South/Latin America ,1.2,0.99,1.74,-34.5997,-58.3819,16157000.0
+332,Curitiba,Paraná,Brazil,South/Latin America ,1.13,0.99,1.17,-25.4297,-49.2719,1879355.0
+333,Kigali,Kigali,Rwanda,Africa ,1.09,0.99,2.29,-1.9536,30.0606,745261.0
+334,Florianopolis,Santa Catarina,Brazil,South/Latin America ,1.09,0.99,1.09,-27.5933,-48.553000000000004,477798.0
+335,Vladivostok,Primorskiy Kray,Russia,Europe ,0.59,0.98,1.75,43.1167,131.9,606589.0
+336,Alicante,Valencia,Spain,Europe ,1.11,0.98,2.04,38.3453,-0.4831,334887.0
+337,Murcia,Murcia,Spain,Europe ,1.47,0.98,1.73,37.9866,-1.1415,406807.0
+338,Campinas,São Paulo,Brazil,South/Latin America ,1.17,0.98,1.44,-22.9009,-47.0573,1164098.0
+339,Porto Alegre,Rio Grande do Sul,Brazil,South/Latin America ,1.03,0.98,1.33,-30.0328,-51.23,1484941.0
+340,Bratislava,Bratislavský,Slovakia,Europe ,1.22,0.97,2.65,48.1447,17.1128,429564.0
+341,Dortmund,North Rhine-Westphalia,Germany,Europe ,1.76,0.97,3.57,51.5139,7.4653,587010.0
+342,Erlangen,Bavaria,Germany,Europe ,1.81,0.97,4.1,49.5964,11.0044,111962.0
+343,Tunis,Tunis,Tunisia,Arab States ,0.12,0.97,0.83,36.8008,10.18,1200000.0
+344,Hangzhou,Zhejiang,China,Asia & Pacific ,1.6,0.96,3.89,30.25,120.1675,6446000.0
+345,Chengdu,Sichuan,China,Asia & Pacific ,1.55,0.96,4.06,30.6636,104.0667,11309000.0
+346,Iasi,Iaşi,Romania,Europe ,0.69,0.96,1.86,47.1622,27.5889,290422.0
+347,Fortaleza,Ceará,Brazil,South/Latin America ,1.09,0.95,1.1,-3.7275,-38.5275,2452185.0
+348,Essen,North Rhine-Westphalia,Germany,Europe ,1.29,0.95,3.36,51.4508,7.0131,583109.0
+349,Chisinau,Chişinău,Moldova,Europe ,0.39,0.95,1.4,47.0056,28.8575,685900.0
+350,Warsaw,Mazowieckie,Poland,Europe ,0.93,0.95,2.95,52.2167,21.0333,1790658.0
+351,Addis Ababa,Ādīs Ābeba,Ethiopia,Africa ,0.74,0.94,0.82,9.0272,38.7369,3041002.0
+352,Chelyabinsk,Chelyabinskaya Oblast’,Russia,Europe ,0.42,0.94,1.45,55.15,61.4,1202371.0
+353,Budapest,Budapest,Hungary,Europe ,0.87,0.93,1.71,47.4983,19.0408,1752286.0
+354,Szeged,Csongrád,Hungary,Europe ,0.82,0.93,1.39,46.25,20.1667,160766.0
+355,Krakow (Cracow),,Poland,,0.9,0.93,2.58,,,
+356,Astana (Nur-Sultan),,Kazakhstan,,0.38,0.92,1.89,,,
+357,Kosice,Košický,Slovakia,Europe ,1.16,0.92,2.24,48.7167,21.25,238593.0
+358,Poznan,Wielkopolskie,Poland,Europe ,0.88,0.92,2.63,52.4,16.9167,538633.0
+359,Tirana,Tiranë,Albania,Europe ,0.72,0.92,1.46,41.33,19.82,418495.0
+360,Sibiu,Sibiu,Romania,Europe ,0.98,0.92,2.0,45.8,24.15,147245.0
+361,Olomouc,,Czech Republic,,1.24,0.91,2.21,,,
+362,Gdansk,Pomorskie,Poland,Europe ,0.85,0.91,2.61,54.3667,18.6333,464254.0
+363,Palma de Mallorca,,Spain,,1.46,0.9,2.52,,,
+364,Skopje,,North Macedonia,,0.59,0.9,1.74,,,
+365,Bucharest,Bucureşti,Romania,Europe ,0.82,0.9,2.53,44.4,26.0833,1883425.0
+366,Burgas,Burgas,Bulgaria,Europe ,0.66,0.89,1.68,42.5,27.4667,226868.0
+367,Malaga,Andalusia,Spain,Europe ,1.14,0.89,1.86,36.7167,-4.4167,574654.0
+368,Beijing,Beijing,China,Asia & Pacific ,1.85,0.89,4.56,39.905,116.3914,19433000.0
+369,Lublin,Lubelskie,Poland,Europe ,0.68,0.89,2.31,51.2333,22.5667,339850.0
+370,Batumi,Ajaria,Georgia,Europe ,0.4,0.89,1.44,41.6458,41.6417,154600.0
+371,St. Petersburg,,Russia,,0.68,0.88,1.96,,,
+372,Prague,,Czech Republic,,1.22,0.88,2.64,,,
+373,Bogota,Bogotá,Colombia,South/Latin America ,0.89,0.88,1.29,4.6126,-74.0705,9464000.0
+374,Queretaro,Querétaro,Mexico,South/Latin America ,1.48,0.88,2.39,20.5875,-100.3928,804663.0
+375,Brasov,Braşov,Romania,Europe ,0.91,0.88,1.85,45.65,25.6,290743.0
+376,Puerto Vallarta,Jalisco,Mexico,South/Latin America ,1.57,0.87,2.45,20.6667,-105.2667,221200.0
+377,Salvador,Bahia,Brazil,South/Latin America ,0.96,0.87,1.07,-12.9708,-38.5108,2921087.0
+378,Tbilisi,Tbilisi,Georgia,Europe ,0.33,0.87,1.62,41.7225,44.7925,1118035.0
+379,Szczecin,Zachodniopomorskie,Poland,Europe ,0.77,0.87,2.2,53.4247,14.5553,403833.0
+380,Kaliningrad,Kaliningradskaya Oblast’,Russia,Europe ,0.58,0.87,1.47,54.7167,20.5,475056.0
+381,Moscow,Moskva,Russia,Europe ,0.58,0.87,2.26,55.7558,37.6178,17125000.0
+382,Brno,,Czech Republic,,1.14,0.86,2.36,,,
+383,Constanta,Constanţa,Romania,Europe ,0.61,0.86,2.38,44.1733,28.6383,283872.0
+384,Phnom Penh,Phnom Penh,Cambodia,Asia & Pacific ,1.44,0.86,2.25,11.5696,104.921,2129371.0
+385,Timisoara,Timiş,Romania,Europe ,0.78,0.86,2.02,45.7597,21.23,319279.0
+386,Irkutsk,Irkutskaya Oblast’,Russia,Europe ,0.51,0.86,1.7,52.2833,104.3,623736.0
+387,Rostov-na-donu,,Russia,,0.4,0.86,1.59,,,
+388,Sofia,Sofia-Grad,Bulgaria,Europe ,0.76,0.85,1.62,42.6975,23.3241,1355142.0
+389,Ho Chi Minh City,Hồ Chí Minh,Vietnam,Asia & Pacific ,0.8,0.85,2.01,10.8167,106.6333,13312000.0
+390,Wroclaw,Dolnośląskie,Poland,Europe ,0.88,0.85,2.75,51.1077,17.0353,638586.0
+391,Krasnoyarsk,Krasnoyarskiy Kray,Russia,Europe ,0.44,0.85,1.62,56.0167,92.8667,1083865.0
+392,Ulaanbaatar,Ulaanbaatar,Mongolia,Asia & Pacific ,0.58,0.84,2.2,47.9203,106.9172,1396288.0
+393,Asuncion,Asunción,Paraguay,South/Latin America ,0.51,0.84,1.77,-25.3,-57.6333,1870000.0
+394,Yerevan,Yerevan,Armenia,Europe ,0.47,0.84,1.98,40.1814,44.5144,1075800.0
+395,Rzeszow,Podkarpackie,Poland,Europe ,0.88,0.84,1.98,50.05,22.0,182548.0
+396,Minsk,Minsk,Belarus,Europe ,0.56,0.84,1.4,53.9022,27.5618,2020600.0
+397,Lagos,Lagos,Nigeria,Africa ,1.05,0.83,2.47,6.45,3.4,15279000.0
+398,Krasnodar,Krasnodarskiy Kray,Russia,Europe ,0.48,0.83,1.69,45.0333,38.9833,881476.0
+399,Saratov,Saratovskaya Oblast’,Russia,Europe ,0.43,0.82,1.35,51.5333,46.0,845300.0
+400,Lodz,Łódzkie,Poland,Europe ,0.78,0.82,2.27,51.7769,19.4547,690422.0
+401,Pristina,,Kosovo (Disputed Territory),,0.44,0.82,1.21,,,
+402,Novosibirsk,Novosibirskaya Oblast’,Russia,Europe ,0.42,0.82,1.72,55.0333,82.9167,1602915.0
+403,Volgograd,Volgogradskaya Oblast’,Russia,Europe ,0.39,0.81,1.44,48.7,44.4833,1015586.0
+404,Perm,Permskiy Kray,Russia,Europe ,0.36,0.81,1.52,58.0139,56.2489,1048005.0
+405,Bishkek,Bishkek,Kyrgyzstan,Asia & Pacific ,0.25,0.81,1.43,42.8667,74.5667,1027200.0
+406,Ploiesti,Prahova,Romania,Europe ,0.67,0.81,1.71,44.9386,26.0225,209945.0
+407,Ostrava,,Czech Republic,,1.16,0.8,2.09,,,
+408,Craiova,Dolj,Romania,Europe ,0.59,0.8,1.55,44.3333,23.8167,269506.0
+409,Voronezh,Voronezhskaya Oblast’,Russia,Europe ,0.51,0.79,1.61,51.6717,39.2106,1047549.0
+410,Plovdiv,Plovdiv,Bulgaria,Europe ,0.72,0.79,1.62,42.1433,24.7489,384088.0
+411,Seville (Sevilla),,Spain,,1.27,0.79,1.74,,,
+412,Shanghai,Shanghai,China,Asia & Pacific ,2.21,0.79,4.52,31.1667,121.4667,22120000.0
+413,Omsk,Omskaya Oblast’,Russia,Europe ,0.47,0.79,1.58,54.9667,73.3833,1178391.0
+414,Sarajevo,"Bosnia and Herzegovina, Federation of",Bosnia And Herzegovina,Europe ,0.65,0.78,1.6,43.8667,18.4167,275524.0
+415,Tyumen,Tyumenskaya Oblast’,Russia,Europe ,0.42,0.78,1.62,57.15,65.5333,744554.0
+416,Bucaramanga,Santander,Colombia,South/Latin America ,0.63,0.77,1.17,7.1186,-73.1161,581130.0
+417,Izhevsk,Udmurtiya,Russia,Europe ,0.39,0.77,1.21,56.85,53.2167,646277.0
+418,Nizhny Novgorod,,Russia,,0.46,0.77,2.05,,,
+419,Goa,,India,,0.51,0.76,2.25,,,
+420,Varna,Varna,Bulgaria,Europe ,0.66,0.75,1.5,43.2078,27.9169,369162.0
+421,Kazan,Tatarstan,Russia,Europe ,0.47,0.75,1.64,55.7908,49.1144,1243500.0
+422,Tomsk,Tomskaya Oblast’,Russia,Europe ,0.46,0.75,1.48,56.4886,84.9522,572740.0
+423,Katowice,Śląskie,Poland,Europe ,0.91,0.74,2.09,50.25,19.0,276499.0
+424,Samara,Samarskaya Oblast’,Russia,Europe ,0.45,0.73,1.74,53.1833,50.1167,1169719.0
+425,Yekaterinburg,Sverdlovskaya Oblast’,Russia,Europe ,0.42,0.73,1.55,56.8356,60.6128,1468833.0
+426,Belgrade,Beograd,Serbia,Europe ,0.52,0.73,1.86,44.8167,20.4667,1378682.0
+427,Odessa (Odesa),,Ukraine,,0.54,0.73,1.2,,,
+428,Hanoi,Hà Nội,Vietnam,Asia & Pacific ,0.71,0.73,1.66,21.0245,105.8412,7785000.0
+429,Kiev (Kyiv),,Ukraine,,0.59,0.72,1.21,,,
+430,Cali,Valle del Cauca,Colombia,South/Latin America ,0.89,0.72,1.35,3.44,-76.5197,2471474.0
+431,Al Marsa,,Tunisia,,0.18,0.72,1.28,,,
+432,Lviv,L’vivs’ka Oblast’,Ukraine,Europe ,0.54,0.72,1.2,49.8419,24.0315,724314.0
+433,Ufa,Bashkortostan,Russia,Europe ,0.48,0.71,1.47,54.7333,55.9667,1115560.0
+434,Novi Sad,Novi Sad,Serbia,Europe ,0.56,0.7,1.42,45.2644,19.8317,380000.0
+435,Ivano-Frankivsk,Ivano-Frankivs’ka Oblast’,Ukraine,Europe ,0.49,0.7,0.92,48.9228,24.7106,236602.0
+436,Tashkent,Toshkent,Uzbekistan,Asia & Pacific ,0.21,0.69,1.39,41.3,69.2667,2424100.0
+437,Kharkiv,Kharkivs’ka Oblast’,Ukraine,Europe ,0.51,0.69,1.19,50.0,36.2292,1446107.0
+438,Dnipro,Dnipropetrovs’ka Oblast’,Ukraine,Europe ,0.44,0.68,1.08,48.45,34.9833,983836.0
+439,Maputo,Maputo,Mozambique,Africa ,0.72,0.68,1.67,-25.9153,32.5764,1191613.0
+440,Vinnytsia,Vinnyts’ka Oblast’,Ukraine,Europe ,0.48,0.68,0.77,49.2372,28.4672,371855.0
+441,Ternopil,Ternopil’s’ka Oblast’,Ukraine,Europe ,0.46,0.68,0.97,49.5667,25.6,218653.0
+442,Zaporizhzhya,,Ukraine,,0.49,0.67,1.02,,,
+443,Sumy,Sums’ka Oblast’,Ukraine,Europe ,0.47,0.67,0.71,50.9068,34.7992,265758.0
+444,Lusaka,Lusaka,Zambia,Africa ,0.56,0.65,1.6,-15.4167,28.2833,1742979.0
+445,Da Nang,Đà Nẵng,Vietnam,Asia & Pacific ,,0.63,1.67,16.0748,108.22399999999999,
+446,Nis,Niš,Serbia,Europe ,0.48,0.62,1.26,43.3192,21.8961,183164.0
+447,Banja Luka,"Srpska, Republika",Bosnia And Herzegovina,Europe ,0.81,0.61,1.03,44.7667,17.1833,199191.0
+448,Almaty,Almaty,Kazakhstan,Asia & Pacific ,0.31,0.58,1.77,43.25,76.9,1806833.0
+449,Mykolaiv,Mykolayivs’ka Oblast’,Ukraine,Europe ,0.4,0.57,0.98,46.9667,32.0,498748.0
+450,Hamilton,Hamilton,Bermuda,North America ,6.81,,5.39,32.2942,-64.7839,52320.0
+451,Burnaby,British Columbia,Canada,North America ,3.03,,3.14,49.2667,-122.9667,232755.0
+452,Lugano,Ticino,Switzerland,Europe ,2.84,,4.21,46.0103,8.9625,63185.0
+453,Fredericton,New Brunswick,Canada,North America ,2.81,,3.23,45.9636,-66.6431,58220.0
+454,Kingston,,Canada,,2.77,,2.95,,,
+455,St. John's,Newfoundland and Labrador,Canada,North America ,2.66,,3.31,47.4817,-52.7971,108860.0
+456,North Vancouver,British Columbia,Canada,North America ,2.59,,3.85,49.3641,-123.0066,85935.0
+457,Red Deer,Alberta,Canada,North America ,2.32,,3.63,52.2681,-113.8111,100418.0
+458,Guelph,Ontario,Canada,North America ,2.3,,4.2,43.55,-80.25,131794.0
+459,Regina,Saskatchewan,Canada,North America ,2.27,,3.31,50.4547,-104.6067,215106.0
+460,Surrey,British Columbia,Canada,North America ,2.26,,3.7,49.19,-122.8489,517887.0
+461,Nanaimo,British Columbia,Canada,North America ,2.25,,3.27,49.1642,-123.9364,90504.0
+462,Darwin,Northern Territory,Australia,Asia & Pacific ,1.96,,3.98,-12.4381,130.8411,136828.0
+463,Antibes,Provence-Alpes-Côte d’Azur,France,Europe ,1.9,,3.16,43.5808,7.1239,72999.0
+464,Marseille,Provence-Alpes-Côte d’Azur,France,Europe ,1.88,,3.34,43.2964,5.37,870018.0
+465,Markham,Ontario,Canada,North America ,1.79,,2.97,43.8767,-79.2633,328966.0
+466,Coquitlam,British Columbia,Canada,North America ,1.7,,3.56,49.2839,-122.7919,139284.0
+467,Dundee,Dundee City,United Kingdom,Europe ,1.6,,3.78,56.461999999999996,-2.9707,148270.0
+468,Dunedin,Otago,New Zealand,Asia & Pacific ,1.56,,3.21,-45.8667,170.5,126255.0
+469,Macao,,Macao,,1.55,,4.2,,,
+470,Hamilton,Waikato,New Zealand,Asia & Pacific ,1.51,,3.56,-37.7833,175.2833,169300.0
+471,Stoke-on-Trent,Stoke-on-Trent,United Kingdom,Europe ,1.5,,3.8,53.0,-2.1833,372775.0
+472,York,York,United Kingdom,Europe ,1.49,,3.85,53.9583,-1.0803,153717.0
+473,Milton Keynes,Milton Keynes,United Kingdom,Europe ,1.44,,3.59,52.04,-0.76,229941.0
+474,Norwich,Norfolk,United Kingdom,Europe ,1.41,,3.03,52.63,1.297,213166.0
+475,Lincoln,Lincolnshire,United Kingdom,Europe ,1.39,,3.65,53.2344,-0.5386,97541.0
+476,Male,Maale,Maldives,Asia & Pacific ,1.36,,2.37,4.175,73.5083,133019.0
+477,Portsmouth,Portsmouth,United Kingdom,Europe ,1.36,,3.68,50.8058,-1.0872,855679.0
+478,Swansea,,United Kingdom,,1.35,,4.36,,,
+479,Al Ain,,United Arab Emirates,,1.21,,5.01,,,
+480,Davao,Davao,Philippines,Asia & Pacific ,1.19,,2.9,7.0667,125.6,1632991.0
+481,Peterborough,Peterborough,United Kingdom,Europe ,1.11,,4.29,52.5833,-0.25,82.0
+482,Bournemouth,Bournemouth,United Kingdom,Europe ,1.09,,3.96,50.72,-1.88,183491.0
+483,Kuwait City,Al ‘Āşimah,Kuwait,Middle East ,1.04,,4.71,29.375,47.98,637411.0
+484,Santa Cruz de Tenerife,,Spain,,0.98,,1.95,,,
+485,Sharjah,Ash Shāriqah,United Arab Emirates,Middle East ,0.93,,3.35,25.3575,55.3919,1400000.0
+486,Ad Dammam,Ash Sharqīyah,Saudi Arabia,Middle East ,0.92,,3.1,26.4333,50.1,903312.0
+487,Yogyakarta,Yogyakarta,Indonesia,Asia & Pacific ,0.91,,1.6,-7.8014,110.3644,422732.0
+488,Jeddah,Makkah al Mukarramah,Saudi Arabia,Middle East ,0.8,,3.19,21.5428,39.1728,3976000.0
+489,Abidjan,,Ivory Coast,,0.76,,2.46,,,
+490,Riyadh,Ar Riyāḑ,Saudi Arabia,Middle East ,0.74,,3.28,24.65,46.71,6881000.0
+491,Ajman,,United Arab Emirates,,0.71,,4.4,,,
+492,Dhaka,Dhaka,Bangladesh,Asia & Pacific ,0.64,,2.28,23.7161,90.3961,15443000.0
+493,Chittagong,,Bangladesh,,0.62,,1.91,,,
+494,Tehran,Tehrān,Iran,Middle East ,0.62,,1.97,35.7,51.4167,13633000.0
+495,Rajkot,Gujarāt,India,Asia & Pacific ,0.61,,1.49,22.2969,70.7984,1335397.0
+496,Surat,Gujarāt,India,Asia & Pacific ,0.61,,1.5,21.17,72.83,5807000.0
+497,Agadir,Souss-Massa,Morocco,Arab States ,0.54,,2.06,30.4167,-9.5833,421844.0
+498,Suva,Rewa,Fiji,Asia & Pacific ,0.53,,2.83,-18.1333,178.4333,88271.0
+499,Madurai,Tamil Nādu,India,Asia & Pacific ,0.52,,0.98,9.9197,78.1194,1561129.0
+500,Islamabad,Islāmābād,Pakistan,Asia & Pacific ,0.5,,1.51,33.6989,73.0369,1365000.0
+501,Lahore,Punjab,Pakistan,Asia & Pacific ,0.49,,1.85,31.5497,74.3436,11021000.0
+502,Rawalpindi,Punjab,Pakistan,Asia & Pacific ,0.47,,,33.6007,73.0679,2098231.0
+503,Karachi,Sindh,Pakistan,Asia & Pacific ,0.44,,1.65,24.86,67.01,14835000.0
+504,Calicut,Kerala,India,Asia & Pacific ,0.41,,0.74,11.25,75.7667,431560.0
+505,Kabul,Kābul,Afghanistan,Asia & Pacific ,0.39,,1.06,34.5328,69.1658,3678034.0
+506,Peshawar,Khyber Pakhtunkhwa,Pakistan,Asia & Pacific ,0.39,,,34.0,71.5,1970042.0
+507,Swindon,Swindon,United Kingdom,Europe ,,,3.94,51.56,-1.78,192599.0
+508,Tangier,Tanger-Tétouan-Al Hoceïma,Morocco,Arab States ,,,2.75,35.7847,-5.8125,947952.0
+509,Aguascalientes,Aguascalientes,Mexico,South/Latin America ,,,2.27,21.875999999999998,-102.296,934424.0
+0,Aarhus,Midtjylland,Denmark,Europe ,2.87,3.05,6.57,56.1572,10.2107,237551.0
+0,Mumbai,Mahārāshtra,India,Asia & Pacific ,0.45,2.21,2.29,18.9667,72.8333,23355000.0
+0,Tynemouth,North Tyneside,United Kingdom,Europe ,1.11,2.12,3.71,55.016999999999996,-1.423,67519.0
+0,Balikpapan,Kalimantan Timur,Indonesia,Asia & Pacific ,1.57,2.01,2.11,-1.1489,116.9031,598043.0
+0,Pattani,Pattani,Thailand,Asia & Pacific ,1.19,1.77,2.34,6.8664,101.2508,44234.0
+0,Bhubaneshwar,Odisha,India,Asia & Pacific ,0.54,1.63,1.09,20.2644,85.8281,837737.0
+0,Makati City,Makati,Philippines,Asia & Pacific ,,1.52,2.78,14.55,121.0333,582602.0
+0,Lucknow,Uttar Pradesh,India,Asia & Pacific ,0.46,1.51,1.68,26.846999999999998,80.947,3382000.0
+0,Erbil,Arbīl,Iraq,Middle East ,0.8,1.36,1.91,36.1911,44.0094,852500.0
+0,Cebu City,Cebu,Philippines,Asia & Pacific ,1.35,1.17,2.61,10.3,123.9,922611.0
+0,Zaragoza,Aragon,Spain,Europe ,1.34,1.15,1.79,41.6483,-0.883,649404.0
+0,Dumaguete City,Negros Oriental,Philippines,Asia & Pacific ,1.27,1.04,,9.3103,123.3081,131377.0
+0,Krakow,Małopolskie,Poland,Europe ,0.9,0.93,2.58,50.0614,19.9372,766739.0
+0,Nur-Sultan,Astana,Kazakhstan,Asia & Pacific ,0.38,0.92,1.89,51.1333,71.4333,1078362.0
+0,Lorca,Murcia,Spain,Europe ,1.46,0.9,2.52,37.6833,-1.7,94404.0
+0,Sevilla,Andalusia,Spain,Europe ,1.27,0.79,1.74,37.3828,-5.9731,1212045.0
+0,Odesa,Odes’ka Oblast’,Ukraine,Europe ,0.54,0.73,1.2,46.4775,30.7326,1010783.0
+0,Kyiv,"Kyyiv, Misto",Ukraine,Europe ,0.59,0.72,1.21,50.45,30.5236,2967000.0
+0,Zaporizhzhia,Zaporiz’ka Oblast’,Ukraine,Europe ,0.49,0.67,1.02,47.8378,35.1383,741717.0
+0,Kingsville,Ontario,Canada,North America ,2.77,,2.95,42.1,-82.7167,21552.0
+0,Aarhus,Midtjylland,Denmark,Europe ,2.87,3.05,6.57,56.1572,10.2107,237551.0
+0,Mumbai,Mahārāshtra,India,Asia & Pacific ,0.45,2.21,2.29,18.9667,72.8333,23355000.0
+0,Tynemouth,North Tyneside,United Kingdom,Europe ,1.11,2.12,3.71,55.016999999999996,-1.423,67519.0
+0,Balikpapan,Kalimantan Timur,Indonesia,Asia & Pacific ,1.57,2.01,2.11,-1.1489,116.9031,598043.0
+0,Pattani,Pattani,Thailand,Asia & Pacific ,1.19,1.77,2.34,6.8664,101.2508,44234.0
+0,Bhubaneshwar,Odisha,India,Asia & Pacific ,0.54,1.63,1.09,20.2644,85.8281,837737.0
+0,Makati City,Makati,Philippines,Asia & Pacific ,,1.52,2.78,14.55,121.0333,582602.0
+0,Lucknow,Uttar Pradesh,India,Asia & Pacific ,0.46,1.51,1.68,26.846999999999998,80.947,3382000.0
+0,Erbil,Arbīl,Iraq,Middle East ,0.8,1.36,1.91,36.1911,44.0094,852500.0
+0,Cebu City,Cebu,Philippines,Asia & Pacific ,1.35,1.17,2.61,10.3,123.9,922611.0
+0,Zaragoza,Aragon,Spain,Europe ,1.34,1.15,1.79,41.6483,-0.883,649404.0
+0,Dumaguete City,Negros Oriental,Philippines,Asia & Pacific ,1.27,1.04,,9.3103,123.3081,131377.0
+0,Krakow,Małopolskie,Poland,Europe ,0.9,0.93,2.58,50.0614,19.9372,766739.0
+0,Nur-Sultan,Astana,Kazakhstan,Asia & Pacific ,0.38,0.92,1.89,51.1333,71.4333,1078362.0
+0,Lorca,Murcia,Spain,Europe ,1.46,0.9,2.52,37.6833,-1.7,94404.0
+0,Sevilla,Andalusia,Spain,Europe ,1.27,0.79,1.74,37.3828,-5.9731,1212045.0
+0,Odesa,Odes’ka Oblast’,Ukraine,Europe ,0.54,0.73,1.2,46.4775,30.7326,1010783.0
+0,Kyiv,"Kyyiv, Misto",Ukraine,Europe ,0.59,0.72,1.21,50.45,30.5236,2967000.0
+0,Zaporizhzhia,Zaporiz’ka Oblast’,Ukraine,Europe ,0.49,0.67,1.02,47.8378,35.1383,741717.0
+0,Kingsville,Ontario,Canada,North America ,2.77,,2.95,42.1,-82.7167,21552.0
