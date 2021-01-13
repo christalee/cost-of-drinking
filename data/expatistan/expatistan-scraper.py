@@ -2,14 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 import json
+import csv
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG, filename='logs.txt')
 
 def make_soup(url):
     ''' get HTML for each location '''
-    request = requests.get(url, params={'currency': 'USD'})
+    request = requests.get(f'{url}?currency=USD')
+                           # , params={'currency': 'USD'})
     if request.status_code == 200:
-        # logging.debug(f'status code for {url} is {request.status_code}')
+        logging.info(f'{request.url}')
         soup = BeautifulSoup(request.content, 'lxml')
         return soup
 
@@ -21,16 +23,35 @@ def scrape_city_data(soup):
     for i in table_data:
         try:
             if 'Cappuccino' in i.text or 'beer' in i.text:
-                logging.debug(f'i: {i}')
-                logging.debug(f'i find a: {i.find("a")}')
+                # logging.debug(f'i: {i}')
+                # logging.debug(f'i find a: {i.find("a")}')
                 item = i.find('a').text.strip()
                 price = i.find('td', class_='price city-1').text.strip()
+                logging.debug(f'price {price}')
                 city_price_data[item] = price
         except AttributeError:
             pass
     return city_price_data
 
-def scrape_expatistan_locations():
+def scrape_usd_city_data(soup):
+    ''' get coffee and beer data from each location and store in dict '''
+    city_price_data = {}
+    table_data = soup.table.find_all('tr')
+    for i in table_data:
+        try:
+            if 'Cappuccino' in i.text or 'beer' in i.text:
+                # logging.debug(f'i: {i}')
+                # logging.debug(f'i find a: {i.find("a")}')
+                item = i.find('a').text.strip()
+                price = i.find_all('td', class_='price city-1')
+                # logging.debug(f'price {price}')
+                city_price_data[item] = [x.text.strip() for x in price]
+                # logging.debug(f' city price data: {city_price_data}')
+        except:
+            pass
+    return city_price_data
+
+def scrape_all_expatistan_locations():
     ''' grab all location urls from expatistan '''
     url = 'https://www.expatistan.com/cost-of-living/all-cities'
     soup = make_soup(url)
@@ -42,20 +63,42 @@ def scrape_expatistan_locations():
 
 def write_city_data(data):
     ''' write city data to json file '''
-    with open('expatistan-data.json', 'w') as f:
+    with open('data/expatistan/expatistan-data.json5', 'a') as f:
         json.dump(data, f)
+        json.dump(',', f)
 
-if __name__ == "__main__":
-    cities, urls = scrape_expatistan_locations() # 3266 total pages
-    # scraping the first 11 for testing
-    cities = cities[0:10]
-    urls = urls[0:10]
+def scrape():
+    # cities, urls = scrape_all_expatistan_locations() # 3266 total pages
+    # with open('city-urls.txt', 'w') as f:
+    #     for i in range(len(cities)):
+    #         f.write(f'{cities[i]} \t {urls[i]}\n')
+
+    cities = []
+    urls = []
+    with open('data/expatistan/expatistan-numbeo-crossover.csv') as f:
+        reader = csv.reader(f, delimiter='\t')
+        header = next(reader, None)
+        for row in reader:
+            city, url = row
+            cities.append(city)
+            urls.append(url)
+
     locations_html = map(make_soup, urls)
-    city_data = list(map(scrape_city_data, locations_html))
+    city_data = list(map(scrape_usd_city_data, locations_html))
     all_city_data = dict(zip(cities, list(city_data)))
     write_city_data(all_city_data)
     print(all_city_data)
-    # TODO: write scraper for USD column
-    # TODO: determine which locations to pull
-    # TODO: distinguish countries from cities
 
+def scrape_in_chunks():
+    with open('data/expatistan/expatistan-numbeo-crossover.csv') as f:
+        reader = csv.reader(f, delimiter='\t')
+        header = next(reader, None)
+        for row in reader:
+            city, url = row
+            html = make_soup(url)
+            city_data = scrape_usd_city_data(html)
+            data_to_write = {city: city_data}
+            write_city_data(data_to_write)
+
+if __name__ == "__main__":
+    scrape_in_chunks()
