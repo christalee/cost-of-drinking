@@ -11,10 +11,12 @@
 - Sourced cappuccino data
 
 ## Expatistan Data Set
-- Data sourced from [Expatistan](https://www.expatistan.com/) dataset
-- Sourced beer data based on 500 mL serving size from a pub
-- Sourced beer data from local supermarket
-- Sourced cappuccino data
+- Data sourced from [Expatistan](https://www.expatistan.com/) dataset January 2021
+- Sourced below data points:
+  - Bread for 2 people for 1 day
+  - Cappuccino in expat area of the city
+  -	1 beer in neighbourhood pub (500ml or 1pt.) 
+  - 0.5 l (16 oz) domestic beer in the supermarket
 
 ## Numbeo Data Set
 - Data gathered January 2021 on [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114), [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15), [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
