@@ -7,7 +7,13 @@
 
 ## Deutsche Bank Data Set
 - Data sourced from [Mapping the World Prices 2019](https://www.dbresearch.com/PROD/RPS_EN-PROD/Mapping_the_world_prices_2019/RPS_EN_DOC_VIEW.calias?rwnode=PROD0000000000436748&ProdCollection=PROD0000000000505140) dataset
-- Sourced beer data based on 500 mL serving size
+- Sourced beer data based on 500 mL serving size from a pub
+- Sourced cappuccino data
+
+## Expatistan Data Set
+- Data sourced from [Expatistan](https://www.expatistan.com/) dataset
+- Sourced beer data based on 500 mL serving size from a pub
+- Sourced beer data from local supermarket
 - Sourced cappuccino data
 
 ## Numbeo Data Set
