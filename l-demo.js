@@ -14,21 +14,65 @@ const circle = L.circle([51.508, -0.11], {
   radius: 1000
 }).addTo(mymap);
 
+const markers = new Array();
 const mark = function (coords) {
   const c = L.circle(coords, {
     color: 'red',
     fillColor: 'red',
     radius: 1000
-  }).addTo(mymap);
+  });
 
-  return c;
+  markers.push(c);
 }
 
 const locations = new Array();
-for (x = 0; x <= 50; x += 1) {
+for (x = 0; x <= 100; x += 1) {
   locations[x] = [Math.random() * 10, Math.random() * 10];
 }
 locations.forEach(mark);
+
+function between(marker, bounds) {
+  lat = [bounds.getSouth(), bounds.getNorth()];
+  lng = [bounds.getWest(), bounds.getEast()];
+  m_latlng = marker.getLatLng();
+  if (m_latlng.lat >= lat[0] && m_latlng.lat <= lat[1] && m_latlng.lng >= lng[0] &&
+    m_latlng.lng <= lng[1]) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+function onMapZoom(e) {
+  bounds = mymap.getBounds();
+  // console.log(bounds);
+  inbounds = new Array();
+  for (let m of markers) {
+    m.remove()
+    if (between(m, bounds)) {
+      inbounds.push(m);
+    }
+  }
+  for (let x of inbounds.slice(0, 10)) {
+    x.addTo(mymap);
+  }
+}
+
+mymap.on("load", onMapZoom);
+mymap.on("zoomend", onMapZoom);
+mymap.on("moveend", onMapZoom);
+
+fetch('http://localhost:8000/Seoul.html', {
+  mode: 'same-origin'
+}).then(response => {
+  return response.text();
+}).then(data => {
+  circle.bindPopup(data, {
+    minWidth: 400
+  });
+});
+
+// console.log(html2);
 
 const html =
   `<!DOCTYPE html>
@@ -66,6 +110,7 @@ const html =
   </script>
 </body>
 </html>`
-circle.bindPopup(html, {
-  minWidth: 120
-})
+
+// circle.bindPopup(html, {
+//   minWidth: 400
+// })
