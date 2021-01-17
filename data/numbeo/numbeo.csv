@@ -1,616 +1,621 @@
-,city_ascii,beer,bread,coffee,country
-0,Doha,8.51,1.45,4.63,Qatar
-1,Amman,5.3,0.41,4.14,Jordan
-2,Newcastle,4.7,1.67,3.52,Australia
-3,Muscat,4.66,1.08,4.61,Oman
-4,Melbourne,4.57,2.34,3.4,Australia
-5,Adelaide,4.54,2.1,3.31,Australia
-6,Trondheim,4.52,3.66,5.21,Norway
-7,Brisbane,4.5,2.12,3.55,Australia
-8,Canberra,4.26,2.57,3.45,Australia
-9,Sydney,4.09,2.05,3.27,Australia
-10,Singapore,3.94,1.74,4.19,Singapore
-11,Stavanger,3.93,3.8,5.3,Norway
-12,Tromso,3.92,2.63,5.68,Norway
-13,Dubai,3.9,1.35,5.09,United Arab Emirates
-14,Auckland,3.87,2.2,3.59,New Zealand
-15,Bergen,3.8,2.82,5.49,Norway
-16,Perth,3.76,2.22,3.58,Australia
-17,Oslo,3.73,3.53,5.15,Norway
-18,Richmond,3.71,2.63,4.54,United States
-19,Halifax,3.67,2.37,3.33,Canada
-20,Abu Dhabi,3.59,1.28,4.94,United Arab Emirates
-21,Turku,3.48,1.89,4.19,Finland
-22,Fort Collins,3.47,2.93,4.29,United States
-23,Johor Bahru,3.46,0.75,2.96,Malaysia
-24,Helsinki,3.46,2.69,4.94,Finland
-25,Hobart,3.44,1.93,3.59,Australia
-26,Dublin,3.43,1.81,4.15,Ireland
-27,Cork,3.41,2.29,3.84,Ireland
-28,Belfast,3.4,1.33,3.6,United Kingdom
-29,Boston,3.37,3.16,4.31,United States
-30,Wellington,3.33,2.03,3.41,New Zealand
-31,New York,3.29,3.78,4.82,United States
-32,Tel Aviv-Yafo,3.29,2.39,4.21,Israel
-33,Philadelphia,3.26,2.83,3.92,United States
-34,Reykjavik,3.26,3.66,4.61,Iceland
-35,Tokyo,3.25,2.16,3.77,Japan
-36,Lausanne,3.21,3.37,4.99,Switzerland
-37,San Jose,3.2,3.22,4.66,United States
-38,Limerick,3.06,1.9,3.79,Ireland
-39,Arhus,3.05,2.87,6.57,Denmark
-40,Colorado Springs,3.04,2.54,4.83,United States
-41,Raleigh,3.04,2.78,4.29,United States
-42,Gold Coast,3.02,2.42,3.65,Australia
-43,Galway,3.01,1.74,3.78,Ireland
-44,Leeds,2.99,1.2,3.89,United Kingdom
-45,Manama,2.99,1.25,4.69,Bahrain
-46,Luxembourg,2.99,2.94,4.11,Luxembourg
-47,Petaling Jaya,2.97,0.95,2.87,Malaysia
-48,Manchester,2.97,1.37,3.81,United Kingdom
-49,Dallas,2.96,2.72,4.14,United States
-50,Espoo,2.95,2.6,4.91,Finland
-51,Aberdeen,2.94,1.23,3.64,United Kingdom
-52,San Diego,2.92,3.7,4.27,United States
-53,Calgary,2.91,2.0,3.43,Canada
-54,Saskatoon,2.91,2.21,3.49,Canada
-55,Vancouver,2.91,2.52,3.47,Canada
-56,Winnipeg,2.9,1.93,3.66,Canada
-57,Haifa,2.9,2.24,3.77,Israel
-58,Victoria,2.88,2.69,3.57,Canada
-59,Surabaya,2.87,1.19,2.28,Indonesia
-60,Fresno,2.85,1.85,4.61,United States
-61,Portland,2.85,3.03,4.16,United States
-62,Cambridge,2.79,1.57,3.9,United Kingdom
-63,San Francisco,2.78,3.9,4.69,United States
-64,Grenoble,2.77,1.64,3.6,France
-65,Denver,2.77,2.7,4.62,United States
-66,Dubrovnik,2.75,1.69,3.54,Croatia
-67,New Orleans,2.75,3.25,5.08,United States
-68,Oxford,2.75,1.19,4.05,United Kingdom
-69,Sheffield,2.75,1.28,3.73,United Kingdom
-70,Jerusalem,2.74,1.65,3.76,Israel
-71,London,2.73,1.38,4.03,United Kingdom
-72,Miami,2.73,2.92,4.26,United States
-73,Casablanca,2.72,0.81,1.8,Morocco
-74,Oulu,2.72,2.06,3.66,Finland
-75,Omaha,2.72,2.44,4.57,United States
-76,Brooklyn,2.72,3.56,4.32,United States
-77,Paris,2.71,2.23,4.47,France
-78,Jakarta,2.71,1.24,2.23,Indonesia
-79,Nantes,2.7,1.36,3.22,France
-80,Detroit,2.69,2.32,4.7,United States
-81,Quebec City,2.69,2.38,3.1,Canada
-82,Atlanta,2.68,2.72,4.2,United States
-83,Los Angeles,2.68,3.75,4.69,United States
-84,San Antonio,2.68,2.4,4.13,United States
-85,Nassau,2.67,3.35,4.5,Bahamas
-86,Seattle,2.67,3.51,4.75,United States
-87,Tampere,2.66,2.37,4.37,Finland
-88,Toronto,2.66,2.23,3.56,Canada
-89,Edmonton,2.65,2.06,3.57,Canada
-90,Christchurch,2.65,1.7,3.43,New Zealand
-91,Osaka,2.64,1.88,3.65,Japan
-92,Tampa,2.64,2.95,3.93,United States
-93,Buffalo,2.63,2.11,3.63,United States
-94,Bristol,2.63,1.52,3.79,United Kingdom
-95,Jacksonville,2.63,2.96,4.06,United States
-96,Oakland,2.61,3.77,4.33,United States
-97,Honolulu,2.57,4.66,5.33,United States
-98,Kuala Lumpur,2.55,0.8,2.87,Malaysia
-99,London,2.54,1.97,3.45,Canada
-100,Brampton,2.53,1.83,2.65,Canada
-101,St. Paul,2.53,2.75,4.25,United States
-102,Washington,2.51,2.96,4.69,United States
-103,Montpellier,2.49,1.74,3.31,France
-104,Gent,2.48,1.94,3.53,Belgium
-105,Uppsala,2.47,2.92,4.11,Sweden
-106,Mississauga,2.46,2.22,2.84,Canada
-107,Baltimore,2.46,2.21,3.88,United States
-108,Exeter,2.46,1.19,3.39,United Kingdom
-109,Indianapolis,2.46,2.07,3.52,United States
-110,Nagoya,2.45,2.06,3.99,Japan
-111,Reading,2.45,1.64,3.37,United Kingdom
-112,Penang,2.45,1.11,2.94,Malaysia
-113,Seoul,2.44,2.76,4.34,South Korea
-114,Columbus,2.42,2.41,4.04,United States
-115,Chicago,2.41,3.06,4.24,United States
-116,Edinburgh,2.4,1.37,3.7,United Kingdom
-117,Glasgow,2.4,1.16,3.81,United Kingdom
-118,Kitchener,2.39,2.21,2.93,Canada
-119,Charlotte,2.39,2.77,4.33,United States
-120,Houston,2.38,2.54,4.07,United States
-121,Ann Arbor,2.38,2.14,4.04,United States
-122,Basel,2.37,3.14,5.68,Switzerland
-123,Montreal,2.34,2.74,3.01,Canada
-124,Liverpool,2.34,1.28,3.67,United Kingdom
-125,Beirut,2.33,1.04,5.11,Lebanon
-126,La Paz,2.32,1.09,2.63,Bolivia
-127,St. Louis,2.32,1.99,4.53,United States
-128,Nashville,2.32,2.7,4.62,United States
-129,Plymouth,2.31,1.36,3.55,United Kingdom
-130,Rennes,2.3,1.46,3.27,France
-131,Strasbourg,2.3,1.37,3.11,France
-132,Leicester,2.3,1.32,3.48,United Kingdom
-133,Louisville,2.3,1.89,4.88,United States
-134,Minneapolis,2.3,2.98,4.37,United States
-135,Cardiff,2.28,1.52,3.71,United Kingdom
-136,Gothenburg,2.27,2.99,4.83,Sweden
-137,Kathmandu,2.27,0.54,1.75,Nepal
-138,Lyon,2.27,1.46,3.72,France
-139,Birmingham,2.27,1.35,3.61,United Kingdom
-140,Geneva,2.26,3.22,4.99,Switzerland
-141,Ottawa,2.26,2.37,3.36,Canada
-142,Vadodara,2.23,0.5,1.46,India
-143,Antwerp,2.23,2.24,3.48,Belgium
-144,Kelowna,2.22,2.19,3.51,Canada
-145,Salt Lake City,2.22,2.66,4.43,United States
-146,Sliema,2.22,1.7,2.93,Malta
-147,Navi Mumbai,2.21,0.45,2.29,India
-148,Patna,2.21,0.44,1.62,India
-149,Toulouse,2.19,1.81,3.21,France
-150,Nottingham,2.19,1.15,3.51,United Kingdom
-151,Indore,2.17,0.45,1.45,India
-152,Lexington,2.16,2.36,4.42,United States
-153,Tucson,2.15,2.42,4.67,United States
-154,Brighton,2.15,1.43,3.89,United Kingdom
-155,Mumbai,2.15,0.5,2.15,India
-156,Stockholm,2.13,2.7,4.76,Sweden
-157,Heraklion,2.13,1.13,3.39,Greece
-158,Raipur,2.13,0.32,1.37,India
-159,Newcastle upon Tyne,2.12,1.11,3.71,United Kingdom
-160,Marrakech,2.11,0.97,2.07,Morocco
-161,Pune,2.11,0.48,1.83,India
-162,Aalborg,2.1,3.16,7.08,Denmark
-163,San Juan,2.09,2.31,2.88,Puerto Rico
-164,Ahmedabad,2.08,0.53,1.69,India
-165,San Jose,2.06,1.43,2.55,Costa Rica
-166,Coventry,2.06,1.34,3.72,United Kingdom
-167,Memphis,2.06,1.85,4.86,United States
-168,Southampton,2.06,1.47,3.69,United Kingdom
-169,Zurich,2.05,3.18,5.65,Switzerland
-170,Sacramento,2.05,3.51,4.53,United States
-171,Rabat,2.04,0.62,1.65,Morocco
-172,Hamilton,2.04,2.21,2.97,Canada
-173,Bergamo,2.04,2.22,1.76,Italy
-174,Derby,2.03,1.46,3.48,United Kingdom
-175,Parma,2.02,1.84,1.81,Italy
-176,Kolkata,2.02,0.36,1.77,India
-177,Windsor,2.01,2.15,3.27,Canada
-178,Bali,2.01,1.57,2.11,Indonesia
-179,Thane,2.01,0.44,1.88,India
-180,Santo Domingo,2.0,1.61,1.75,Dominican Republic
-181,Chennai,2.0,0.5,1.99,India
-182,Bandung,2.0,1.28,1.81,Indonesia
-183,Copenhagen,1.99,3.46,6.52,Denmark
-184,Nice,1.99,1.49,4.2,France
-185,Genoa,1.99,2.2,1.57,Italy
-186,Nagpur,1.98,0.36,1.9,India
-187,Bern,1.97,2.23,5.18,Switzerland
-188,Lille,1.96,1.89,3.73,France
-189,Austin,1.96,2.27,3.95,United States
-190,Tacoma,1.96,3.56,4.03,United States
-191,Albany,1.96,2.6,3.82,United States
-192,Chandigarh,1.95,0.51,1.95,India
-193,Milan,1.95,2.25,1.98,Italy
-194,Bhopal,1.95,0.45,1.41,India
-195,Kansas City,1.94,2.19,4.32,United States
-196,Valletta,1.94,1.31,2.95,Malta
-197,Reno,1.94,2.92,4.57,United States
-198,Des Moines,1.93,2.8,3.98,United States
-199,Malmo,1.93,2.62,5.14,Sweden
-200,Bangkok,1.93,1.35,2.23,Thailand
-201,Gurgaon,1.93,0.55,2.19,India
-202,Boise,1.89,2.61,4.51,United States
-203,Lund,1.88,3.01,4.33,Sweden
-204,Madison,1.88,3.3,3.89,United States
-205,Phoenix,1.88,2.4,4.15,United States
-206,Bangalore,1.88,0.55,1.76,India
-207,Brussels,1.88,2.05,3.87,Belgium
-208,Las Vegas,1.87,2.63,4.47,United States
-209,Berkeley,1.85,3.83,4.04,United States
-210,Orlando,1.84,2.85,4.41,United States
-211,Nairobi,1.84,0.47,2.64,Kenya
-212,Odense,1.83,3.29,6.24,Denmark
-213,Hong Kong,1.83,1.94,4.75,Hong Kong
-214,El Paso,1.82,2.27,3.61,United States
-215,Patras,1.82,0.97,3.38,Greece
-216,Taipei,1.82,1.98,3.46,Taiwan
-217,Bologna,1.81,2.58,1.75,Italy
-218,Istanbul,1.8,0.39,1.89,Turkey
-219,Cincinnati,1.8,2.44,4.15,United States
-220,Hyderabad,1.8,0.54,1.57,India
-221,Ankara,1.79,0.38,1.8,Turkey
-222,Vijayawada,1.79,0.54,1.78,India
-223,Chiang Mai,1.78,1.42,2.07,Thailand
-224,Ghaziabad,1.78,0.48,1.73,India
-225,Guwahati,1.78,0.4,1.54,India
-226,Pattaya,1.77,1.19,2.34,Thailand
-227,Kochi,1.77,0.54,1.35,India
-228,Noida,1.77,0.48,1.97,India
-229,Kaohsiung,1.75,2.55,2.86,Taiwan
-230,Izmir,1.74,0.34,1.73,Turkey
-231,Verona,1.74,1.98,1.85,Italy
-232,Port of Spain,1.73,1.79,3.83,Trinidad And Tobago
-233,Cairo,1.73,0.65,2.1,Egypt
-234,Phuket,1.73,1.72,2.66,Thailand
-235,Antalya,1.72,0.31,1.66,Turkey
-236,Thessaloniki,1.72,1.01,3.82,Greece
-237,Santa Cruz,1.71,1.5,2.71,Bolivia
-238,Bursa,1.71,0.34,1.7,Turkey
-239,Kingston,1.71,2.05,2.45,Jamaica
-240,Rijeka,1.7,1.44,1.79,Croatia
-241,Tartu,1.7,1.07,3.68,Estonia
-242,Athens,1.69,0.97,3.81,Greece
-243,Colombo,1.69,0.38,2.33,Sri Lanka
-244,Linz,1.68,2.38,4.01,Austria
-245,Charleston,1.67,2.78,4.83,United States
-246,Florence,1.66,1.92,1.58,Italy
-247,Harare,1.66,1.15,2.77,Zimbabwe
-248,Paramaribo,1.65,1.55,2.66,Suriname
-249,Montevideo,1.64,1.99,2.58,Uruguay
-250,Cape Town,1.64,0.95,1.91,South Africa
-251,Tallinn,1.63,0.98,3.38,Estonia
-252,Bhubaneswar,1.63,0.54,1.09,India
-253,Coimbatore,1.63,0.47,1.36,India
-254,Naples,1.61,1.58,1.53,Italy
-255,Mysore,1.61,0.37,1.5,India
-256,Nicosia,1.6,2.21,3.99,Cyprus
-257,Delhi,1.6,0.46,1.88,India
-258,Gaborone,1.59,0.94,2.94,Botswana
-259,Jaipur,1.59,0.43,1.64,India
-260,Spokane,1.58,2.6,4.48,United States
-261,Algiers,1.57,0.13,0.66,Algeria
-262,Lima,1.56,1.69,2.46,Peru
-263,Padova,1.55,1.77,1.7,Italy
-264,Alexandria,1.54,0.46,1.72,Egypt
-265,Ranchi,1.54,0.42,1.58,India
-266,Visakhapatnam,1.54,0.55,1.48,India
-267,Kingston upon Hull,1.53,1.33,3.81,United Kingdom
-268,Makati,1.52,,2.78,Philippines
-269,Rome,1.52,2.28,1.57,Italy
-270,Amsterdam,1.52,2.18,4.09,Netherlands
-271,Pretoria,1.51,0.96,1.88,South Africa
-272,Lucknow (Lakhnau),1.51,0.46,1.68,India
-273,Brescia,1.5,3.28,1.97,Italy
-274,Trieste,1.5,2.42,1.91,Italy
-275,Kaunas,1.5,1.11,2.86,Lithuania
-276,Turin,1.49,1.92,1.72,Italy
-277,Riga,1.48,1.1,3.25,Latvia
-278,Johannesburg,1.48,0.96,1.86,South Africa
-279,Guatemala City,1.48,2.22,2.12,Guatemala
-280,Quito,1.47,1.69,2.4,Ecuador
-281,Cagliari,1.46,1.92,1.57,Italy
-282,Eindhoven,1.46,1.96,3.63,Netherlands
-283,Utrecht,1.46,2.14,3.89,Netherlands
-284,Zagreb,1.45,1.13,1.89,Croatia
-285,Limassol,1.45,2.06,3.76,Cyprus
-286,Larnaca,1.44,2.0,3.9,Cyprus
-287,Breda,1.44,2.25,3.12,Netherlands
-288,Delft,1.44,2.17,3.51,Netherlands
-289,Haarlem,1.44,2.12,3.59,Netherlands
-290,San Salvador,1.43,1.88,2.72,El Salvador
-291,Leiden,1.43,2.17,3.37,Netherlands
-292,Maastricht,1.43,2.14,3.59,Netherlands
-293,Nijmegen,1.43,2.14,3.18,Netherlands
-294,Guayaquil,1.41,1.53,2.18,Ecuador
-295,Thiruvananthapuram,1.4,0.44,1.43,India
-296,Havana,1.4,0.78,1.49,Cuba
-297,Groningen,1.4,2.13,3.73,Netherlands
-298,The Hague (Den Haag),1.39,2.3,3.32,Netherlands
-299,Cancun,1.39,1.55,2.39,Mexico
-300,Rotterdam,1.39,2.11,3.56,Netherlands
-301,Barcelona,1.37,1.65,2.24,Spain
-302,Enschede,1.37,2.2,3.35,Netherlands
-303,Porto,1.37,1.38,1.84,Portugal
-304,Vilnius,1.36,1.11,2.85,Lithuania
-305,Erbil (Irbil),1.36,0.8,1.91,Iraq
-306,Damascus,1.36,0.84,1.46,Syria
-307,Split,1.34,1.19,1.96,Croatia
-308,Graz,1.34,2.71,3.76,Austria
-309,Dresden,1.33,2.59,2.81,Germany
-310,Santiago,1.32,1.43,3.06,Chile
-311,Ljubljana,1.31,1.44,2.01,Slovenia
-312,Catania,1.31,1.26,1.69,Italy
-313,Paphos,1.31,1.23,3.14,Cyprus
-314,Zadar,1.3,1.25,1.93,Croatia
-315,Bari,1.29,1.32,1.52,Italy
-316,Klaipeda,1.29,0.79,2.6,Lithuania
-317,Lisbon,1.28,1.3,2.0,Portugal
-318,Zapopan,1.27,1.61,2.32,Mexico
-319,Funchal,1.27,1.68,1.81,Portugal
-320,Leuven,1.23,2.07,3.68,Belgium
-321,Madrid,1.23,1.2,2.38,Spain
-322,Durban,1.23,0.98,1.81,South Africa
-323,Osijek,1.22,0.89,1.52,Croatia
-324,Frankfurt,1.21,1.45,3.43,Germany
-325,Manila,1.21,1.27,2.65,Philippines
-326,Maribor,1.2,1.08,1.99,Slovenia
-327,Valencia,1.2,1.02,2.09,Spain
-328,Heidelberg,1.2,1.68,3.65,Germany
-329,Salzburg,1.2,2.32,3.94,Austria
-330,Palermo,1.19,1.24,1.78,Italy
-331,Vienna,1.19,2.07,4.02,Austria
-332,Berlin,1.18,1.65,3.54,Germany
-333,Munich,1.18,2.16,3.82,Germany
-334,Braga,1.18,1.11,1.55,Portugal
-335,Mexico City,1.17,1.59,2.26,Mexico
-336,Monterrey,1.17,1.75,2.58,Mexico
-337,Puebla,1.17,1.4,2.12,Mexico
-338,Yangon,1.17,0.92,2.27,Myanmar
-339,Bremen,1.17,1.6,3.59,Germany
-340,Leipzig,1.17,1.42,3.37,Germany
-341,Cebu,1.17,1.35,2.61,Philippines
-342,Baghdad,1.17,0.72,1.48,Iraq
-343,Merida,1.16,1.41,2.44,Mexico
-344,Nuremberg,1.16,1.56,3.43,Germany
-345,Zaragoza (Saragossa),1.15,1.34,1.79,Spain
-346,Hanover,1.15,1.12,3.18,Germany
-347,Coimbra,1.15,,1.61,Portugal
-348,Podgorica,1.14,0.66,1.84,Montenegro
-349,Hamburg,1.14,1.97,3.6,Germany
-350,Boulder,1.14,3.91,4.52,United States
-351,Cuenca,1.14,1.7,2.09,Ecuador
-352,Aveiro,1.14,1.48,1.18,Portugal
-353,Tijuana,1.12,1.53,2.45,Mexico
-354,Bonn,1.12,1.12,3.11,Germany
-355,Cologne,1.12,1.58,3.26,Germany
-356,Stuttgart,1.12,2.21,3.51,Germany
-357,Dusseldorf,1.12,1.37,3.57,Germany
-358,Wuhan,1.11,,3.83,China
-359,Medellin,1.1,0.9,1.25,Colombia
-360,Freiburg im Breisgau,1.09,1.65,3.18,Germany
-361,Karlsruhe,1.09,1.3,3.39,Germany
-362,Granada,1.08,1.14,1.86,Spain
-363,Brasilia,1.08,1.23,1.34,Brazil
-364,Aachen,1.08,1.3,2.84,Germany
-365,Shenzhen,1.08,2.2,4.67,China
-366,Bilbao,1.06,1.44,1.94,Spain
-367,Rio de Janeiro,1.06,1.27,1.29,Brazil
-368,Mannheim,1.06,1.64,3.28,Germany
-369,Debrecen,1.06,0.71,1.43,Hungary
-370,Natal,1.05,1.0,1.04,Brazil
-371,Recife,1.05,1.09,1.29,Brazil
-372,Darmstadt,1.05,1.55,3.07,Germany
-373,Barranquilla,1.05,1.03,1.28,Colombia
-374,Dumaguete,1.04,1.27,,Philippines
-375,Sao Paulo,1.04,1.2,1.33,Brazil
-376,Panama City,1.03,1.94,3.1,Panama
-377,Quezon City,1.03,1.3,2.24,Philippines
-378,Guangzhou,1.03,1.55,4.23,China
-379,Dar es Salaam,1.03,0.63,1.83,Tanzania
-380,Guadalajara,1.02,1.56,2.18,Mexico
-381,Augsburg,1.02,1.7,3.33,Germany
-382,Accra,1.02,1.02,2.27,Ghana
-383,Kampala,1.02,0.87,2.35,Uganda
-384,Oradea,1.02,0.65,1.82,Romania
-385,Baku,1.01,0.3,2.35,Azerbaijan
-386,Goiania,1.01,1.27,0.98,Brazil
-387,Arad,1.01,0.67,1.58,Romania
-388,Cluj-Napoca,1.01,0.84,2.13,Romania
-389,Belo Horizonte,1.0,1.25,1.04,Brazil
-390,Gdynia,1.0,0.75,2.64,Poland
-391,Buenos Aires,0.99,1.2,1.74,Argentina
-392,Curitiba,0.99,1.13,1.17,Brazil
-393,Kigali,0.99,1.09,2.29,Rwanda
-394,Florianopolis,0.99,1.09,1.09,Brazil
-395,Vladivostok,0.98,0.59,1.75,Russia
-396,Alicante,0.98,1.11,2.04,Spain
-397,Murcia,0.98,1.47,1.73,Spain
-398,Campinas,0.98,1.17,1.44,Brazil
-399,Porto Alegre,0.98,1.03,1.33,Brazil
-400,Bratislava,0.97,1.22,2.65,Slovakia
-401,Dortmund,0.97,1.76,3.57,Germany
-402,Erlangen,0.97,1.81,4.1,Germany
-403,Tunis,0.97,0.12,0.83,Tunisia
-404,Hangzhou,0.96,1.6,3.89,China
-405,Chengdu,0.96,1.55,4.06,China
-406,Iasi,0.96,0.69,1.86,Romania
-407,Fortaleza,0.95,1.09,1.1,Brazil
-408,Essen,0.95,1.29,3.36,Germany
-409,Chisinau,0.95,0.39,1.4,Moldova
-410,Warsaw,0.95,0.93,2.95,Poland
-411,Addis Ababa,0.94,0.74,0.82,Ethiopia
-412,Chelyabinsk,0.94,0.42,1.45,Russia
-413,Budapest,0.93,0.87,1.71,Hungary
-414,Szeged,0.93,0.82,1.39,Hungary
-415,Krakow (Cracow),0.93,0.9,2.58,Poland
-416,Astana (Nur-Sultan),0.92,0.38,1.89,Kazakhstan
-417,Kosice,0.92,1.16,2.24,Slovakia
-418,Poznan,0.92,0.88,2.63,Poland
-419,Tirana,0.92,0.72,1.46,Albania
-420,Sibiu,0.92,0.98,2.0,Romania
-421,Olomouc,0.91,1.24,2.21,Czech Republic
-422,Gdansk,0.91,0.85,2.61,Poland
-423,Palma de Mallorca,0.9,1.46,2.52,Spain
-424,Skopje,0.9,0.59,1.74,North Macedonia
-425,Bucharest,0.9,0.82,2.53,Romania
-426,Burgas,0.89,0.66,1.68,Bulgaria
-427,Malaga,0.89,1.14,1.86,Spain
-428,Beijing,0.89,1.85,4.56,China
-429,Lublin,0.89,0.68,2.31,Poland
-430,Batumi,0.89,0.4,1.44,Georgia
-431,St. Petersburg,0.88,0.68,1.96,Russia
-432,Prague,0.88,1.22,2.64,Czech Republic
-433,Bogota,0.88,0.89,1.29,Colombia
-434,Queretaro,0.88,1.48,2.39,Mexico
-435,Brasov,0.88,0.91,1.85,Romania
-436,Puerto Vallarta,0.87,1.57,2.45,Mexico
-437,Salvador,0.87,0.96,1.07,Brazil
-438,Tbilisi,0.87,0.33,1.62,Georgia
-439,Szczecin,0.87,0.77,2.2,Poland
-440,Kaliningrad,0.87,0.58,1.47,Russia
-441,Moscow,0.87,0.58,2.26,Russia
-442,Brno,0.86,1.14,2.36,Czech Republic
-443,Constanta,0.86,0.61,2.38,Romania
-444,Phnom Penh,0.86,1.44,2.25,Cambodia
-445,Timisoara,0.86,0.78,2.02,Romania
-446,Irkutsk,0.86,0.51,1.7,Russia
-447,Rostov-na-donu,0.86,0.4,1.59,Russia
-448,Sofia,0.85,0.76,1.62,Bulgaria
-449,Ho Chi Minh City,0.85,0.8,2.01,Vietnam
-450,Wroclaw,0.85,0.88,2.75,Poland
-451,Krasnoyarsk,0.85,0.44,1.62,Russia
-452,Ulaanbaatar,0.84,0.58,2.2,Mongolia
-453,Asuncion,0.84,0.51,1.77,Paraguay
-454,Yerevan,0.84,0.47,1.98,Armenia
-455,Rzeszow,0.84,0.88,1.98,Poland
-456,Minsk,0.84,0.56,1.4,Belarus
-457,Lagos,0.83,1.05,2.47,Nigeria
-458,Krasnodar,0.83,0.48,1.69,Russia
-459,Saratov,0.82,0.43,1.35,Russia
-460,Lodz,0.82,0.78,2.27,Poland
-461,Pristina,0.82,0.44,1.21,Kosovo (Disputed Territory)
-462,Novosibirsk,0.82,0.42,1.72,Russia
-463,Volgograd,0.81,0.39,1.44,Russia
-464,Perm,0.81,0.36,1.52,Russia
-465,Bishkek,0.81,0.25,1.43,Kyrgyzstan
-466,Ploiesti,0.81,0.67,1.71,Romania
-467,Ostrava,0.8,1.16,2.09,Czech Republic
-468,Craiova,0.8,0.59,1.55,Romania
-469,Voronezh,0.79,0.51,1.61,Russia
-470,Plovdiv,0.79,0.72,1.62,Bulgaria
-471,Seville (Sevilla),0.79,1.27,1.74,Spain
-472,Shanghai,0.79,2.21,4.52,China
-473,Omsk,0.79,0.47,1.58,Russia
-474,Sarajevo,0.78,0.65,1.6,Bosnia And Herzegovina
-475,Tyumen,0.78,0.42,1.62,Russia
-476,Bucaramanga,0.77,0.63,1.17,Colombia
-477,Izhevsk,0.77,0.39,1.21,Russia
-478,Nizhny Novgorod,0.77,0.46,2.05,Russia
-479,Goa,0.76,0.51,2.25,India
-480,Varna,0.75,0.66,1.5,Bulgaria
-481,Kazan,0.75,0.47,1.64,Russia
-482,Tomsk,0.75,0.46,1.48,Russia
-483,Katowice,0.74,0.91,2.09,Poland
-484,Samara,0.73,0.45,1.74,Russia
-485,Yekaterinburg,0.73,0.42,1.55,Russia
-486,Belgrade,0.73,0.52,1.86,Serbia
-487,Odessa (Odesa),0.73,0.54,1.2,Ukraine
-488,Hanoi,0.73,0.71,1.66,Vietnam
-489,Kiev (Kyiv),0.72,0.59,1.21,Ukraine
-490,Cali,0.72,0.89,1.35,Colombia
-491,Al Marsa,0.72,0.18,1.28,Tunisia
-492,Lviv,0.72,0.54,1.2,Ukraine
-493,Ufa,0.71,0.48,1.47,Russia
-494,Novi Sad,0.7,0.56,1.42,Serbia
-495,Ivano-Frankivsk,0.7,0.49,0.92,Ukraine
-496,Tashkent,0.69,0.21,1.39,Uzbekistan
-497,Kharkiv,0.69,0.51,1.19,Ukraine
-498,Dnipro,0.68,0.44,1.08,Ukraine
-499,Maputo,0.68,0.72,1.67,Mozambique
-500,Vinnytsia,0.68,0.48,0.77,Ukraine
-501,Ternopil,0.68,0.46,0.97,Ukraine
-502,Zaporizhzhya,0.67,0.49,1.02,Ukraine
-503,Sumy,0.67,0.47,0.71,Ukraine
-504,Lusaka,0.65,0.56,1.6,Zambia
-505,Da Nang,0.63,,1.67,Vietnam
-506,Nis,0.62,0.48,1.26,Serbia
-507,Banja Luka,0.61,0.81,1.03,Bosnia And Herzegovina
-508,Almaty,0.58,0.31,1.77,Kazakhstan
-509,Mykolaiv,0.57,0.4,0.98,Ukraine
-510,Hamilton,,6.81,5.39,Bermuda
-511,Santa Clara,,4.55,5.0,United States
-512,Santa Barbara,,4.41,4.75,United States
-513,Santa Rosa,,4.2,4.56,United States
-514,Fort Lauderdale,,4.13,4.29,United States
-515,Anchorage,,3.94,4.41,United States
-516,Bend,,3.83,3.78,United States
-517,Irvine,,3.81,4.72,United States
-518,West Palm Beach,,3.46,5.25,United States
-519,Fremont,,3.31,4.33,United States
-520,Alexandria,,3.31,4.5,United States
-521,Bellevue,,3.31,3.96,United States
-522,Long Beach,,3.12,4.33,United States
-523,Fairfax,,3.12,3.75,United States
-524,Queens,,3.12,4.71,United States
-525,Bellingham,,3.04,4.27,United States
-526,Burnaby,,3.03,3.14,Canada
-527,Jersey City,,2.92,3.72,United States
-528,Eugene,,2.9,4.19,United States
-529,Lugano,,2.84,4.21,Switzerland
-530,Fredericton,,2.81,3.23,Canada
-531,Pittsburgh,,2.79,3.73,United States
-532,Kingston,,2.77,2.95,Canada
-533,Sarasota,,2.77,4.76,United States
-534,Rochester,,2.76,3.89,United States
-535,Tallahassee,,2.75,4.14,United States
-536,St. John's,,2.66,3.31,Canada
-537,Knoxville,,2.65,4.33,United States
-538,Riverside,,2.65,,United States
-539,Albuquerque,,2.64,3.92,United States
-540,Everett,,2.64,4.54,United States
-541,Birmingham,,2.62,4.75,United States
-542,North Vancouver,,2.59,3.85,Canada
-543,Oklahoma City,,2.54,3.88,United States
-544,Olympia,,2.53,4.59,United States
-545,Cleveland,,2.49,4.16,United States
-546,Chattanooga,,2.48,4.41,United States
-547,Henderson,,2.48,3.85,United States
-548,Huntsville,,2.48,4.56,United States
-549,Baton Rouge,,2.45,4.31,United States
-550,Tulsa,,2.42,4.08,United States
-551,Vancouver,,2.42,4.66,United States
-552,Lincoln,,2.4,3.55,United States
-553,Dayton,,2.4,3.98,United States
-554,Milwaukee,,2.39,3.75,United States
-555,Salem,,2.36,3.77,United States
-556,Fort Worth,,2.34,4.28,United States
-557,Red Deer,,2.32,3.63,Canada
-558,Guelph,,2.3,4.2,Canada
-559,Little Rock,,2.28,4.57,United States
-560,Regina,,2.27,3.31,Canada
-561,Surrey,,2.26,3.7,Canada
-562,Nanaimo,,2.25,3.27,Canada
-563,Wichita,,2.18,4.0,United States
-564,Darwin,,1.96,3.98,Australia
-565,Grand Rapids,,1.95,4.23,United States
-566,Akron,,1.91,3.5,United States
-567,Antibes,,1.9,3.16,France
-568,Marseille,,1.88,3.34,France
-569,Markham,,1.79,2.97,Canada
-570,Coquitlam,,1.7,3.56,Canada
-571,Dundee,,1.6,3.78,United Kingdom
-572,Dunedin,,1.56,3.21,New Zealand
-573,Macao,,1.55,4.2,Macao
-574,Hamilton,,1.51,3.56,New Zealand
-575,Stoke-on-Trent,,1.5,3.8,United Kingdom
-576,York,,1.49,3.85,United Kingdom
-577,Milton Keynes,,1.44,3.59,United Kingdom
-578,Norwich,,1.41,3.03,United Kingdom
-579,Lincoln,,1.39,3.65,United Kingdom
-580,Male,,1.36,2.37,Maldives
-581,Portsmouth,,1.36,3.68,United Kingdom
-582,Swansea,,1.35,4.36,United Kingdom
-583,Al Ain,,1.21,5.01,United Arab Emirates
-584,Davao,,1.19,2.9,Philippines
-585,Peterborough,,1.11,4.29,United Kingdom
-586,Bournemouth,,1.09,3.96,United Kingdom
-587,Kuwait City,,1.04,4.71,Kuwait
-588,Santa Cruz de Tenerife,,0.98,1.95,Spain
-589,Sharjah,,0.93,3.35,United Arab Emirates
-590,Ad Dammam,,0.92,3.1,Saudi Arabia
-591,Yogyakarta,,0.91,1.6,Indonesia
-592,Jeddah,,0.8,3.19,Saudi Arabia
-593,Abidjan,,0.76,2.46,Ivory Coast
-594,Riyadh,,0.74,3.28,Saudi Arabia
-595,Ajman,,0.71,4.4,United Arab Emirates
-596,Dhaka,,0.64,2.28,Bangladesh
-597,Chittagong,,0.62,1.91,Bangladesh
-598,Tehran,,0.62,1.97,Iran
-599,Rajkot,,0.61,1.49,India
-600,Surat,,0.61,1.5,India
-601,Agadir,,0.54,2.06,Morocco
-602,Suva,,0.53,2.83,Fiji
-603,Madurai,,0.52,0.98,India
-604,Islamabad,,0.5,1.51,Pakistan
-605,Lahore,,0.49,1.85,Pakistan
-606,Rawalpindi,,0.47,,Pakistan
-607,Karachi,,0.44,1.65,Pakistan
-608,Calicut,,0.41,0.74,India
-609,Kabul,,0.39,1.06,Afghanistan
-610,Peshawar,,0.39,,Pakistan
-611,Mesa,,,4.4,United States
-612,Swindon,,,3.94,United Kingdom
-613,Tangier,,,2.75,Morocco
-614,Aguascalientes,,,2.27,Mexico
+,city_ascii,beer_market,beer_pub,bread,coffee,country
+0,Doha,8.51,13.35,1.45,4.63,Qatar
+1,Amman,5.3,7.05,0.41,4.14,Jordan
+2,Newcastle,4.7,6.15,1.67,3.52,Australia
+3,Muscat,4.66,9.09,1.08,4.61,Oman
+4,Melbourne,4.57,7.69,2.34,3.4,Australia
+5,Adelaide,4.54,6.15,2.1,3.31,Australia
+6,Trondheim,4.52,11.67,3.66,5.21,Norway
+7,Brisbane,4.5,6.15,2.12,3.55,Australia
+8,Canberra,4.26,6.15,2.57,3.45,Australia
+9,Sydney,4.09,6.15,2.05,3.27,Australia
+10,Singapore,3.94,7.52,1.74,4.19,Singapore
+11,Stavanger,3.93,10.5,3.8,5.3,Norway
+12,Tromso,3.92,10.5,2.63,5.68,Norway
+13,Dubai,3.9,12.25,1.35,5.09,United Arab Emirates
+14,Auckland,3.87,7.15,2.2,3.59,New Zealand
+15,Bergen,3.8,11.02,2.82,5.49,Norway
+16,Perth,3.76,7.69,2.22,3.58,Australia
+17,Oslo,3.73,10.5,3.53,5.15,Norway
+18,Richmond,3.71,5.75,2.63,4.54,United States
+19,Halifax,3.67,5.51,2.37,3.33,Canada
+20,Abu Dhabi,3.59,10.89,1.28,4.94,United Arab Emirates
+21,Turku,3.48,6.95,1.89,4.19,Finland
+22,Fort Collins,3.47,4.5,2.93,4.29,United States
+23,Johor Bahru,3.46,3.72,0.75,2.96,Malaysia
+24,Helsinki,3.46,7.25,2.69,4.94,Finland
+25,Hobart,3.44,6.92,1.93,3.59,Australia
+26,Dublin,3.43,6.64,1.81,4.15,Ireland
+27,Cork,3.41,6.04,2.29,3.84,Ireland
+28,Belfast,3.4,5.57,1.33,3.6,United Kingdom
+29,Boston,3.37,7.0,3.16,4.31,United States
+30,Wellington,3.33,6.43,2.03,3.41,New Zealand
+31,New York,3.29,7.35,3.78,4.82,United States
+32,Tel Aviv-Yafo,3.29,9.12,2.39,4.21,Israel
+33,Philadelphia,3.26,5.0,2.83,3.92,United States
+34,Reykjavik,3.26,9.28,3.66,4.61,Iceland
+35,Tokyo,3.25,4.82,2.16,3.77,Japan
+36,Lausanne,3.21,8.98,3.37,4.99,Switzerland
+37,San Jose,3.2,7.0,3.22,4.66,United States
+38,Limerick,3.06,6.04,1.9,3.79,Ireland
+39,Arhus,3.05,8.12,2.87,6.57,Denmark
+40,Colorado Springs,3.04,5.0,2.54,4.83,United States
+41,Raleigh,3.04,5.0,2.78,4.29,United States
+42,Gold Coast,3.02,6.15,2.42,3.65,Australia
+43,Galway,3.01,6.04,1.74,3.78,Ireland
+44,Leeds,2.99,4.76,1.2,3.89,United Kingdom
+45,Manama,2.99,9.25,1.25,4.69,Bahrain
+46,Luxembourg,2.99,6.04,2.94,4.11,Luxembourg
+47,Petaling Jaya,2.97,3.72,0.95,2.87,Malaysia
+48,Manchester,2.97,5.44,1.37,3.81,United Kingdom
+49,Dallas,2.96,5.0,2.72,4.14,United States
+50,Espoo,2.95,7.25,2.6,4.91,Finland
+51,Aberdeen,2.94,4.62,1.23,3.64,United Kingdom
+52,San Diego,2.92,6.0,3.7,4.27,United States
+53,Calgary,2.91,5.51,2.0,3.43,Canada
+54,Saskatoon,2.91,5.31,2.21,3.49,Canada
+55,Vancouver,2.91,5.51,2.52,3.47,Canada
+56,Winnipeg,2.9,4.72,1.93,3.66,Canada
+57,Haifa,2.9,8.51,2.24,3.77,Israel
+58,Victoria,2.88,5.51,2.69,3.57,Canada
+59,Surabaya,2.87,2.47,1.19,2.28,Indonesia
+60,Fresno,2.85,4.0,1.85,4.61,United States
+61,Portland,2.85,5.75,3.03,4.16,United States
+62,Cambridge,2.79,5.44,1.57,3.9,United Kingdom
+63,San Francisco,2.78,7.75,3.9,4.69,United States
+64,Grenoble,2.77,6.64,1.64,3.6,France
+65,Denver,2.77,6.0,2.7,4.62,United States
+66,Dubrovnik,2.75,6.4,1.69,3.54,Croatia
+67,New Orleans,2.75,3.25,3.25,5.08,United States
+68,Oxford,2.75,5.44,1.19,4.05,United Kingdom
+69,Sheffield,2.75,4.76,1.28,3.73,United Kingdom
+70,Jerusalem,2.74,8.82,1.65,3.76,Israel
+71,London,2.73,6.79,1.38,4.03,United Kingdom
+72,Miami,2.73,6.0,2.92,4.26,United States
+73,Casablanca,2.72,3.36,0.81,1.8,Morocco
+74,Oulu,2.72,7.25,2.06,3.66,Finland
+75,Omaha,2.72,4.0,2.44,4.57,United States
+76,Brooklyn,2.72,7.0,3.56,4.32,United States
+77,Paris,2.71,8.46,2.23,4.47,France
+78,Jakarta,2.71,3.18,1.24,2.23,Indonesia
+79,Nantes,2.7,7.25,1.36,3.22,France
+80,Detroit,2.69,5.0,2.32,4.7,United States
+81,Quebec City,2.69,5.51,2.38,3.1,Canada
+82,Atlanta,2.68,5.0,2.72,4.2,United States
+83,Los Angeles,2.68,6.5,3.75,4.69,United States
+84,San Antonio,2.68,3.75,2.4,4.13,United States
+85,Nassau,2.67,4.0,3.35,4.5,Bahamas
+86,Seattle,2.67,7.0,3.51,4.75,United States
+87,Tampere,2.66,7.25,2.37,4.37,Finland
+88,Toronto,2.66,5.51,2.23,3.56,Canada
+89,Edmonton,2.65,4.72,2.06,3.57,Canada
+90,Christchurch,2.65,7.15,1.7,3.43,New Zealand
+91,Osaka,2.64,4.82,1.88,3.65,Japan
+92,Tampa,2.64,4.5,2.95,3.93,United States
+93,Buffalo,2.63,4.39,2.11,3.63,United States
+94,Bristol,2.63,5.98,1.52,3.79,United Kingdom
+95,Jacksonville,2.63,4.0,2.96,4.06,United States
+96,Oakland,2.61,7.0,3.77,4.33,United States
+97,Honolulu,2.57,6.0,4.66,5.33,United States
+98,Kuala Lumpur,2.55,3.72,0.8,2.87,Malaysia
+99,London,2.54,4.72,1.97,3.45,Canada
+100,Brampton,2.53,4.33,1.83,2.65,Canada
+101,St. Paul,2.53,5.0,2.75,4.25,United States
+102,Washington,2.51,6.5,2.96,4.69,United States
+103,Montpellier,2.49,7.25,1.74,3.31,France
+104,Gent,2.48,4.83,1.94,3.53,Belgium
+105,Uppsala,2.47,8.34,2.92,4.11,Sweden
+106,Mississauga,2.46,3.94,2.22,2.84,Canada
+107,Baltimore,2.46,6.0,2.21,3.88,United States
+108,Exeter,2.46,5.44,1.19,3.39,United Kingdom
+109,Indianapolis,2.46,4.25,2.07,3.52,United States
+110,Nagoya,2.45,3.52,2.06,3.99,Japan
+111,Reading,2.45,4.76,1.64,3.37,United Kingdom
+112,George Town,2.45,3.72,1.11,2.94,Malaysia
+113,Seoul,2.44,3.62,2.76,4.34,South Korea
+114,Columbus,2.42,4.0,2.41,4.04,United States
+115,Chicago,2.41,5.5,3.06,4.24,United States
+116,Edinburgh,2.4,6.11,1.37,3.7,United Kingdom
+117,Glasgow,2.4,4.76,1.16,3.81,United Kingdom
+118,Kitchener,2.39,5.12,2.21,2.93,Canada
+119,Charlotte,2.39,4.75,2.77,4.33,United States
+120,Houston,2.38,5.63,2.54,4.07,United States
+121,Ann Arbor,2.38,4.0,2.14,4.04,United States
+122,Basel,2.37,7.86,3.14,5.68,Switzerland
+123,Montreal,2.34,5.31,2.74,3.01,Canada
+124,Liverpool,2.34,4.35,1.28,3.67,United Kingdom
+125,Beirut,2.33,4.0,1.04,5.11,Lebanon
+126,La Paz,2.32,2.17,1.09,2.63,Bolivia
+127,St. Louis,2.32,4.5,1.99,4.53,United States
+128,Nashville,2.32,5.0,2.7,4.62,United States
+129,Plymouth,2.31,5.44,1.36,3.55,United Kingdom
+130,Rennes,2.3,6.64,1.46,3.27,France
+131,Strasbourg,2.3,6.34,1.37,3.11,France
+132,Leicester,2.3,4.35,1.32,3.48,United Kingdom
+133,Louisville,2.3,6.0,1.89,4.88,United States
+134,Minneapolis,2.3,6.0,2.98,4.37,United States
+135,Cardiff,2.28,4.76,1.52,3.71,United Kingdom
+136,Gothenburg,2.27,7.98,2.99,4.83,Sweden
+137,Kathmandu,2.27,2.56,0.54,1.75,Nepal
+138,Lyon,2.27,7.25,1.46,3.72,France
+139,Birmingham,2.27,4.76,1.35,3.61,United Kingdom
+140,Geneva,2.26,8.98,3.22,4.99,Switzerland
+141,Ottawa,2.26,5.51,2.37,3.36,Canada
+142,Vadodara,2.23,2.39,0.5,1.46,India
+143,Antwerp,2.23,4.83,2.24,3.48,Belgium
+144,Kelowna,2.22,4.72,2.19,3.51,Canada
+145,Salt Lake City,2.22,5.0,2.66,4.43,United States
+146,Sliema,2.22,3.62,1.7,2.93,Malta
+147,Navi Mumbai,2.21,2.39,0.45,2.29,India
+148,Patna,2.21,1.57,0.44,1.62,India
+149,Toulouse,2.19,7.25,1.81,3.21,France
+150,Nottingham,2.19,4.76,1.15,3.51,United Kingdom
+151,Indore,2.17,1.37,0.45,1.45,India
+152,Lexington,2.16,3.5,2.36,4.42,United States
+153,Tucson,2.15,4.0,2.42,4.67,United States
+154,Brighton,2.15,6.11,1.43,3.89,United Kingdom
+155,Mumbai,2.15,2.19,0.5,2.15,India
+156,Stockholm,2.13,8.16,2.7,4.76,Sweden
+157,Irakleio,2.13,3.93,1.13,3.39,Greece
+158,Raipur,2.13,2.05,0.32,1.37,India
+159,Newcastle,2.12,4.76,1.11,3.71,United Kingdom
+160,Marrakech,2.11,5.3,0.97,2.07,Morocco
+161,Pune,2.11,2.39,0.48,1.83,India
+162,Aalborg,2.1,8.12,3.16,7.08,Denmark
+163,San Juan,2.09,3.0,2.31,2.88,Puerto Rico
+164,Ahmadabad,2.08,2.26,0.53,1.69,India
+165,San Jose,2.06,2.44,1.43,2.55,Costa Rica
+166,Coventry,2.06,4.76,1.34,3.72,United Kingdom
+167,Memphis,2.06,5.5,1.85,4.86,United States
+168,Southampton,2.06,5.44,1.47,3.69,United Kingdom
+169,Zurich,2.05,7.86,3.18,5.65,Switzerland
+170,Sacramento,2.05,5.0,3.51,4.53,United States
+171,Rabat,2.04,3.36,0.62,1.65,Morocco
+172,Hamilton,2.04,3.94,2.21,2.97,Canada
+173,Bergamo,2.04,6.04,2.22,1.76,Italy
+174,Derby,2.03,4.76,1.46,3.48,United Kingdom
+175,Parma,2.02,6.04,1.84,1.81,Italy
+176,Kolkata,2.02,2.05,0.36,1.77,India
+177,Windsor,2.01,4.72,2.15,3.27,Canada
+178,Bali,2.01,2.47,1.57,2.11,Indonesia
+179,Thane,2.01,2.56,0.44,1.88,India
+180,Santo Domingo,2.0,2.06,1.61,1.75,Dominican Republic
+181,Chennai,2.0,2.05,0.5,1.99,India
+182,Bandung,2.0,3.18,1.28,1.81,Indonesia
+183,Copenhagen,1.99,8.12,3.46,6.52,Denmark
+184,Nice,1.99,8.09,1.49,4.2,France
+185,Genoa,1.99,6.04,2.2,1.57,Italy
+186,Nagpur,1.98,2.32,0.36,1.9,India
+187,Bern,1.97,6.74,2.23,5.18,Switzerland
+188,Lille,1.96,6.04,1.89,3.73,France
+189,Austin,1.96,4.0,2.27,3.95,United States
+190,Tacoma,1.96,4.25,3.56,4.03,United States
+191,Albany,1.96,4.0,2.6,3.82,United States
+192,Chandigarh,1.95,2.46,0.51,1.95,India
+193,Milan,1.95,6.04,2.25,1.98,Italy
+194,Bhopal,1.95,2.53,0.45,1.41,India
+195,Kansas City,1.94,4.5,2.19,4.32,United States
+196,Valletta,1.94,3.62,1.31,2.95,Malta
+197,Reno,1.94,4.12,2.92,4.57,United States
+198,Des Moines,1.93,4.12,2.8,3.98,United States
+199,Malmo,1.93,8.94,2.62,5.14,Sweden
+200,Bangkok,1.93,2.16,1.35,2.23,Thailand
+201,Gurgaon,1.93,2.73,0.55,2.19,India
+202,Boise,1.89,5.0,2.61,4.51,United States
+203,Lund,1.88,7.74,3.01,4.33,Sweden
+204,Madison,1.88,4.25,3.3,3.89,United States
+205,Phoenix,1.88,5.0,2.4,4.15,United States
+206,Bangalore,1.88,2.05,0.55,1.76,India
+207,Brussels,1.88,4.83,2.05,3.87,Belgium
+208,Las Vegas,1.87,6.0,2.63,4.47,United States
+209,Berkeley,1.85,7.0,3.83,4.04,United States
+210,Orlando,1.84,4.5,2.85,4.41,United States
+211,Nairobi,1.84,2.26,0.47,2.64,Kenya
+212,Odense,1.83,6.5,3.29,6.24,Denmark
+213,Hong Kong,1.83,6.77,1.94,4.75,Hong Kong
+214,El Paso,1.82,2.87,2.27,3.61,United States
+215,Patra,1.82,4.53,0.97,3.38,Greece
+216,Taipei,1.82,2.12,1.98,3.46,Taiwan
+217,Bologna,1.81,6.04,2.58,1.75,Italy
+218,Istanbul,1.8,2.27,0.39,1.89,Turkey
+219,Cincinnati,1.8,5.0,2.44,4.15,United States
+220,Hyderabad,1.8,1.37,0.54,1.57,India
+221,Ankara,1.79,2.41,0.38,1.8,Turkey
+222,Vijayawada,1.79,1.3,0.54,1.78,India
+223,Chiang Mai,1.78,2.33,1.42,2.07,Thailand
+224,Ghaziabad,1.78,1.44,0.48,1.73,India
+225,Guwahati,1.78,1.3,0.4,1.54,India
+226,Phatthaya,1.77,2.66,1.19,2.34,Thailand
+227,Kochi,1.77,1.57,0.54,1.35,India
+228,Noida,1.77,1.91,0.48,1.97,India
+229,Kaohsiung,1.75,2.05,2.55,2.86,Taiwan
+230,Izmir,1.74,2.27,0.34,1.73,Turkey
+231,Verona,1.74,6.04,1.98,1.85,Italy
+232,Port of Spain,1.73,1.91,1.79,3.83,Trinidad And Tobago
+233,Cairo,1.73,2.39,0.65,2.1,Egypt
+234,Phuket,1.73,3.16,1.72,2.66,Thailand
+235,Antalya,1.72,2.14,0.31,1.66,Turkey
+236,Thessaloniki,1.72,4.83,1.01,3.82,Greece
+237,Santa Cruz,1.71,2.03,1.5,2.71,Bolivia
+238,Bursa,1.71,1.81,0.34,1.7,Turkey
+239,Kingston,1.71,2.07,2.05,2.45,Jamaica
+240,Rijeka,1.7,2.56,1.44,1.79,Croatia
+241,Tartu,1.7,4.23,1.07,3.68,Estonia
+242,Athens,1.69,4.83,0.97,3.81,Greece
+243,Colombo,1.69,1.55,0.38,2.33,Sri Lanka
+244,Linz,1.68,5.07,2.38,4.01,Austria
+245,Charleston,1.67,4.5,2.78,4.83,United States
+246,Florence,1.66,6.04,1.92,1.58,Italy
+247,Harare,1.66,2.0,1.15,2.77,Zimbabwe
+248,Paramaribo,1.65,1.61,1.55,2.66,Suriname
+249,Montevideo,1.64,2.83,1.99,2.58,Uruguay
+250,Cape Town,1.64,2.3,0.95,1.91,South Africa
+251,Tallinn,1.63,4.83,0.98,3.38,Estonia
+252,Bhubaneswar,1.63,2.05,0.54,1.09,India
+253,Coimbatore,1.63,1.78,0.47,1.36,India
+254,Naples,1.61,3.62,1.58,1.53,Italy
+255,Mysore,1.61,1.37,0.37,1.5,India
+256,Nicosia,1.6,4.23,2.21,3.99,Cyprus
+257,Delhi,1.6,2.05,0.46,1.88,India
+258,Gaborone,1.59,2.03,0.94,2.94,Botswana
+259,Jaipur,1.59,1.37,0.43,1.64,India
+260,Spokane,1.58,5.0,2.6,4.48,United States
+261,Algiers,1.57,1.69,0.13,0.66,Algeria
+262,Lima,1.56,2.21,1.69,2.46,Peru
+263,Padova,1.55,4.83,1.77,1.7,Italy
+264,Alexandria,1.54,1.91,0.46,1.72,Egypt
+265,Ranchi,1.54,1.85,0.42,1.58,India
+266,Vishakhapatnam,1.54,1.37,0.55,1.48,India
+267,Kingston upon Hull,1.53,4.08,1.33,3.81,United Kingdom
+268,Makati,1.52,1.46,,2.78,Philippines
+269,Rome,1.52,6.04,2.28,1.57,Italy
+270,Amsterdam,1.52,6.04,2.18,4.09,Netherlands
+271,Pretoria,1.51,1.97,0.96,1.88,South Africa
+272,Lucknow (Lakhnau),1.51,1.91,0.46,1.68,India
+273,Brescia,1.5,6.04,3.28,1.97,Italy
+274,Trieste,1.5,6.04,2.42,1.91,Italy
+275,Kaunas,1.5,3.62,1.11,2.86,Lithuania
+276,Turin,1.49,5.13,1.92,1.72,Italy
+277,Riga,1.48,3.62,1.1,3.25,Latvia
+278,Johannesburg,1.48,2.3,0.96,1.86,South Africa
+279,Guatemala City,1.48,1.92,2.22,2.12,Guatemala
+280,Quito,1.47,2.0,1.69,2.4,Ecuador
+281,Cagliari,1.46,4.83,1.92,1.57,Italy
+282,Eindhoven,1.46,6.04,1.96,3.63,Netherlands
+283,Utrecht,1.46,6.04,2.14,3.89,Netherlands
+284,Zagreb,1.45,2.4,1.13,1.89,Croatia
+285,Limassol,1.45,3.62,2.06,3.76,Cyprus
+286,Larnaca,1.44,3.62,2.0,3.9,Cyprus
+287,Breda,1.44,6.04,2.25,3.12,Netherlands
+288,Delft,1.44,6.04,2.17,3.51,Netherlands
+289,Haarlem,1.44,4.83,2.12,3.59,Netherlands
+290,San Salvador,1.43,1.25,1.88,2.72,El Salvador
+291,Leiden,1.43,5.44,2.17,3.37,Netherlands
+292,Maastricht,1.43,6.04,2.14,3.59,Netherlands
+293,Nijmegen,1.43,4.83,2.14,3.18,Netherlands
+294,Guayaquil,1.41,1.75,1.53,2.18,Ecuador
+295,Thiruvananthapuram,1.4,1.5,0.44,1.43,India
+296,Havana,1.4,2.0,0.78,1.49,Cuba
+297,Groningen,1.4,5.13,2.13,3.73,Netherlands
+298,The Hague,1.39,4.35,2.3,3.32,Netherlands
+299,Cancun,1.39,1.88,1.55,2.39,Mexico
+300,Rotterdam,1.39,4.83,2.11,3.56,Netherlands
+301,Barcelona,1.37,3.62,1.65,2.24,Spain
+302,Enschede,1.37,4.83,2.2,3.35,Netherlands
+303,Porto,1.37,2.42,1.38,1.84,Portugal
+304,Vilnius,1.36,3.62,1.11,2.85,Lithuania
+305,Erbil (Irbil),1.36,1.36,0.8,1.91,Iraq
+306,Damascus,1.36,1.72,0.84,1.46,Syria
+307,Split,1.34,3.2,1.19,1.96,Croatia
+308,Graz,1.34,4.65,2.71,3.76,Austria
+309,Dresden,1.33,4.23,2.59,2.81,Germany
+310,Santiago,1.32,4.08,1.43,3.06,Chile
+311,Ljubljana,1.31,3.26,1.44,2.01,Slovenia
+312,Catania,1.31,5.44,1.26,1.69,Italy
+313,Paphos,1.31,2.42,1.23,3.14,Cyprus
+314,Zadar,1.3,2.72,1.25,1.93,Croatia
+315,Bari,1.29,4.83,1.32,1.52,Italy
+316,Klaipeda,1.29,3.62,0.79,2.6,Lithuania
+317,Lisbon,1.28,2.42,1.3,2.0,Portugal
+318,Zapopan,1.27,1.01,1.61,2.32,Mexico
+319,Funchal,1.27,2.72,1.68,1.81,Portugal
+320,Leuven,1.23,4.83,2.07,3.68,Belgium
+321,Madrid,1.23,3.62,1.2,2.38,Spain
+322,Durban,1.23,1.97,0.98,1.81,South Africa
+323,Osijek,1.22,1.92,0.89,1.52,Croatia
+324,Frankfurt,1.21,4.83,1.45,3.43,Germany
+325,Manila,1.21,1.61,1.27,2.65,Philippines
+326,Maribor,1.2,3.02,1.08,1.99,Slovenia
+327,Valencia,1.2,2.42,1.02,2.09,Spain
+328,Heidelberg,1.2,4.83,1.68,3.65,Germany
+329,Salzburg,1.2,4.59,2.32,3.94,Austria
+330,Palermo,1.19,4.83,1.24,1.78,Italy
+331,Vienna,1.19,4.83,2.07,4.02,Austria
+332,Berlin,1.18,4.23,1.65,3.54,Germany
+333,Munich,1.18,4.83,2.16,3.82,Germany
+334,Braga,1.18,1.81,1.11,1.55,Portugal
+335,Mexico City,1.17,2.02,1.59,2.26,Mexico
+336,Monterrey,1.17,1.77,1.75,2.58,Mexico
+337,Puebla,1.17,1.01,1.4,2.12,Mexico
+338,Rangoon,1.17,1.0,0.92,2.27,Burma
+339,Bremen,1.17,4.23,1.6,3.59,Germany
+340,Leipzig,1.17,3.87,1.42,3.37,Germany
+341,Cebu,1.17,1.3,1.35,2.61,Philippines
+342,Baghdad,1.17,2.0,0.72,1.48,Iraq
+343,Merida,1.16,1.64,1.41,2.44,Mexico
+344,Nuremberg,1.16,4.11,1.56,3.43,Germany
+345,Zaragoza (Saragossa),1.15,1.81,1.34,1.79,Spain
+346,Hannover,1.15,4.23,1.12,3.18,Germany
+347,Coimbra,1.15,1.63,,1.61,Portugal
+348,Podgorica,1.14,2.05,0.66,1.84,Montenegro
+349,Hamburg,1.14,4.83,1.97,3.6,Germany
+350,Boulder,1.14,6.0,3.91,4.52,United States
+351,Cuenca,1.14,1.75,1.7,2.09,Ecuador
+352,Aveiro,1.14,1.81,1.48,1.18,Portugal
+353,Tijuana,1.12,1.77,1.53,2.45,Mexico
+354,Bonn,1.12,4.53,1.12,3.11,Germany
+355,Cologne,1.12,4.83,1.58,3.26,Germany
+356,Stuttgart,1.12,4.59,2.21,3.51,Germany
+357,Dusseldorf,1.12,4.77,1.37,3.57,Germany
+358,Wuhan,1.11,1.23,,3.83,China
+359,Medellin,1.1,1.16,0.9,1.25,Colombia
+360,Freiburg im Breisgau,1.09,4.23,1.65,3.18,Germany
+361,Karlsruhe,1.09,4.23,1.3,3.39,Germany
+362,Granada,1.08,2.54,1.14,1.86,Spain
+363,Brasilia,1.08,1.51,1.23,1.34,Brazil
+364,Aachen,1.08,4.05,1.3,2.84,Germany
+365,Shenzhen,1.08,1.54,2.2,4.67,China
+366,Bilbao,1.06,3.02,1.44,1.94,Spain
+367,Rio de Janeiro,1.06,1.51,1.27,1.29,Brazil
+368,Mannheim,1.06,4.59,1.64,3.28,Germany
+369,Debrecen,1.06,1.58,0.71,1.43,Hungary
+370,Natal,1.05,1.32,1.0,1.04,Brazil
+371,Recife,1.05,1.37,1.09,1.29,Brazil
+372,Darmstadt,1.05,4.53,1.55,3.07,Germany
+373,Barranquilla,1.05,1.16,1.03,1.28,Colombia
+374,Dumaguete,1.04,1.14,1.27,,Philippines
+375,Sao Paulo,1.04,1.7,1.2,1.33,Brazil
+376,Panama City,1.03,2.5,1.94,3.1,Panama
+377,Quezon City,1.03,1.25,1.3,2.24,Philippines
+378,Guangzhou,1.03,1.54,1.55,4.23,China
+379,Dar es Salaam,1.03,1.04,0.63,1.83,Tanzania
+380,Guadalajara,1.02,1.52,1.56,2.18,Mexico
+381,Augsburg,1.02,4.23,1.7,3.33,Germany
+382,Accra,1.02,1.2,1.02,2.27,Ghana
+383,Kampala,1.02,0.94,0.87,2.35,Uganda
+384,Oradea,1.02,1.49,0.65,1.82,Romania
+385,Baku,1.01,1.18,0.3,2.35,Azerbaijan
+386,Goiania,1.01,1.13,1.27,0.98,Brazil
+387,Arad,1.01,1.24,0.67,1.58,Romania
+388,Cluj-Napoca,1.01,1.98,0.84,2.13,Romania
+389,Belo Horizonte,1.0,1.32,1.25,1.04,Brazil
+390,Gdynia,1.0,2.13,0.75,2.64,Poland
+391,Buenos Aires,0.99,1.66,1.2,1.74,Argentina
+392,Curitiba,0.99,1.51,1.13,1.17,Brazil
+393,Kigali,0.99,1.0,1.09,2.29,Rwanda
+394,Florianopolis,0.99,1.42,1.09,1.09,Brazil
+395,Vladivostok,0.98,1.16,0.59,1.75,Russia
+396,Alicante,0.98,3.5,1.11,2.04,Spain
+397,Murcia,0.98,2.42,1.47,1.73,Spain
+398,Campinas,0.98,1.37,1.17,1.44,Brazil
+399,Porto Alegre,0.98,1.42,1.03,1.33,Brazil
+400,Bratislava,0.97,2.42,1.22,2.65,Slovakia
+401,Dortmund,0.97,4.23,1.76,3.57,Germany
+402,Erlangen,0.97,4.05,1.81,4.1,Germany
+403,Tunis,0.97,1.84,0.12,0.83,Tunisia
+404,Hangzhou,0.96,0.77,1.6,3.89,China
+405,Chengdu,0.96,1.08,1.55,4.06,China
+406,Iasi,0.96,1.49,0.69,1.86,Romania
+407,Fortaleza,0.95,1.28,1.09,1.1,Brazil
+408,Essen,0.95,3.93,1.29,3.36,Germany
+409,Chisinau,0.95,1.16,0.39,1.4,Moldova
+410,Warsaw,0.95,2.66,0.93,2.95,Poland
+411,Addis Ababa,0.94,1.0,0.74,0.82,Ethiopia
+412,Chelyabinsk,0.94,0.94,0.42,1.45,Russia
+413,Budapest,0.93,1.68,0.87,1.71,Hungary
+414,Szeged,0.93,1.34,0.82,1.39,Hungary
+415,Krakow (Cracow),0.93,2.66,0.9,2.58,Poland
+416,Astana (Nur-Sultan),0.92,1.19,0.38,1.89,Kazakhstan
+417,Kosice,0.92,1.45,1.16,2.24,Slovakia
+418,Poznan,0.92,2.39,0.88,2.63,Poland
+419,Tirana,0.92,1.96,0.72,1.46,Albania
+420,Sibiu,0.92,1.98,0.98,2.0,Romania
+421,Olomouc,0.91,1.61,1.24,2.21,Czechia
+422,Gdansk,0.91,2.39,0.85,2.61,Poland
+423,Palma de Mallorca,0.9,3.02,1.46,2.52,Spain
+424,Skopje,0.9,1.96,0.59,1.74,Macedonia
+425,Bucharest,0.9,1.98,0.82,2.53,Romania
+426,Burgas,0.89,1.7,0.66,1.68,Bulgaria
+427,Malaga,0.89,2.87,1.14,1.86,Spain
+428,Beijing,0.89,1.85,1.85,4.56,China
+429,Lublin,0.89,1.86,0.68,2.31,Poland
+430,Batumi,0.89,0.91,0.4,1.44,Georgia
+431,Saint Petersburg,0.88,2.72,0.68,1.96,Russia
+432,Prague,0.88,1.89,1.22,2.64,Czechia
+433,Bogota,0.88,1.23,0.89,1.29,Colombia
+434,Queretaro,0.88,2.02,1.48,2.39,Mexico
+435,Brasov,0.88,1.49,0.91,1.85,Romania
+436,Puerto Vallarta,0.87,1.52,1.57,2.45,Mexico
+437,Salvador,0.87,1.32,0.96,1.07,Brazil
+438,Tbilisi,0.87,0.91,0.33,1.62,Georgia
+439,Szczecin,0.87,2.0,0.77,2.2,Poland
+440,Kaliningrad,0.87,1.16,0.58,1.47,Russia
+441,Moscow,0.87,2.72,0.58,2.26,Russia
+442,Brno,0.86,1.85,1.14,2.36,Czechia
+443,Constanta,0.86,1.86,0.61,2.38,Romania
+444,Phnom Penh,0.86,0.75,1.44,2.25,Cambodia
+445,Timisoara,0.86,1.49,0.78,2.02,Romania
+446,Irkutsk,0.86,1.16,0.51,1.7,Russia
+447,Rostov,0.86,1.36,0.4,1.59,Russia
+448,Sofia,0.85,1.8,0.76,1.62,Bulgaria
+449,Ho Chi Minh City,0.85,0.86,0.8,2.01,Vietnam
+450,Wroclaw,0.85,2.53,0.88,2.75,Poland
+451,Krasnoyarsk,0.85,1.4,0.44,1.62,Russia
+452,Ulaanbaatar,0.84,1.31,0.58,2.2,Mongolia
+453,Asuncion,0.84,1.16,0.51,1.77,Paraguay
+454,Yerevan,0.84,1.14,0.47,1.98,Armenia
+455,Rzeszow,0.84,1.86,0.88,1.98,Poland
+456,Minsk,0.84,1.56,0.56,1.4,Belarus
+457,Lagos,0.83,0.76,1.05,2.47,Nigeria
+458,Krasnodar,0.83,0.95,0.48,1.69,Russia
+459,Saratov,0.82,1.36,0.43,1.35,Russia
+460,Lodz,0.82,2.13,0.78,2.27,Poland
+461,Pristina,0.82,1.81,0.44,1.21,Kosovo
+462,Novosibirsk,0.82,0.99,0.42,1.72,Russia
+463,Volgograd,0.81,,0.39,1.44,Russia
+464,Perm,0.81,1.84,0.36,1.52,Russia
+465,Bishkek,0.81,0.84,0.25,1.43,Kyrgyzstan
+466,Ploiesti,0.81,1.49,0.67,1.71,Romania
+467,Ostrava,0.8,1.61,1.16,2.09,Czechia
+468,Craiova,0.8,1.49,0.59,1.55,Romania
+469,Voronezh,0.79,2.04,0.51,1.61,Russia
+470,Plovdiv,0.79,1.54,0.72,1.62,Bulgaria
+471,Seville (Sevilla),0.79,2.42,1.27,1.74,Spain
+472,Shanghai,0.79,1.54,2.21,4.52,China
+473,Omsk,0.79,1.5,0.47,1.58,Russia
+474,Sarajevo,0.78,1.85,0.65,1.6,Bosnia And Herzegovina
+475,Tyumen,0.78,0.75,0.42,1.62,Russia
+476,Bucaramanga,0.77,1.16,0.63,1.17,Colombia
+477,Izhevsk,0.77,0.82,0.39,1.21,Russia
+478,Nizhniy Novgorod,0.77,0.95,0.46,2.05,Russia
+479,Panaji,0.76,1.09,0.51,2.25,India
+480,Varna,0.75,1.39,0.66,1.5,Bulgaria
+481,Kazan,0.75,2.04,0.47,1.64,Russia
+482,Tomsk,0.75,1.16,0.46,1.48,Russia
+483,Katowice,0.74,1.86,0.91,2.09,Poland
+484,Samara,0.73,1.09,0.45,1.74,Russia
+485,Yekaterinburg,0.73,0.97,0.42,1.55,Russia
+486,Belgrade,0.73,2.05,0.52,1.86,Serbia
+487,Odessa (Odesa),0.73,0.89,0.54,1.2,Ukraine
+488,Hanoi,0.73,0.86,0.71,1.66,Vietnam
+489,Kiev (Kyiv),0.72,1.06,0.59,1.21,Ukraine
+490,Cali,0.72,0.87,0.89,1.35,Colombia
+491,La Marsa,0.72,1.84,0.18,1.28,Tunisia
+492,Lviv,0.72,1.06,0.54,1.2,Ukraine
+493,Ufa,0.71,0.82,0.48,1.47,Russia
+494,Novi Sad,0.7,1.85,0.56,1.42,Serbia
+495,Ivano-Frankivsk,0.7,0.89,0.49,0.92,Ukraine
+496,Tashkent,0.69,1.03,0.21,1.39,Uzbekistan
+497,Kharkiv,0.69,1.06,0.51,1.19,Ukraine
+498,Dnipro,0.68,0.71,0.44,1.08,Ukraine
+499,Maputo,0.68,0.84,0.72,1.67,Mozambique
+500,Vinnytsia,0.68,0.6,0.48,0.77,Ukraine
+501,Ternopil,0.68,0.9,0.46,0.97,Ukraine
+502,Zaporizhzhya,0.67,0.89,0.49,1.02,Ukraine
+503,Sumy,0.67,0.8,0.47,0.71,Ukraine
+504,Lusaka,0.65,0.94,0.56,1.6,Zambia
+505,Da Nang,0.63,1.04,,1.67,Vietnam
+506,Nis,0.62,1.34,0.48,1.26,Serbia
+507,Banja Luka,0.61,1.24,0.81,1.03,Bosnia And Herzegovina
+508,Almaty,0.58,0.95,0.31,1.77,Kazakhstan
+509,Mykolaiv,0.57,0.71,0.4,0.98,Ukraine
+510,Hamilton,,9.0,6.81,5.39,Bermuda
+511,Lugano,,7.3,2.84,4.21,Switzerland
+512,Marseille,,7.25,1.88,3.34,France
+513,Antibes,,7.25,1.9,3.16,France
+514,Long Beach,,7.0,3.12,4.33,United States
+515,Santa Rosa,,7.0,4.2,4.56,United States
+516,Irvine,,6.75,3.81,4.72,United States
+517,Fairfax,,6.5,3.12,3.75,United States
+518,Dunedin,,6.43,1.56,3.21,New Zealand
+519,Hamilton,,6.43,1.51,3.56,New Zealand
+520,Guildford,,6.18,,,United Kingdom
+521,Anchorage,,6.0,3.94,4.41,United States
+522,Fremont,,6.0,3.31,4.33,United States
+523,Jersey City,,6.0,2.92,3.72,United States
+524,Queens,,6.0,3.12,4.71,United States
+525,Darwin,,5.96,1.96,3.98,Australia
+526,Norwich,,5.71,1.41,3.03,United Kingdom
+527,Coquitlam,,5.51,1.7,3.56,Canada
+528,Surrey,,5.51,2.26,3.7,Canada
+529,York,,5.44,1.49,3.85,United Kingdom
+530,Bournemouth,,5.4,1.09,3.96,United Kingdom
+531,Fredericton,,5.31,2.81,3.23,Canada
+532,Cleveland,,5.12,2.49,4.16,United States
+533,Eugene,,5.0,2.9,4.19,United States
+534,Bellingham,,5.0,3.04,4.27,United States
+535,Albuquerque,,5.0,2.64,3.92,United States
+536,Birmingham,,5.0,2.62,4.75,United States
+537,Rochester,,5.0,2.76,3.89,United States
+538,Vancouver,,5.0,2.42,4.66,United States
+539,Everett,,5.0,2.64,4.54,United States
+540,Bellevue,,5.0,3.31,3.96,United States
+541,Olympia,,5.0,2.53,4.59,United States
+542,Fort Lauderdale,,5.0,4.13,4.29,United States
+543,Swansea,,4.89,1.35,4.36,United Kingdom
+544,Salem,,4.88,2.36,3.77,United States
+545,Dundee,,4.76,1.6,3.78,United Kingdom
+546,Milton Keynes,,4.76,1.44,3.59,United Kingdom
+547,Swindon,,4.76,,3.94,United Kingdom
+548,Lincoln,,4.76,1.39,3.65,United Kingdom
+549,Portsmouth,,4.76,1.36,3.68,United Kingdom
+550,Tangier,,4.75,,2.75,Morocco
+551,Kingston,,4.72,2.77,2.95,Canada
+552,Regina,,4.72,2.27,3.31,Canada
+553,St. John's,,4.72,2.66,3.31,Canada
+554,Nanaimo,,4.72,2.25,3.27,Canada
+555,Red Deer,,4.72,2.32,3.63,Canada
+556,Guelph,,4.53,2.3,4.2,Canada
+557,North Vancouver,,4.53,2.59,3.85,Canada
+558,Little Rock,,4.5,2.28,4.57,United States
+559,Peterborough,,4.42,1.11,4.29,United Kingdom
+560,Tallahassee,,4.25,2.75,4.14,United States
+561,Stoke-on-Trent,,4.08,1.5,3.8,United Kingdom
+562,Bend,,4.0,3.83,3.78,United States
+563,Chattanooga,,4.0,2.48,4.41,United States
+564,Baton Rouge,,4.0,2.45,4.31,United States
+565,Grand Rapids,,4.0,1.95,4.23,United States
+566,Milwaukee,,4.0,2.39,3.75,United States
+567,Mobile,,4.0,,,United States
+568,Pittsburgh,,4.0,2.79,3.73,United States
+569,Tulsa,,4.0,2.42,4.08,United States
+570,Dayton,,4.0,2.4,3.98,United States
+571,Huntsville,,4.0,2.48,4.56,United States
+572,Sarasota,,4.0,2.77,4.76,United States
+573,West Palm Beach,,4.0,3.46,5.25,United States
+574,Wichita,,3.99,2.18,4.0,United States
+575,Burnaby,,3.94,3.03,3.14,Canada
+576,Male,,3.59,1.36,2.37,Maldives
+577,Fort Worth,,3.5,2.34,4.28,United States
+578,Oklahoma City,,3.5,2.54,3.88,United States
+579,Rajkot,,3.42,0.61,1.49,India
+580,Agadir,,3.36,0.54,2.06,Morocco
+581,Macau,,3.27,1.55,4.2,Macau
+582,Knoxville,,3.25,2.65,4.33,United States
+583,Akron,,3.0,1.91,3.5,United States
+584,Suva,,2.96,0.53,2.83,Fiji
+585,Kota Kinabalu,,2.48,,,Malaysia
+586,Yogyakarta,,2.47,0.91,1.6,Indonesia
+587,Surat,,2.46,0.61,1.5,India
+588,Santa Cruz,,2.42,0.98,1.95,Spain
+589,Bialystok,,2.13,,,Poland
+590,Madurai,,1.91,0.52,0.98,India
+591,Windhoek,,1.32,,,Namibia
+592,Aguascalientes,,1.26,,2.27,Mexico
+593,Davao,,1.25,1.19,2.9,Philippines
+594,Abidjan,,0.92,0.76,2.46,Côte D’Ivoire
+595,Santa Clara,,,4.55,5.0,United States
+596,Santa Barbara,,,4.41,4.75,United States
+597,Alexandria,,,3.31,4.5,United States
+598,Riverside,,,2.65,,United States
+599,Henderson,,,2.48,3.85,United States
+600,Lincoln,,,2.4,3.55,United States
+601,Markham,,,1.79,2.97,Canada
+602,Al `Ayn,,,1.21,5.01,United Arab Emirates
+603,Kuwait City,,,1.04,4.71,Kuwait
+604,Sharjah,,,0.93,3.35,United Arab Emirates
+605,Ad Dammam,,,0.92,3.1,Saudi Arabia
+606,Jeddah,,,0.8,3.19,Saudi Arabia
+607,Riyadh,,,0.74,3.28,Saudi Arabia
+608,`Ajman,,,0.71,4.4,United Arab Emirates
+609,Dhaka,,,0.64,2.28,Bangladesh
+610,Chattogram,,,0.62,1.91,Bangladesh
+611,Tehran,,,0.62,1.97,Iran
+612,Islamabad,,,0.5,1.51,Pakistan
+613,Lahore,,,0.49,1.85,Pakistan
+614,Rawalpindi,,,0.47,,Pakistan
+615,Karachi,,,0.44,1.65,Pakistan
+616,Calicut,,,0.41,0.74,India
+617,Kabul,,,0.39,1.06,Afghanistan
+618,Peshawar,,,0.39,,Pakistan
+619,Mesa,,,,4.4,United States

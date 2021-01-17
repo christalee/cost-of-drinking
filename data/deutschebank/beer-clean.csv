@@ -1,0 +1,55 @@
+,city_ascii,country,region,price,latitude,longitude,population
+0,Dubai,United Arab Emirates,Middle East ,11.4,25.2697,55.3094,2502715
+1,Oslo,Norway,Europe ,9.8,59.9111,10.7528,693494
+2,Copenhagen,Denmark,Europe ,8.5,55.6786,12.5635,1085000
+3,Hong Kong,Hong Kong,Asia & Pacific ,8.2,22.305,114.185,7347000
+4,Singapore,Singapore,Asia & Pacific ,8.1,1.3,103.8,5745000
+5,Manhattan,United States,North America ,7.7,40.7834,-73.9662,1628706
+6,Paris,France,Europe ,7.5,48.8566,2.3522,11020000
+7,San Francisco,United States,North America ,7.2,37.7562,-122.443,3592294
+8,Boston,United States,North America ,7.2,42.3188,-71.0846,4688346
+9,Helsinki,Finland,Europe ,7.1,60.1756,24.9342,642045
+10,Zurich,Switzerland,Europe ,7.1,47.3786,8.54,434008
+11,London,United Kingdom,Europe ,7.0,51.5072,-0.1275,10979000
+12,Shanghai,China,Asia & Pacific ,6.8,31.1667,121.4667,22120000
+13,Dublin,Ireland,Europe ,6.7,53.3425,-6.2658,1173179
+14,Auckland,New Zealand,Asia & Pacific ,6.6,-36.85,174.7833,1467800
+15,Chicago,United States,North America ,6.6,41.8373,-87.6862,8604203
+16,Milan,Italy,Europe ,6.5,45.4669,9.19,1351562
+17,Stockholm,Sweden,Europe ,6.4,59.3294,18.0686,972647
+18,Melbourne,Australia,Asia & Pacific ,6.3,-37.8136,144.9631,5078193
+19,Sydney,Australia,Asia & Pacific ,6.3,-33.865,151.2094,5312163
+20,Dhaka,Bangladesh,Asia & Pacific ,5.8,23.7161,90.3961,15443000
+21,Edinburgh,United Kingdom,Europe ,5.7,55.953,-3.1889999999999996,488050
+22,Rome,Italy,Europe ,5.6,41.8931,12.4828,2872800
+23,Toronto,Canada,North America ,5.3,43.7417,-79.3733,5429524
+24,Kuala Lumpur,Malaysia,Asia & Pacific ,5.3,3.1478,101.6953,8285000
+25,Wellington,New Zealand,Asia & Pacific ,5.3,-41.2889,174.7772,418500
+26,Athens,Greece,Europe ,5.2,37.9794,23.7161,664046
+27,Madrid,Spain,Europe ,5.1,40.4189,-3.6919,3266126
+28,Vancouver,Canada,North America ,5.0,49.25,-123.1,2264823
+29,Amsterdam,Netherlands,Europe ,5.0,52.35,4.9166,1031000
+30,Tokyo,Japan,Asia & Pacific ,5.0,35.6897,139.6922,37977000
+31,Jakarta,Indonesia,Asia & Pacific ,5.0,-6.2146,106.8451,34540000
+32,Moscow,Russia,Europe ,4.7,55.7558,37.6178,17125000
+33,Frankfurt,Germany,Europe ,4.5,50.1136,8.6797,753056
+34,Vienna,Austria,Europe ,4.3,48.2083,16.3731,1840573
+35,New Delhi,India,Asia & Pacific ,4.3,28.7,77.2,142004
+36,Bangalore,India,Asia & Pacific ,4.2,12.9699,77.598,13707000
+37,Brussels,Belgium,Europe ,4.1,50.8467,4.3517,185103
+38,Seoul,"Korea, South",Asia & Pacific ,4.0,37.5833,127.0,21794000
+39,Mumbai,India,Asia & Pacific ,3.6,18.9667,72.8333,23355000
+40,Sao Paulo,Brazil,South/Latin America ,3.5,-23.5504,-46.6339,22046000
+41,Berlin,Germany,Europe ,3.5,52.5167,13.3833,3644826
+42,Istanbul,Turkey,Europe ,3.2,41.01,28.9603,15154000
+43,Mexico City,Mexico,South/Latin America ,3.1,19.4333,-99.1333,20996000
+44,Rio de Janeiro,Brazil,South/Latin America ,2.8,-22.9083,-43.1964,12272000
+45,Warsaw,Poland,Europe ,2.6,52.2167,21.0333,1790658
+46,Buenos Aires,Argentina,South/Latin America ,2.3,-34.5997,-58.3819,16157000
+47,Cape Town,South Africa,Africa ,2.2,-33.925,18.425,433688
+48,Cairo,Egypt,Middle East ,2.2,30.0561,31.2394,19372000
+49,Johannesburg,South Africa,Africa ,2.1,-26.2044,28.0416,4434827
+50,Lisbon,Portugal,Europe ,2.0,38.7452,-9.1604,506654
+51,Lagos,Nigeria,Africa ,1.9,6.45,3.4,15279000
+52,Manila,Philippines,Asia & Pacific ,1.9,14.5958,120.9772,23088000
+53,Prague,Czechia,Europe ,1.6,50.0833,14.4167,1324277

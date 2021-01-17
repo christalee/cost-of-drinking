@@ -1,0 +1,594 @@
+1	Doha, Qatar	13.35
+2	Dubai, United Arab Emirates	12.25
+3	Trondheim, Norway	11.67
+4	Bergen, Norway	11.02
+5	Abu Dhabi, United Arab Emirates	10.89
+6	Stavanger, Norway	10.50
+7	Tromso, Norway	10.50
+8	Oslo, Norway	10.50
+9	Reykjavik, Iceland	9.28
+10	Manama, Bahrain	9.25
+11	Tel Aviv-Yafo, Israel	9.12
+12	Muscat, Oman	9.09
+13	Hamilton, Bermuda	9.00
+14	Geneva, Switzerland	8.98
+15	Lausanne, Switzerland	8.98
+16	Malmo, Sweden	8.94
+17	Jerusalem, Israel	8.82
+18	Haifa, Israel	8.51
+19	Paris, France	8.46
+20	Uppsala, Sweden	8.34
+21	Stockholm, Sweden	8.16
+22	Aalborg, Denmark	8.12
+23	Arhus, Denmark	8.12
+24	Copenhagen, Denmark	8.12
+25	Nice, France	8.09
+26	Gothenburg, Sweden	7.98
+27	Basel, Switzerland	7.86
+28	Zurich, Switzerland	7.86
+29	San Francisco, CA, United States	7.75
+30	Lund, Sweden	7.74
+31	Melbourne, Australia	7.69
+32	Perth, Australia	7.69
+33	Singapore, Singapore	7.52
+34	New York, NY, United States	7.35
+35	Lugano, Switzerland	7.30
+36	Espoo, Finland	7.25
+37	Helsinki, Finland	7.25
+38	Oulu, Finland	7.25
+39	Tampere, Finland	7.25
+40	Lyon, France	7.25
+41	Marseille, France	7.25
+42	Montpellier, France	7.25
+43	Nantes, France	7.25
+44	Toulouse, France	7.25
+45	Antibes, France	7.25
+46	Auckland, New Zealand	7.15
+47	Christchurch, New Zealand	7.15
+48	Amman, Jordan	7.05
+49	Boston, MA, United States	7.00
+50	Long Beach, CA, United States	7.00
+51	Oakland, CA, United States	7.00
+52	Santa Rosa, CA, United States	7.00
+53	San Jose, CA, United States	7.00
+54	Seattle, WA, United States	7.00
+55	Berkeley, CA, United States	7.00
+56	Brooklyn, NY, United States	7.00
+57	Turku, Finland	6.95
+58	Hobart, Australia	6.92
+59	London, United Kingdom	6.79
+60	Hong Kong, Hong Kong	6.77
+61	Irvine, CA, United States	6.75
+62	Bern, Switzerland	6.74
+63	Grenoble, France	6.64
+64	Rennes, France	6.64
+65	Dublin, Ireland	6.64
+66	Odense, Denmark	6.50
+67	Los Angeles, CA, United States	6.50
+68	Washington, DC, United States	6.50
+69	Fairfax, VA, United States	6.50
+70	Dunedin, New Zealand	6.43
+71	Hamilton, New Zealand	6.43
+72	Wellington, New Zealand	6.43
+73	Dubrovnik, Croatia	6.40
+74	Strasbourg, France	6.34
+75	Guildford, United Kingdom	6.18
+76	Adelaide, Australia	6.15
+77	Brisbane, Australia	6.15
+78	Canberra, Australia	6.15
+79	Gold Coast, Australia	6.15
+80	Sydney, Australia	6.15
+81	Newcastle, Australia	6.15
+82	Edinburgh, United Kingdom	6.11
+83	Brighton, United Kingdom	6.11
+84	Lille, France	6.04
+85	Cork, Ireland	6.04
+86	Galway, Ireland	6.04
+87	Limerick, Ireland	6.04
+88	Bergamo, Italy	6.04
+89	Bologna, Italy	6.04
+90	Brescia, Italy	6.04
+91	Florence, Italy	6.04
+92	Genoa, Italy	6.04
+93	Milan, Italy	6.04
+94	Parma, Italy	6.04
+95	Rome, Italy	6.04
+96	Trieste, Italy	6.04
+97	Verona, Italy	6.04
+98	Luxembourg, Luxembourg	6.04
+99	Amsterdam, Netherlands	6.04
+100	Breda, Netherlands	6.04
+101	Delft, Netherlands	6.04
+102	Eindhoven, Netherlands	6.04
+103	Maastricht, Netherlands	6.04
+104	Utrecht, Netherlands	6.04
+105	Anchorage, AK, United States	6.00
+106	Baltimore, MD, United States	6.00
+107	Denver, CO, United States	6.00
+108	Fremont, CA, United States	6.00
+109	Honolulu, HI, United States	6.00
+110	Jersey City, NJ, United States	6.00
+111	Las Vegas, NV, United States	6.00
+112	Louisville, KY, United States	6.00
+113	Miami, FL, United States	6.00
+114	Minneapolis, MN, United States	6.00
+115	Boulder, CO, United States	6.00
+116	San Diego, CA, United States	6.00
+117	Queens, NY, United States	6.00
+118	Bristol, United Kingdom	5.98
+119	Darwin, Australia	5.96
+120	Portland, OR, United States	5.75
+121	Richmond, VA, United States	5.75
+122	Norwich, United Kingdom	5.71
+123	Houston, TX, United States	5.63
+124	Belfast, United Kingdom	5.57
+125	Calgary, Canada	5.51
+126	Coquitlam, Canada	5.51
+127	Halifax, Canada	5.51
+128	Ottawa, Canada	5.51
+129	Surrey, Canada	5.51
+130	Toronto, Canada	5.51
+131	Vancouver, Canada	5.51
+132	Victoria, Canada	5.51
+133	Quebec City, Canada	5.51
+134	Chicago, IL, United States	5.50
+135	Memphis, TN, United States	5.50
+136	Cambridge, United Kingdom	5.44
+137	Exeter, United Kingdom	5.44
+138	Manchester, United Kingdom	5.44
+139	Oxford, United Kingdom	5.44
+140	Southampton, United Kingdom	5.44
+141	York, United Kingdom	5.44
+142	Catania, Italy	5.44
+143	Plymouth, United Kingdom	5.44
+144	Leiden, Netherlands	5.44
+145	Bournemouth, United Kingdom	5.40
+146	Montreal, Canada	5.31
+147	Saskatoon, Canada	5.31
+148	Fredericton, Canada	5.31
+149	Marrakech, Morocco	5.30
+150	Turin, Italy	5.13
+151	Groningen, Netherlands	5.13
+152	Kitchener, Canada	5.12
+153	Cleveland, OH, United States	5.12
+154	Linz, Austria	5.07
+155	Eugene, OR, United States	5.00
+156	Bellingham, WA, United States	5.00
+157	Albuquerque, NM, United States	5.00
+158	Atlanta, GA, United States	5.00
+159	Birmingham, AL, United States	5.00
+160	Boise, ID, United States	5.00
+161	Cincinnati, OH, United States	5.00
+162	Colorado Springs, CO, United States	5.00
+163	Dallas, TX, United States	5.00
+164	Detroit, MI, United States	5.00
+165	Philadelphia, PA, United States	5.00
+166	Phoenix, AZ, United States	5.00
+167	Raleigh, NC, United States	5.00
+168	Rochester, NY, United States	5.00
+169	Sacramento, CA, United States	5.00
+170	Saint Paul, MN, United States	5.00
+171	Salt Lake City, UT, United States	5.00
+172	Spokane, WA, United States	5.00
+173	Vancouver, WA, United States	5.00
+174	Everett, WA, United States	5.00
+175	Bellevue, WA, United States	5.00
+176	Olympia, WA, United States	5.00
+177	Fort Lauderdale, FL, United States	5.00
+178	Nashville, TN, United States	5.00
+179	Swansea, United Kingdom	4.89
+180	Salem, OR, United States	4.88
+181	Leuven, Belgium	4.83
+182	Tallinn, Estonia	4.83
+183	Thessaloniki, Greece	4.83
+184	Cologne, Germany	4.83
+185	Frankfurt, Germany	4.83
+186	Hamburg, Germany	4.83
+187	Munich, Germany	4.83
+188	Athens, Greece	4.83
+189	Heidelberg, Germany	4.83
+190	Bari, Italy	4.83
+191	Cagliari, Italy	4.83
+192	Padova, Italy	4.83
+193	Palermo, Italy	4.83
+194	Enschede, Netherlands	4.83
+195	Haarlem, Netherlands	4.83
+196	Nijmegen, Netherlands	4.83
+197	Rotterdam, Netherlands	4.83
+198	Vienna, Austria	4.83
+199	Antwerp, Belgium	4.83
+200	Brussels, Belgium	4.83
+201	Gent, Belgium	4.83
+202	Osaka, Japan	4.82
+203	Tokyo, Japan	4.82
+204	Dusseldorf, Germany	4.77
+205	Birmingham, United Kingdom	4.76
+206	Cardiff, United Kingdom	4.76
+207	Coventry, United Kingdom	4.76
+208	Derby, United Kingdom	4.76
+209	Dundee, United Kingdom	4.76
+210	Glasgow, United Kingdom	4.76
+211	Leeds, United Kingdom	4.76
+212	Milton Keynes, United Kingdom	4.76
+213	Newcastle upon Tyne, United Kingdom	4.76
+214	Nottingham, United Kingdom	4.76
+215	Reading, United Kingdom	4.76
+216	Sheffield, United Kingdom	4.76
+217	Swindon, United Kingdom	4.76
+218	Lincoln, United Kingdom	4.76
+219	Portsmouth, United Kingdom	4.76
+220	Tangier, Morocco	4.75
+221	Charlotte, NC, United States	4.75
+222	Kingston, Canada	4.72
+223	Edmonton, Canada	4.72
+224	Kelowna, Canada	4.72
+225	London, Canada	4.72
+226	Regina, Canada	4.72
+227	Saint John's, Canada	4.72
+228	Windsor, Canada	4.72
+229	Winnipeg, Canada	4.72
+230	Nanaimo, BC, Canada	4.72
+231	Red Deer, Canada	4.72
+232	Graz, Austria	4.65
+233	Aberdeen, United Kingdom	4.62
+234	Mannheim, Germany	4.59
+235	Stuttgart, Germany	4.59
+236	Salzburg, Austria	4.59
+237	Guelph, Canada	4.53
+238	Bonn, Germany	4.53
+239	Darmstadt, Germany	4.53
+240	Patras, Greece	4.53
+241	North Vancouver, Canada	4.53
+242	Charleston, SC, United States	4.50
+243	Fort Collins, CO, United States	4.50
+244	Kansas City, MO, United States	4.50
+245	Little Rock, AR, United States	4.50
+246	Orlando, FL, United States	4.50
+247	Saint Louis, MO, United States	4.50
+248	Tampa, FL, United States	4.50
+249	Peterborough, United Kingdom	4.42
+250	Buffalo, NY, United States	4.39
+251	Leicester, United Kingdom	4.35
+252	The Hague (Den Haag), Netherlands	4.35
+253	Liverpool, United Kingdom	4.35
+254	Brampton, Canada	4.33
+255	Indianapolis, IN, United States	4.25
+256	Madison, WI, United States	4.25
+257	Tacoma, WA, United States	4.25
+258	Tallahassee, FL, United States	4.25
+259	Nicosia, Cyprus	4.23
+260	Tartu, Estonia	4.23
+261	Augsburg, Germany	4.23
+262	Berlin, Germany	4.23
+263	Bremen, Germany	4.23
+264	Dortmund, Germany	4.23
+265	Dresden, Germany	4.23
+266	Freiburg im Breisgau, Germany	4.23
+267	Hanover, Germany	4.23
+268	Karlsruhe, Germany	4.23
+269	Des Moines, IA, United States	4.12
+270	Reno, NV, United States	4.12
+271	Nuremberg, Germany	4.11
+272	Santiago, Chile	4.08
+273	Kingston upon Hull, United Kingdom	4.08
+274	Stoke-on-Trent, United Kingdom	4.08
+275	Aachen, Germany	4.05
+276	Erlangen, Germany	4.05
+277	Nassau, Bahamas	4.00
+278	Bend, OR, United States	4.00
+279	Chattanooga, TN, United States	4.00
+280	Austin, TX, United States	4.00
+281	Baton Rouge, LA, United States	4.00
+282	Columbus, OH, United States	4.00
+283	Fresno, CA, United States	4.00
+284	Grand Rapids, MI, United States	4.00
+285	Jacksonville, FL, United States	4.00
+286	Milwaukee, WI, United States	4.00
+287	Mobile, AL, United States	4.00
+288	Omaha, NE, United States	4.00
+289	Pittsburgh, PA, United States	4.00
+290	Tucson, AZ, United States	4.00
+291	Tulsa, OK, United States	4.00
+292	Albany, NY, United States	4.00
+293	Dayton, OH, United States	4.00
+294	Huntsville, AL, United States	4.00
+295	Ann Arbor, MI, United States	4.00
+296	Sarasota, FL, United States	4.00
+297	Beirut, Lebanon	4.00
+298	West Palm Beach, FL, United States	4.00
+299	Wichita, KS, United States	3.99
+300	Burnaby, Canada	3.94
+301	Hamilton, Canada	3.94
+302	Mississauga, Canada	3.94
+303	Heraklion, Greece	3.93
+304	Essen, Germany	3.93
+305	Leipzig, Germany	3.87
+306	San Antonio, TX, United States	3.75
+307	Johor Bahru, Malaysia	3.72
+308	Kuala Lumpur, Malaysia	3.72
+309	Petaling Jaya, Malaysia	3.72
+310	Penang, Malaysia	3.72
+311	Larnaca, Cyprus	3.62
+312	Limassol, Cyprus	3.62
+313	Barcelona, Spain	3.62
+314	Madrid, Spain	3.62
+315	Valletta, Malta	3.62
+316	Naples, Italy	3.62
+317	Riga, Latvia	3.62
+318	Seoul, South Korea	3.62
+319	Kaunas, Lithuania	3.62
+320	Klaipeda, Lithuania	3.62
+321	Vilnius, Lithuania	3.62
+322	Sliema, Malta	3.62
+323	Male, Maldives	3.59
+324	Nagoya, Japan	3.52
+325	Alicante, Spain	3.50
+326	Fort Worth, TX, United States	3.50
+327	Oklahoma City, OK, United States	3.50
+328	Lexington, KY, United States	3.50
+329	Rajkot, India	3.42
+330	Agadir, Morocco	3.36
+331	Casablanca, Morocco	3.36
+332	Rabat, Morocco	3.36
+333	Macao, Macao	3.27
+334	Ljubljana, Slovenia	3.26
+335	Knoxville, TN, United States	3.25
+336	New Orleans, LA, United States	3.25
+337	Split, Croatia	3.20
+338	Bandung, Indonesia	3.18
+339	Jakarta, Indonesia	3.18
+340	Phuket, Thailand	3.16
+341	Maribor, Slovenia	3.02
+342	Bilbao, Spain	3.02
+343	Palma de Mallorca, Spain	3.02
+344	San Juan, Puerto Rico	3.00
+345	Akron, OH, United States	3.00
+346	Suva, Fiji	2.96
+347	Malaga, Spain	2.87
+348	El Paso, TX, United States	2.87
+349	Montevideo, Uruguay	2.83
+350	Gurgaon, India	2.73
+351	Saint Petersburg, Russia	2.72
+352	Zadar, Croatia	2.72
+353	Funchal, Portugal	2.72
+354	Moscow, Russia	2.72
+355	Pattaya, Thailand	2.66
+356	Krakow (Cracow), Poland	2.66
+357	Warsaw, Poland	2.66
+358	Rijeka, Croatia	2.56
+359	Kathmandu, Nepal	2.56
+360	Thane, India	2.56
+361	Granada, Spain	2.54
+362	Wroclaw, Poland	2.53
+363	Bhopal, India	2.53
+364	Panama City, Panama	2.50
+365	Kota Kinabalu, Malaysia	2.48
+366	Yogyakarta, Indonesia	2.47
+367	Bali, Indonesia	2.47
+368	Surabaya, Indonesia	2.47
+369	Chandigarh, India	2.46
+370	Surat, India	2.46
+371	San Jose, Costa Rica	2.44
+372	Bratislava, Slovakia	2.42
+373	Murcia, Spain	2.42
+374	Santa Cruz de Tenerife, Spain	2.42
+375	Seville (Sevilla), Spain	2.42
+376	Valencia, Spain	2.42
+377	Paphos, Cyprus	2.42
+378	Lisbon, Portugal	2.42
+379	Porto, Portugal	2.42
+380	Ankara, Turkey	2.41
+381	Zagreb, Croatia	2.40
+382	Navi Mumbai, India	2.39
+383	Cairo, Egypt	2.39
+384	Gdansk, Poland	2.39
+385	Poznan, Poland	2.39
+386	Pune, India	2.39
+387	Vadodara, India	2.39
+388	Chiang Mai, Thailand	2.33
+389	Nagpur, India	2.32
+390	Cape Town, South Africa	2.30
+391	Johannesburg, South Africa	2.30
+392	Istanbul, Turkey	2.27
+393	Izmir, Turkey	2.27
+394	Nairobi, Kenya	2.26
+395	Ahmedabad, India	2.26
+396	Lima, Peru	2.21
+397	Mumbai, India	2.19
+398	La Paz, Bolivia	2.17
+399	Bangkok, Thailand	2.16
+400	Antalya, Turkey	2.14
+401	Lodz, Poland	2.13
+402	Bialystok, Poland	2.13
+403	Gdynia, Poland	2.13
+404	Taipei, Taiwan	2.12
+405	Kingston, Jamaica	2.07
+406	Santo Domingo, Dominican Republic	2.06
+407	Belgrade, Serbia	2.05
+408	Podgorica, Montenegro	2.05
+409	Kaohsiung, Taiwan	2.05
+410	Bhubaneswar, India	2.05
+411	Raipur, India	2.05
+412	Bangalore, India	2.05
+413	Chennai, India	2.05
+414	Delhi, India	2.05
+415	Kolkata, India	2.05
+416	Voronezh, Russia	2.04
+417	Kazan, Russia	2.04
+418	Gaborone, Botswana	2.03
+419	Santa Cruz, Bolivia	2.03
+420	Mexico City, Mexico	2.02
+421	Queretaro, Mexico	2.02
+422	Havana, Cuba	2.00
+423	Quito, Ecuador	2.00
+424	Baghdad, Iraq	2.00
+425	Szczecin, Poland	2.00
+426	Harare, Zimbabwe	2.00
+427	Bucharest, Romania	1.98
+428	Cluj-Napoca, Romania	1.98
+429	Sibiu, Romania	1.98
+430	Durban, South Africa	1.97
+431	Pretoria, South Africa	1.97
+432	Skopje, North Macedonia	1.96
+433	Tirana, Albania	1.96
+434	Osijek, Croatia	1.92
+435	Guatemala City, Guatemala	1.92
+436	Port of Spain, Trinidad And Tobago	1.91
+437	Alexandria, Egypt	1.91
+438	Noida, India	1.91
+439	Lucknow (Lakhnau), India	1.91
+440	Madurai, India	1.91
+441	Prague, Czech Republic	1.89
+442	Cancun, Mexico	1.88
+443	Constanta, Romania	1.86
+444	Katowice, Poland	1.86
+445	Lublin, Poland	1.86
+446	Rzeszow, Poland	1.86
+447	Sarajevo, Bosnia And Herzegovina	1.85
+448	Novi Sad, Serbia	1.85
+449	Brno, Czech Republic	1.85
+450	Ranchi, India	1.85
+451	Beijing, China	1.85
+452	Perm, Russia	1.84
+453	Al Marsa, Tunisia	1.84
+454	Tunis, Tunisia	1.84
+455	Zaragoza (Saragossa), Spain	1.81
+456	Pristina, Kosovo (Disputed Territory)	1.81
+457	Bursa, Turkey	1.81
+458	Aveiro, Portugal	1.81
+459	Braga, Portugal	1.81
+460	Sofia, Bulgaria	1.80
+461	Coimbatore, India	1.78
+462	Monterrey, Mexico	1.77
+463	Tijuana, Mexico	1.77
+464	Cuenca, Ecuador	1.75
+465	Guayaquil, Ecuador	1.75
+466	Damascus, Syria	1.72
+467	Burgas, Bulgaria	1.70
+468	Sao Paulo, Brazil	1.70
+469	Algiers, Algeria	1.69
+470	Budapest, Hungary	1.68
+471	Buenos Aires, Argentina	1.66
+472	Merida, Mexico	1.64
+473	Coimbra, Portugal	1.63
+474	Olomouc, Czech Republic	1.61
+475	Ostrava, Czech Republic	1.61
+476	Paramaribo, Suriname	1.61
+477	Manila, Philippines	1.61
+478	Debrecen, Hungary	1.58
+479	Kochi, India	1.57
+480	Patna, India	1.57
+481	Minsk, Belarus	1.56
+482	Colombo, Sri Lanka	1.55
+483	Plovdiv, Bulgaria	1.54
+484	Guangzhou, China	1.54
+485	Shanghai, China	1.54
+486	Shenzhen, China	1.54
+487	Guadalajara, Mexico	1.52
+488	Puerto Vallarta, Mexico	1.52
+489	Curitiba, Brazil	1.51
+490	Rio de Janeiro, Brazil	1.51
+491	Brasilia, Brazil	1.51
+492	Thiruvananthapuram, India	1.50
+493	Omsk, Russia	1.50
+494	Brasov, Romania	1.49
+495	Craiova, Romania	1.49
+496	Iasi, Romania	1.49
+497	Oradea, Romania	1.49
+498	Ploiesti, Romania	1.49
+499	Timisoara, Romania	1.49
+500	Makati, Philippines	1.46
+501	Kosice, Slovakia	1.45
+502	Ghaziabad, India	1.44
+503	Porto Alegre, Brazil	1.42
+504	Florianopolis, Brazil	1.42
+505	Krasnoyarsk, Russia	1.40
+506	Varna, Bulgaria	1.39
+507	Campinas, Brazil	1.37
+508	Recife, Brazil	1.37
+509	Hyderabad, India	1.37
+510	Indore, India	1.37
+511	Jaipur, India	1.37
+512	Mysore, India	1.37
+513	Visakhapatnam, India	1.37
+514	Saratov, Russia	1.36
+515	Erbil (Irbil), Iraq	1.36
+516	Rostov-na-donu, Russia	1.36
+517	Szeged, Hungary	1.34
+518	Nis, Serbia	1.34
+519	Belo Horizonte, Brazil	1.32
+520	Natal, Brazil	1.32
+521	Salvador, Brazil	1.32
+522	Windhoek, Namibia	1.32
+523	Ulaanbaatar, Mongolia	1.31
+524	Cebu, Philippines	1.30
+525	Guwahati, India	1.30
+526	Vijayawada, India	1.30
+527	Fortaleza, Brazil	1.28
+528	Aguascalientes, Mexico	1.26
+529	Davao, Philippines	1.25
+530	Quezon City, Philippines	1.25
+531	San Salvador, El Salvador	1.25
+532	Banja Luka, Bosnia And Herzegovina	1.24
+533	Arad, Romania	1.24
+534	Bogota, Colombia	1.23
+535	Wuhan, China	1.23
+536	Accra, Ghana	1.20
+537	Astana (Nur-Sultan), Kazakhstan	1.19
+538	Baku, Azerbaijan	1.18
+539	Vladivostok, Russia	1.16
+540	Medellin, Colombia	1.16
+541	Asuncion, Paraguay	1.16
+542	Barranquilla, Colombia	1.16
+543	Bucaramanga, Colombia	1.16
+544	Chisinau, Moldova	1.16
+545	Tomsk, Russia	1.16
+546	Irkutsk, Russia	1.16
+547	Kaliningrad, Russia	1.16
+548	Dumaguete, Philippines	1.14
+549	Yerevan, Armenia	1.14
+550	Goiania, Brazil	1.13
+551	Samara, Russia	1.09
+552	Goa, India	1.09
+553	Chengdu, China	1.08
+554	Kharkiv, Ukraine	1.06
+555	Kiev (Kyiv), Ukraine	1.06
+556	Lviv, Ukraine	1.06
+557	Dar es Salaam, Tanzania	1.04
+558	Da Nang, Vietnam	1.04
+559	Tashkent, Uzbekistan	1.03
+560	Puebla, Mexico	1.01
+561	Zapopan, Mexico	1.01
+562	Yangon, Myanmar	1.00
+563	Kigali, Rwanda	1.00
+564	Addis Ababa, Ethiopia	1.00
+565	Novosibirsk, Russia	0.99
+566	Yekaterinburg, Russia	0.97
+567	Almaty, Kazakhstan	0.95
+568	Krasnodar, Russia	0.95
+569	Nizhny Novgorod, Russia	0.95
+570	Kampala, Uganda	0.94
+571	Lusaka, Zambia	0.94
+572	Chelyabinsk, Russia	0.94
+573	Abidjan, Ivory Coast	0.92
+574	Tbilisi, Georgia	0.91
+575	Batumi, Ajara, Georgia	0.91
+576	Ternopil, Ukraine	0.90
+577	Zaporizhzhya, Ukraine	0.89
+578	Odessa (Odesa), Ukraine	0.89
+579	Ivano-Frankivsk, Ukraine	0.89
+580	Cali, Colombia	0.87
+581	Hanoi, Vietnam	0.86
+582	Ho Chi Minh City, Vietnam	0.86
+583	Maputo, Mozambique	0.84
+584	Bishkek, Kyrgyzstan	0.84
+585	Ufa, Russia	0.82
+586	Izhevsk, Russia	0.82
+587	Sumy, Ukraine	0.80
+588	Hangzhou, China	0.77
+589	Lagos, Nigeria	0.76
+590	Tyumen, Russia	0.75
+591	Phnom Penh, Cambodia	0.75
+592	Dnipro, Ukraine	0.71
+593	Mykolaiv, Ukraine	0.71
+594	Vinnytsia, Ukraine	0.60

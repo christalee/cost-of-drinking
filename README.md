@@ -15,11 +15,15 @@
 - Sourced below data points:
   - Bread for 2 people for 1 day
   - Cappuccino in expat area of the city
-  -	1 beer in neighbourhood pub (500ml or 1pt.) 
+  -	1 beer in neighbourhood pub (500ml or 1pt.)
   - 0.5 l (16 oz) domestic beer in the supermarket
 
 ## Numbeo Data Set
-- Data gathered January 2021 on [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114), [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15), [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
+- Data gathered January 2021 on:
+  - [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114)
+  - [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15)
+  - [500mL beer in restaurants](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=4)
+  - [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
 
 ## PintPrice Data Set
 - Data gathered January 2021 on the price of a pint / local equivalent from [PintPrice.com](http://www.pintprice.com/index.php)
