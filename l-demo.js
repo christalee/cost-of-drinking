@@ -41,8 +41,19 @@ function onMapZoom(e) {
       inbounds.push(m);
     }
   }
-  for (const x of inbounds.slice(0, 25)) {
+  inbounds.sort((a, b) => inbounds_sort(b) - inbounds_sort(a));
+  console.log(inbounds);
+  for (const x of inbounds.slice(0, 50)) {
     x.addTo(mymap);
+  }
+}
+
+function inbounds_sort(marker) {
+  const latlng = marker.getLatLng();
+  for (const x of db_beer) {
+    if (latlng.lat === x.latitude && latlng.lng === x.longitude) {
+      return x.population;
+    }
   }
 }
 
@@ -61,12 +72,13 @@ mymap.on("moveend", onMapZoom);
 //   });
 
 function parse(json) {
-  const props = ['city_ascii', 'country', 'price', 'latitude', 'longitude'];
+  const x = Object.entries(json);
+  const y = Object.entries(x[0][1]);
   let a = new Array();
-  for (let i = 0; i <= 53; i += 1) {
-    let b = new Array();
-    for (const p of props) {
-      b.push(json[p][i]);
+  for (let i = 0; i < y.length; i += 1) {
+    let b = new Object();
+    for (const [k, v] of Object.entries(json)) {
+      b[k] = v[i];
     }
     a.push(b);
   }
@@ -80,10 +92,10 @@ fetch('http://localhost:8000/data/deutschebank/beer-clean.json', {
   })
   .then(response => response.json())
   .then(data => {
-    // console.log(data);
-    const db_beer = parse(data);
+    console.log(data);
+    db_beer = parse(data);
     for (const x of db_beer) {
-      const m = mark([x[3], x[4]], String(x[2]));
+      mark([x.latitude, x.longitude], String(x.population));
     }
     for (const y of markers) {
       y.addTo(mymap);
