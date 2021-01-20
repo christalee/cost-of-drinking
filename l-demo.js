@@ -7,34 +7,22 @@ const Esri_WorldStreetMap = L.tileLayer(
 
 Esri_WorldStreetMap.addTo(mymap);
 
-// const marker = L.marker([51.5, 0.0]).addTo(mymap);
-const circle = L.circle([51.508, -0.11], {
-  color: 'red',
-  fillColor: 'red',
-  radius: 1000
-}).addTo(mymap);
-
 const markers = new Array();
-const mark = function (coords) {
+const mark = function (coords, popup) {
   const c = L.circle(coords, {
     color: 'red',
     fillColor: 'red',
     radius: 1000
   });
 
+  c.bindPopup(popup);
   markers.push(c);
 }
 
-const locations = new Array();
-for (x = 0; x <= 100; x += 1) {
-  locations[x] = [Math.random() * 10, Math.random() * 10];
-}
-locations.forEach(mark);
-
 function between(marker, bounds) {
-  lat = [bounds.getSouth(), bounds.getNorth()];
-  lng = [bounds.getWest(), bounds.getEast()];
-  m_latlng = marker.getLatLng();
+  const lat = [bounds.getSouth(), bounds.getNorth()];
+  const lng = [bounds.getWest(), bounds.getEast()];
+  const m_latlng = marker.getLatLng();
   if (m_latlng.lat >= lat[0] && m_latlng.lat <= lat[1] && m_latlng.lng >= lng[0] &&
     m_latlng.lng <= lng[1]) {
     return true;
@@ -44,40 +32,66 @@ function between(marker, bounds) {
 }
 
 function onMapZoom(e) {
-  bounds = mymap.getBounds();
+  const bounds = mymap.getBounds();
   // console.log(bounds);
-  inbounds = new Array();
-  for (let m of markers) {
+  let inbounds = new Array();
+  for (const m of markers) {
     m.remove()
     if (between(m, bounds)) {
       inbounds.push(m);
     }
   }
-  for (let x of inbounds.slice(0, 10)) {
+  for (const x of inbounds.slice(0, 25)) {
     x.addTo(mymap);
   }
 }
 
-mymap.on("load", onMapZoom);
+// mymap.on("load", onMapZoom);
 mymap.on("zoomend", onMapZoom);
 mymap.on("moveend", onMapZoom);
+//
+// fetch('http://localhost:8000/graphs/Seoul.html', {
+//     mode: 'same-origin'
+//   }).then(response => response.text())
+//   .then(data => {
+//     // console.log(data);
+//     circle.bindPopup(html, {
+//       minWidth: 400
+//     });
+//   });
 
-fetch('http://localhost:8000/Seoul.html', {
-  mode: 'same-origin'
-}).then(response => {
-  return response.text();
-}).then(data => {
-  circle.bindPopup(data, {
-    minWidth: 400
+function parse(json) {
+  const props = ['city_ascii', 'country', 'price', 'latitude', 'longitude'];
+  let a = new Array();
+  for (let i = 0; i <= 53; i += 1) {
+    let b = new Array();
+    for (const p of props) {
+      b.push(json[p][i]);
+    }
+    a.push(b);
+  }
+
+  return a;
+};
+
+let db_beer;
+fetch('http://localhost:8000/data/deutschebank/beer-clean.json', {
+    mode: 'same-origin'
+  })
+  .then(response => response.json())
+  .then(data => {
+    // console.log(data);
+    const db_beer = parse(data);
+    for (const x of db_beer) {
+      const m = mark([x[3], x[4]], String(x[2]));
+    }
+    for (const y of markers) {
+      y.addTo(mymap);
+    }
   });
-});
-
-// console.log(html2);
 
 const html =
-  `<!DOCTYPE html>
-<html>
-<head>
+  `<head>
   <style>
     .error {
         color: red;
@@ -108,8 +122,7 @@ const html =
     })(vegaEmbed);
 
   </script>
-</body>
-</html>`
+</body>`
 
 // circle.bindPopup(html, {
 //   minWidth: 400
