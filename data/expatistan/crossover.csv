@@ -2,9 +2,8 @@ city_ascii,country,URL
 Kabul,Afghanistan, https://www.expatistan.com/cost-of-living/kabul
 Tirana,Albania, https://www.expatistan.com/cost-of-living/tirana
 Algiers,Algeria, https://www.expatistan.com/cost-of-living/algiers
-St. John's,Canada, https://www.expatistan.com/cost-of-living/st-johns-antigua-and-barbuda
+Athens,Greece, https://www.expatistan.com/cost-of-living/athens-greece
 Buenos Aires,Argentina, https://www.expatistan.com/cost-of-living/buenos-aires
-San Juan,Puerto Rico, https://www.expatistan.com/cost-of-living/san-juan-argentina
 Santa Rosa,United States, https://www.expatistan.com/cost-of-living/santa-rosa
 Yerevan,Armenia, https://www.expatistan.com/cost-of-living/yerevan
 Adelaide,Australia, https://www.expatistan.com/cost-of-living/adelaide
@@ -14,8 +13,7 @@ Darwin,Australia, https://www.expatistan.com/cost-of-living/darwin
 Gold Coast,Australia, https://www.expatistan.com/cost-of-living/gold-coast
 Hobart,Australia, https://www.expatistan.com/cost-of-living/hobart
 Melbourne,Australia, https://www.expatistan.com/cost-of-living/melbourne
-Newcastle,Australia, https://www.expatistan.com/cost-of-living/newcastle-australia
-Perth,Australia, https://www.expatistan.com/cost-of-living/perth-australia
+Barcelona,Spain, https://www.expatistan.com/cost-of-living/barcelona-spain
 Sydney,Australia, https://www.expatistan.com/cost-of-living/sydney
 Graz,Austria, https://www.expatistan.com/cost-of-living/graz
 Salzburg,Austria, https://www.expatistan.com/cost-of-living/salzburg
@@ -29,8 +27,8 @@ Minsk,Belarus, https://www.expatistan.com/cost-of-living/minsk
 Antwerp,Belgium, https://www.expatistan.com/cost-of-living/antwerp
 Brussels,Belgium, https://www.expatistan.com/cost-of-living/brussels
 Leuven,Belgium, https://www.expatistan.com/cost-of-living/leuven
-Hamilton,Canada, https://www.expatistan.com/cost-of-living/hamilton-bermuda
-La Paz,Bolivia, https://www.expatistan.com/cost-of-living/la-paz-bolivia
+Birmingham,United Kingdom, https://www.expatistan.com/cost-of-living/birmingham-united-kingdom
+Birmingham,United States, https://www.expatistan.com/cost-of-living/birmingham-alabama
 Banja Luka,Bosnia And Herzegovina, https://www.expatistan.com/cost-of-living/banja-luka
 Sarajevo,Bosnia And Herzegovina, https://www.expatistan.com/cost-of-living/sarajevo
 Gaborone,Botswana, https://www.expatistan.com/cost-of-living/gaborone
@@ -53,10 +51,8 @@ Calgary,Canada, https://www.expatistan.com/cost-of-living/calgary
 Edmonton,Canada, https://www.expatistan.com/cost-of-living/edmonton
 Guelph,Canada, https://www.expatistan.com/cost-of-living/guelph
 Halifax,Canada, https://www.expatistan.com/cost-of-living/halifax
-Hamilton,Canada, https://www.expatistan.com/cost-of-living/hamilton-canada
+Florence,Italy, https://www.expatistan.com/cost-of-living/florence
 Kelowna,Canada, https://www.expatistan.com/cost-of-living/kelowna
-Kingston,Jamaica, https://www.expatistan.com/cost-of-living/kingston-canada
-London,United Kingdom, https://www.expatistan.com/cost-of-living/london-ontario
 Mississauga,Canada, https://www.expatistan.com/cost-of-living/mississauga
 Montreal,Canada, https://www.expatistan.com/cost-of-living/montreal
 Nanaimo,Canada, https://www.expatistan.com/cost-of-living/nanaimo-british-columbia
@@ -64,13 +60,13 @@ Ottawa,Canada, https://www.expatistan.com/cost-of-living/ottawa
 Quebec City,Canada, https://www.expatistan.com/cost-of-living/quebec-city
 Regina,Canada, https://www.expatistan.com/cost-of-living/regina
 Saskatoon,Canada, https://www.expatistan.com/cost-of-living/saskatoon
-St. John's,Canada, https://www.expatistan.com/cost-of-living/st-johns-newfoundland
+Granada,Spain, https://www.expatistan.com/cost-of-living/granada-spain
 Toronto,Canada, https://www.expatistan.com/cost-of-living/toronto
-Vancouver,Canada, https://www.expatistan.com/cost-of-living/vancouver
-Victoria,Canada, https://www.expatistan.com/cost-of-living/victoria-canada
+Hamilton,Bermuda, https://www.expatistan.com/cost-of-living/hamilton-bermuda
+Hamilton,Canada, https://www.expatistan.com/cost-of-living/hamilton-canada
 Windsor,Canada, https://www.expatistan.com/cost-of-living/windsor
 Winnipeg,Canada, https://www.expatistan.com/cost-of-living/winnipeg
-Santiago,Chile, https://www.expatistan.com/cost-of-living/santiago-chile
+Hamilton,New Zealand, https://www.expatistan.com/cost-of-living/hamilton-new-zealand
 Beijing,China, https://www.expatistan.com/cost-of-living/beijing
 Chengdu,China, https://www.expatistan.com/cost-of-living/chengdu
 Guangzhou,China, https://www.expatistan.com/cost-of-living/guangzhou
@@ -80,7 +76,7 @@ Shenzhen,China, https://www.expatistan.com/cost-of-living/shenzhen
 Wuhan,China, https://www.expatistan.com/cost-of-living/wuhan
 Barranquilla,Colombia, https://www.expatistan.com/cost-of-living/barranquilla
 Bucaramanga,Colombia, https://www.expatistan.com/cost-of-living/bucaramanga
-San Jose,United States, https://www.expatistan.com/cost-of-living/san-jose-costa-rica
+Hyderabad,India, https://www.expatistan.com/cost-of-living/hyderabad-india
 Dubrovnik,Croatia, https://www.expatistan.com/cost-of-living/dubrovnik
 Osijek,Croatia, https://www.expatistan.com/cost-of-living/osijek
 Rijeka,Croatia, https://www.expatistan.com/cost-of-living/rijeka
@@ -146,7 +142,6 @@ Munich,Germany, https://www.expatistan.com/cost-of-living/munich
 Nuremberg,Germany, https://www.expatistan.com/cost-of-living/nuremberg
 Stuttgart,Germany, https://www.expatistan.com/cost-of-living/stuttgart
 Accra,Ghana, https://www.expatistan.com/cost-of-living/accra
-Athens,Greece, https://www.expatistan.com/cost-of-living/athens-greece
 Heraklion,Greece, https://www.expatistan.com/cost-of-living/heraklion
 Patras,Greece, https://www.expatistan.com/cost-of-living/patras
 Thessaloniki,Greece, https://www.expatistan.com/cost-of-living/thessaloniki
@@ -166,10 +161,9 @@ Delhi,India, https://www.expatistan.com/cost-of-living/delhi
 Ghaziabad,India, https://www.expatistan.com/cost-of-living/ghaziabad
 Gurgaon,India, https://www.expatistan.com/cost-of-living/gurgaon
 Guwahati,India, https://www.expatistan.com/cost-of-living/guwahati
-Hyderabad,India, https://www.expatistan.com/cost-of-living/hyderabad-india
 Indore,India, https://www.expatistan.com/cost-of-living/indore
 Jaipur,India, https://www.expatistan.com/cost-of-living/jaipur-india
-Kochi,India, https://www.expatistan.com/cost-of-living/kochi-india
+Kingston,Jamaica, https://www.expatistan.com/cost-of-living/kingston-jamaica
 Kolkata,India, https://www.expatistan.com/cost-of-living/kolkata
 Madurai,India, https://www.expatistan.com/cost-of-living/madurai
 Mumbai,India, https://www.expatistan.com/cost-of-living/mumbai
@@ -205,7 +199,7 @@ Bologna,Italy, https://www.expatistan.com/cost-of-living/bologna
 Brescia,Italy, https://www.expatistan.com/cost-of-living/brescia
 Cagliari,Italy, https://www.expatistan.com/cost-of-living/cagliari
 Catania,Italy, https://www.expatistan.com/cost-of-living/catania
-Florence,Italy, https://www.expatistan.com/cost-of-living/florence
+Kochi,India, https://www.expatistan.com/cost-of-living/kochi-india
 Genoa,Italy, https://www.expatistan.com/cost-of-living/genoa
 Milan,Italy, https://www.expatistan.com/cost-of-living/milan
 Naples,Italy, https://www.expatistan.com/cost-of-living/naples
@@ -216,8 +210,7 @@ Trieste,Italy, https://www.expatistan.com/cost-of-living/trieste
 Turin,Italy, https://www.expatistan.com/cost-of-living/turin
 Verona,Italy, https://www.expatistan.com/cost-of-living/verona
 Abidjan,Ivory Coast, https://www.expatistan.com/cost-of-living/abidjan
-Kingston,Jamaica, https://www.expatistan.com/cost-of-living/kingston-jamaica
-Kochi,India, https://www.expatistan.com/cost-of-living/kochi-japan
+La Paz,Bolivia, https://www.expatistan.com/cost-of-living/la-paz-bolivia
 Nagoya,Japan, https://www.expatistan.com/cost-of-living/nagoya
 Osaka,Japan, https://www.expatistan.com/cost-of-living/osaka
 Tokyo,Japan, https://www.expatistan.com/cost-of-living/tokyo
@@ -239,7 +232,6 @@ Petaling Jaya,Malaysia, https://www.expatistan.com/cost-of-living/petaling-jaya
 Valletta,Malta, https://www.expatistan.com/cost-of-living/valletta
 Aguascalientes,Mexico, https://www.expatistan.com/cost-of-living/aguascalientes
 Guadalajara,Mexico, https://www.expatistan.com/cost-of-living/guadalajara
-La Paz,Bolivia, https://www.expatistan.com/cost-of-living/la-paz-mexico
 Mexico City,Mexico, https://www.expatistan.com/cost-of-living/mexico-city
 Monterrey,Mexico, https://www.expatistan.com/cost-of-living/monterrey
 Puebla,Mexico, https://www.expatistan.com/cost-of-living/puebla
@@ -248,7 +240,7 @@ Queretaro,Mexico, https://www.expatistan.com/cost-of-living/queretaro
 Tijuana,Mexico, https://www.expatistan.com/cost-of-living/tijuana
 Zapopan,Mexico, https://www.expatistan.com/cost-of-living/zapopan
 Podgorica,Montenegro, https://www.expatistan.com/cost-of-living/podgorica
-Plymouth,United Kingdom, https://www.expatistan.com/cost-of-living/plymouth-montserrat
+London,Canada, https://www.expatistan.com/cost-of-living/london-ontario
 Agadir,Morocco, https://www.expatistan.com/cost-of-living/agadir
 Casablanca,Morocco, https://www.expatistan.com/cost-of-living/casablanca
 Marrakech,Morocco, https://www.expatistan.com/cost-of-living/marrakech
@@ -268,16 +260,15 @@ Utrecht,Netherlands, https://www.expatistan.com/cost-of-living/utrecht
 Auckland,New Zealand, https://www.expatistan.com/cost-of-living/auckland
 Christchurch,New Zealand, https://www.expatistan.com/cost-of-living/christchurch
 Dunedin,New Zealand, https://www.expatistan.com/cost-of-living/dunedin
-Hamilton,Canada, https://www.expatistan.com/cost-of-living/hamilton-new-zealand
+London,United Kingdom, https://www.expatistan.com/cost-of-living/london
 Wellington,New Zealand, https://www.expatistan.com/cost-of-living/wellington
-Granada,Spain, https://www.expatistan.com/cost-of-living/granada-nicaragua
+Newcastle,Australia, https://www.expatistan.com/cost-of-living/newcastle-australia
 Lagos,Nigeria, https://www.expatistan.com/cost-of-living/lagos
 Bergen,Norway, https://www.expatistan.com/cost-of-living/bergen
 Oslo,Norway, https://www.expatistan.com/cost-of-living/oslo
 Stavanger,Norway, https://www.expatistan.com/cost-of-living/stavanger
 Trondheim,Norway, https://www.expatistan.com/cost-of-living/trondheim
 Muscat,Oman, https://www.expatistan.com/cost-of-living/muscat
-Hyderabad,India, https://www.expatistan.com/cost-of-living/hyderabad-pakistan
 Islamabad,Pakistan, https://www.expatistan.com/cost-of-living/islamabad
 Karachi,Pakistan, https://www.expatistan.com/cost-of-living/karachi
 Lahore,Pakistan, https://www.expatistan.com/cost-of-living/lahore
@@ -287,9 +278,7 @@ Panama City,Panama, https://www.expatistan.com/cost-of-living/panama-city
 Lima,Peru, https://www.expatistan.com/cost-of-living/lima
 Davao,Philippines, https://www.expatistan.com/cost-of-living/davao
 Manila,Philippines, https://www.expatistan.com/cost-of-living/manila
-San Juan,Puerto Rico, https://www.expatistan.com/cost-of-living/san-juan-la-union
-Santa Cruz,Bolivia, https://www.expatistan.com/cost-of-living/santa-cruz-philippines
-Santiago,Chile, https://www.expatistan.com/cost-of-living/santiago-philippines
+Perth,Australia, https://www.expatistan.com/cost-of-living/perth-australia
 Lublin,Poland, https://www.expatistan.com/cost-of-living/lublin
 Poznan,Poland, https://www.expatistan.com/cost-of-living/poznan
 Szczecin,Poland, https://www.expatistan.com/cost-of-living/szczecin
@@ -299,7 +288,7 @@ Braga,Portugal, https://www.expatistan.com/cost-of-living/braga
 Coimbra,Portugal, https://www.expatistan.com/cost-of-living/coimbra
 Funchal,Portugal, https://www.expatistan.com/cost-of-living/funchal
 Lisbon,Portugal, https://www.expatistan.com/cost-of-living/lisbon
-San Juan,Puerto Rico, https://www.expatistan.com/cost-of-living/san-juan-puerto-rico
+Plymouth,United Kingdom, https://www.expatistan.com/cost-of-living/plymouth
 Doha,Qatar, https://www.expatistan.com/cost-of-living/doha
 Arad,Romania, https://www.expatistan.com/cost-of-living/arad
 Brasov,Romania, https://www.expatistan.com/cost-of-living/brasov
@@ -333,7 +322,6 @@ Jeddah,Saudi Arabia, https://www.expatistan.com/cost-of-living/jeddah
 Riyadh,Saudi Arabia, https://www.expatistan.com/cost-of-living/riyadh
 Belgrade,Serbia, https://www.expatistan.com/cost-of-living/belgrade
 Novi Sad,Serbia, https://www.expatistan.com/cost-of-living/novi-sad
-Victoria,Canada, https://www.expatistan.com/cost-of-living/victoria-seychelles
 Singapore,Singapore, https://www.expatistan.com/cost-of-living/singapore
 Bratislava,Slovakia, https://www.expatistan.com/cost-of-living/bratislava
 Ljubljana,Slovenia, https://www.expatistan.com/cost-of-living/ljubljana
@@ -341,19 +329,18 @@ Maribor,Slovenia, https://www.expatistan.com/cost-of-living/maribor
 Cape Town,South Africa, https://www.expatistan.com/cost-of-living/cape-town
 Durban,South Africa, https://www.expatistan.com/cost-of-living/durban
 Johannesburg,South Africa, https://www.expatistan.com/cost-of-living/johannesburg
-Newcastle,Australia, https://www.expatistan.com/cost-of-living/newcastle-south-africa
+San Antonio,United States, https://www.expatistan.com/cost-of-living/san-antonio-texas
 Pretoria,South Africa, https://www.expatistan.com/cost-of-living/pretoria
 Seoul,South Korea, https://www.expatistan.com/cost-of-living/seoul
 Alicante,Spain, https://www.expatistan.com/cost-of-living/alicante
-Barcelona,Spain, https://www.expatistan.com/cost-of-living/barcelona-spain
+San Jose,Costa Rica, https://www.expatistan.com/cost-of-living/san-jose-costa-rica
 Bilbao,Spain, https://www.expatistan.com/cost-of-living/bilbao
-Granada,Spain, https://www.expatistan.com/cost-of-living/granada-spain
+San Jose,United States, https://www.expatistan.com/cost-of-living/san-jose-california
 Madrid,Spain, https://www.expatistan.com/cost-of-living/madrid
 Malaga,Spain, https://www.expatistan.com/cost-of-living/malaga
 Murcia,Spain, https://www.expatistan.com/cost-of-living/murcia
 Palma de Mallorca,Spain, https://www.expatistan.com/cost-of-living/palma-de-mallorca
 Santa Cruz de Tenerife,Spain, https://www.expatistan.com/cost-of-living/santa-cruz-de-tenerife
-Valencia,Spain, https://www.expatistan.com/cost-of-living/valencia-spain
 Colombo,Sri Lanka, https://www.expatistan.com/cost-of-living/colombo
 Paramaribo,Suriname, https://www.expatistan.com/cost-of-living/paramaribo
 Gothenburg,Sweden, https://www.expatistan.com/cost-of-living/gothenburg
@@ -392,7 +379,6 @@ Dubai,United Arab Emirates, https://www.expatistan.com/cost-of-living/dubai
 Sharjah,United Arab Emirates, https://www.expatistan.com/cost-of-living/sharjah
 Aberdeen,United Kingdom, https://www.expatistan.com/cost-of-living/aberdeen
 Belfast,United Kingdom, https://www.expatistan.com/cost-of-living/belfast
-Birmingham,United Kingdom, https://www.expatistan.com/cost-of-living/birmingham-united-kingdom
 Bristol,United Kingdom, https://www.expatistan.com/cost-of-living/bristol
 Cambridge,United Kingdom, https://www.expatistan.com/cost-of-living/cambridge
 Cardiff,United Kingdom, https://www.expatistan.com/cost-of-living/cardiff
@@ -405,15 +391,13 @@ Kingston upon Hull,United Kingdom, https://www.expatistan.com/cost-of-living/kin
 Leeds,United Kingdom, https://www.expatistan.com/cost-of-living/leeds
 Leicester,United Kingdom, https://www.expatistan.com/cost-of-living/leicester
 Liverpool,United Kingdom, https://www.expatistan.com/cost-of-living/liverpool
-London,United Kingdom, https://www.expatistan.com/cost-of-living/london
+San Juan,Puerto Rico, https://www.expatistan.com/cost-of-living/san-juan-puerto-rico
 Manchester,United Kingdom, https://www.expatistan.com/cost-of-living/manchester
 Newcastle upon Tyne,United Kingdom, https://www.expatistan.com/cost-of-living/newcastle-upon-tyne
 Norwich,United Kingdom, https://www.expatistan.com/cost-of-living/norwich
 Nottingham,United Kingdom, https://www.expatistan.com/cost-of-living/nottingham
 Oxford,United Kingdom, https://www.expatistan.com/cost-of-living/oxford
-Perth,Australia, https://www.expatistan.com/cost-of-living/perth-scotland
 Peterborough,United Kingdom, https://www.expatistan.com/cost-of-living/peterborough
-Plymouth,United Kingdom, https://www.expatistan.com/cost-of-living/plymouth
 Portsmouth,United Kingdom, https://www.expatistan.com/cost-of-living/portsmouth
 Reading,United Kingdom, https://www.expatistan.com/cost-of-living/reading-berkshire
 Sheffield,United Kingdom, https://www.expatistan.com/cost-of-living/sheffield
@@ -426,13 +410,12 @@ Albany,United States, https://www.expatistan.com/cost-of-living/albany
 Albuquerque,United States, https://www.expatistan.com/cost-of-living/albuquerque
 Anchorage,United States, https://www.expatistan.com/cost-of-living/anchorage
 Ann Arbor,United States, https://www.expatistan.com/cost-of-living/ann-arbor
-Athens,Greece, https://www.expatistan.com/cost-of-living/athens-georgia
+Santiago,Chile, https://www.expatistan.com/cost-of-living/santiago-chile
 Atlanta,United States, https://www.expatistan.com/cost-of-living/atlanta
 Austin,United States, https://www.expatistan.com/cost-of-living/austin
 Baltimore,United States, https://www.expatistan.com/cost-of-living/baltimore
 Baton Rouge,United States, https://www.expatistan.com/cost-of-living/baton-rouge
 Berkeley,United States, https://www.expatistan.com/cost-of-living/berkeley
-Birmingham,United Kingdom, https://www.expatistan.com/cost-of-living/birmingham-alabama
 Boise,United States, https://www.expatistan.com/cost-of-living/boise
 Boston,United States, https://www.expatistan.com/cost-of-living/boston
 Boulder,United States, https://www.expatistan.com/cost-of-living/boulder-colorado
@@ -451,7 +434,6 @@ Des Moines,United States, https://www.expatistan.com/cost-of-living/des-moines
 Detroit,United States, https://www.expatistan.com/cost-of-living/detroit
 El Paso,United States, https://www.expatistan.com/cost-of-living/el-paso
 Eugene,United States, https://www.expatistan.com/cost-of-living/eugene
-Florence,Italy, https://www.expatistan.com/cost-of-living/florence-alabama
 Fort Collins,United States, https://www.expatistan.com/cost-of-living/fort-collins
 Fort Lauderdale,United States, https://www.expatistan.com/cost-of-living/fort-lauderdale
 Fort Worth,United States, https://www.expatistan.com/cost-of-living/fort-worth
@@ -494,13 +476,12 @@ Riverside,United States, https://www.expatistan.com/cost-of-living/riverside
 Rochester,United States, https://www.expatistan.com/cost-of-living/rochester-new-york
 Sacramento,United States, https://www.expatistan.com/cost-of-living/sacramento
 Salt Lake City,United States, https://www.expatistan.com/cost-of-living/salt-lake-city
-San Antonio,United States, https://www.expatistan.com/cost-of-living/san-antonio-california
-San Antonio,United States, https://www.expatistan.com/cost-of-living/san-antonio-texas
+St. John's,Canada, https://www.expatistan.com/cost-of-living/st-johns-newfoundland
+Valencia,Spain, https://www.expatistan.com/cost-of-living/valencia-spain
 San Diego,United States, https://www.expatistan.com/cost-of-living/san-diego
 San Francisco,United States, https://www.expatistan.com/cost-of-living/san-francisco
-San Jose,United States, https://www.expatistan.com/cost-of-living/san-jose-california
 Santa Barbara,United States, https://www.expatistan.com/cost-of-living/santa-barbara-california
-Santa Cruz,Bolivia, https://www.expatistan.com/cost-of-living/santa-cruz-california
+Vancouver,Canada, https://www.expatistan.com/cost-of-living/vancouver
 Seattle,United States, https://www.expatistan.com/cost-of-living/seattle
 Spokane,United States, https://www.expatistan.com/cost-of-living/spokane-washington
 St. Louis,United States, https://www.expatistan.com/cost-of-living/st-louis
@@ -510,12 +491,11 @@ Tallahassee,United States, https://www.expatistan.com/cost-of-living/tallahassee
 Tampa,United States, https://www.expatistan.com/cost-of-living/tampa
 Tucson,United States, https://www.expatistan.com/cost-of-living/tucson
 Tulsa,United States, https://www.expatistan.com/cost-of-living/tulsa-oklahoma
-Vancouver,Canada, https://www.expatistan.com/cost-of-living/vancouver-washington
+Vancouver,United States, https://www.expatistan.com/cost-of-living/vancouver-washington
 Wichita,United States, https://www.expatistan.com/cost-of-living/wichita
 Montevideo,Uruguay, https://www.expatistan.com/cost-of-living/montevideo
 Tashkent,Uzbekistan, https://www.expatistan.com/cost-of-living/tashkent
-Barcelona,Spain, https://www.expatistan.com/cost-of-living/barcelona-venezuela
-Valencia,Spain, https://www.expatistan.com/cost-of-living/valencia-venezuela
+Victoria,Canada, https://www.expatistan.com/cost-of-living/victoria-canada
 Da Nang,Vietnam, https://www.expatistan.com/cost-of-living/da-nang
 Hanoi,Vietnam, https://www.expatistan.com/cost-of-living/hanoi
 Ho Chi Minh City,Vietnam, https://www.expatistan.com/cost-of-living/ho-chi-minh-city
