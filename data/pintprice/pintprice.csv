@@ -23,8 +23,8 @@
 22,Barnard Castle,United Kingdom,2.61
 23,Barnsley,United Kingdom,3.73
 24,Barnstaple,United Kingdom,4.84
-25,Barrow-in-Furness,United Kingdom,1.64
-26,Barton Up[on Humber,United Kingdom,5.22
+25,Barrow-In-Furness,United Kingdom,1.64
+26,Barton Up[On Humber,United Kingdom,5.22
 27,Basildon,United Kingdom,4.41
 28,Basingstoke,United Kingdom,4.92
 29,Bath,United Kingdom,4.84
@@ -66,7 +66,7 @@
 65,Burnham,United Kingdom,4.77
 66,Burnley,United Kingdom,3.28
 67,Burton Upo Trent,United Kingdom,4.62
-68,Burton-on-Trent,United Kingdom,2.97
+68,Burton-On-Trent,United Kingdom,2.97
 69,Bury,United Kingdom,3.73
 70,Bury St Edmunds,United Kingdom,1.48
 71,Cadgwith,United Kingdom,6.71
@@ -85,13 +85,13 @@
 84,Chelmsford,United Kingdom,3.87
 85,Cheltenham,United Kingdom,4.62
 86,Chester,United Kingdom,4.47
-87,Chester-le-Street,United Kingdom,4.25
+87,Chester-Le-Street,United Kingdom,4.25
 88,Chichester,United Kingdom,5.07
 89,Child Okeford,United Kingdom,4.92
 90,Chingford,United Kingdom,5.51
 91,Chipping Norton,United Kingdom,4.25
 92,Chislehurst,United Kingdom,7.3
-93,Clacton-on-Sea,United Kingdom,3.73
+93,Clacton-On-Sea,United Kingdom,3.73
 94,Claygate,United Kingdom,6.33
 95,Clydebank,United Kingdom,4.25
 96,Cockermouth,United Kingdom,4.47
@@ -281,7 +281,7 @@
 280,Redhill,United Kingdom,4.05
 281,Ripon,United Kingdom,4.47
 282,Rotherham,United Kingdom,4.69
-283,ROTHESAY,United Kingdom,5.22
+283,Rothesay,United Kingdom,5.22
 284,Rugby,United Kingdom,5.84
 285,Ruislip,United Kingdom,4.77
 286,Rutherglen,United Kingdom,3.73
@@ -306,9 +306,9 @@
 305,Shrewsbury,United Kingdom,4.32
 306,"Shrewsbury, United Kingdom",United Kingdom,3.8
 307,Silloth,United Kingdom,5.07
-308,SKEGNESS,United Kingdom,3.87
+308,Skegness,United Kingdom,3.87
 309,Slough,United Kingdom,3.01
-310,Somersham (cambs),United Kingdom,4.32
+310,Somersham (Cambs),United Kingdom,4.32
 311,South Normanton,United Kingdom,3.43
 312,South Queensferry,United Kingdom,3.73
 313,Southampton,United Kingdom,4.92
@@ -322,7 +322,7 @@
 321,St Helens,United Kingdom,4.47
 322,St Ives,United Kingdom,5.07
 323,St Neots,United Kingdom,4.32
-324,ST. AUSTELL,United Kingdom,6.71
+324,St. Austell,United Kingdom,6.71
 325,St. Ives,United Kingdom,4.25
 326,Stafford,United Kingdom,5.22
 327,Steeple Claydon,United Kingdom,2.77
@@ -331,13 +331,13 @@
 330,Stilton,United Kingdom,4.17
 331,Stirling,United Kingdom,4.56
 332,Stockport,United Kingdom,4.89
-333,Stoke-on-Trent,United Kingdom,4.77
+333,Stoke-On-Trent,United Kingdom,4.77
 334,Stonehaven,United Kingdom,4.38
 335,Stornoway,United Kingdom,4.47
 336,Stourbridge,United Kingdom,5.51
-337,Stourport-on-Severn,United Kingdom,4.32
+337,Stourport-On-Severn,United Kingdom,4.32
 338,Stranmillis,United Kingdom,4.62
-339,Stratford-upon-Avon,United Kingdom,5.07
+339,Stratford-Upon-Avon,United Kingdom,5.07
 340,Stroud,United Kingdom,4.77
 341,Sturminster Marshall,United Kingdom,4.47
 342,Sunderland,United Kingdom,4.25
@@ -358,7 +358,7 @@
 357,Todmorden,United Kingdom,2.98
 358,Torbay,United Kingdom,5.07
 359,Torquay,United Kingdom,5.22
-360,TRIMLEY ST MARIN,United Kingdom,5.66
+360,Trimley St Marin,United Kingdom,5.66
 361,Trouser Ferret,United Kingdom,3.65
 362,Truro,United Kingdom,4.47
 363,Tunbridge Wells,United Kingdom,5.81
@@ -408,9 +408,9 @@
 5,Nijeveen,Afghanistan,2.98
 6,Prague,Afghanistan,1.79
 1,Durres,Albania,0.86
-2,KorÃ§Ã«,Albania,0.57
-3,KukÃ«s County,Albania,1.18
-4,LezhÃ« District,Albania,0.75
+2,Korã§Ã«,Albania,0.57
+3,Kukã«S County,Albania,1.18
+4,Lezhã« District,Albania,0.75
 5,Sarande,Albania,0.75
 6,Setgdtydftf,Albania,2.0
 7,Tirana,Albania,1.13
@@ -421,13 +421,12 @@
 1,Lobito,Angola,2.09
 2,Luanda,Angola,2.86
 1,Liberta,Antigua and Barbuda,2.4
-2,St John's,Antigua and Barbuda,npriced
-1,BolÃ­var,Argentina,0.75
+1,Bolã­Var,Argentina,0.75
 2,Buenos Aires,Argentina,1.59
-3,CATAMARCA,Argentina,3.99
+3,Catamarca,Argentina,3.99
 4,Cordoba,Argentina,3.13
 5,Eldorado,Argentina,1.82
-6,FLORESTA CHUPAME ESTA,Argentina,0.07
+6,Floresta Chupame Esta,Argentina,0.07
 7,India,Argentina,3.9
 8,La Plata,Argentina,1.34
 9,Neuquen,Argentina,3.99
@@ -440,8 +439,8 @@
 16,Salta,Argentina,0.97
 17,San Rafael,Argentina,2.52
 18,Santa Fe,Argentina,3.32
-19,TEMPERLEY Ciudad De La Locura,Argentina,1.49
-20,TucumÃ¡n,Argentina,0.82
+19,Temperley Ciudad De La Locura,Argentina,1.49
+20,Tucumã¡N,Argentina,0.82
 21,Ushuaia,Argentina,5.68
 22,Villa Martelli,Argentina,1.36
 1,Kapan,Armenia,1.03
@@ -455,7 +454,7 @@
 4,Ballarat,Australia,4.22
 5,Belgium Beer Cafe,Australia,11.68
 6,Bendigo,Australia,2.77
-7,BRIS,Australia,5.1
+7,Bris,Australia,5.1
 8,Brisbane,Australia,5.84
 9,Broome,Australia,12.25
 10,Bundoora,Australia,2.56
@@ -472,7 +471,7 @@
 21,Gold Coast,Australia,4.93
 22,Hervey Bay,Australia,4.02
 23,Hobart,Australia,6.68
-24,Hobart CBD,Australia,4.02
+24,Hobart Cbd,Australia,4.02
 25,Karratha,Australia,12.75
 26,Launceston,Australia,7.45
 27,Logan,Australia,7.14
@@ -514,13 +513,13 @@
 14,Ottensheim,Austria,3.78
 15,Pertisau,Austria,4.66
 16,Salzburg,Austria,3.31
-17,Sankt AndrÃ¤ Am Zicksee,Austria,3.41
+17,Sankt Andrã¤ Am Zicksee,Austria,3.41
 18,Sankt Anton Am Arlberg,Austria,5.36
 19,Sankt Johann,Austria,3.78
 20,Seefeld,Austria,4.62
 21,Solden,Austria,3.52
-22,SÃ¶ll,Austria,4.53
-23,TNF Kammerl,Austria,1.3
+22,Sã¶Ll,Austria,4.53
+23,Tnf Kammerl,Austria,1.3
 24,Vienna,Austria,3.89
 25,Westendorf,Austria,4.04
 26,Wien,Austria,4.17
@@ -534,9 +533,8 @@
 5,Ponta Delgada,Azores,2.21
 1,Nassau,Bahamas,2.99
 1,Gushy,Bahrain,7.96
-2,ManÄma,Bahrain,4.34
+2,ManäMa,Bahrain,4.34
 1,C,Bangladesh,3.29
-2,Cox's Bazar,Bangladesh,npriced
 3,Dhaka,Bangladesh,2.73
 1,Bridgetown,Barbados,1.5
 2,The Gap,Barbados,4.02
@@ -593,7 +591,7 @@
 51,Halle,Belgium,2.21
 52,Harelbeke,Belgium,1.58
 53,Hasselt,Belgium,1.27
-54,Heist-op-den-Berg,Belgium,1.64
+54,Heist-Op-Den-Berg,Belgium,1.64
 55,Herbesthal,Belgium,1.27
 56,Herentals,Belgium,1.27
 57,Hever,Belgium,1.95
@@ -622,7 +620,7 @@
 80,Lierneux,Belgium,2.15
 81,Lille,Belgium,1.55
 82,Lippelo,Belgium,2.03
-83,Louvain-la-Neuve,Belgium,1.3
+83,Louvain-La-Neuve,Belgium,1.3
 84,Lummen,Belgium,1.89
 85,Maaseik,Belgium,1.27
 86,Maasmechelen,Belgium,1.89
@@ -633,7 +631,7 @@
 91,Moen,Belgium,2.52
 92,Mol,Belgium,2.52
 93,Mons,Belgium,2.15
-94,Mont-saint-guibert,Belgium,1.91
+94,Mont-Saint-Guibert,Belgium,1.91
 95,Mortsel,Belgium,1.58
 96,Mouscron,Belgium,1.58
 97,Namur,Belgium,3.89
@@ -701,7 +699,7 @@
 1,Cochabamba,Bolivia,1.04
 2,Guarayos,Bolivia,0.64
 3,La Paz,Bolivia,0.75
-4,San MatÃ­as,Bolivia,0.75
+4,San Matã­As,Bolivia,0.75
 5,Santa Cruz,Bolivia,0.55
 6,Santa Cruz De La Sierra,Bolivia,0.76
 7,Sucre,Bolivia,1.0
@@ -711,12 +709,12 @@
 2,Bihac,Bosnia and Herzegovina,0.94
 3,Bijeljina,Bosnia and Herzegovina,1.18
 4,Bosanska Krupa,Bosnia and Herzegovina,0.88
-5,Äapljina,Bosnia and Herzegovina,1.18
+5,ÄApljina,Bosnia and Herzegovina,1.18
 6,Derventa,Bosnia and Herzegovina,0.98
-7,FoÄa,Bosnia and Herzegovina,0.88
+7,FoäA,Bosnia and Herzegovina,0.88
 8,Gacko,Bosnia and Herzegovina,0.88
 9,Gradacac,Bosnia and Herzegovina,0.7
-10,MiliÄi,Bosnia and Herzegovina,0.94
+10,MiliäI,Bosnia and Herzegovina,0.94
 11,Mostar,Bosnia and Herzegovina,1.7
 12,Novi Travnik,Bosnia and Herzegovina,1.3
 13,Sarajevo,Bosnia and Herzegovina,1.77
@@ -724,7 +722,7 @@
 15,Travnik,Bosnia and Herzegovina,1.18
 16,Trebinje,Bosnia and Herzegovina,2.68
 17,Tuzla,Bosnia and Herzegovina,1.37
-18,Velika KladuÅ¡a,Bosnia and Herzegovina,1.18
+18,Velika Kladuå¡A,Bosnia and Herzegovina,1.18
 19,Visoko,Bosnia and Herzegovina,1.27
 20,Vitez,Bosnia and Herzegovina,0.88
 21,Zenica,Bosnia and Herzegovina,1.46
@@ -732,56 +730,56 @@
 1,Gaborone,Botswana,1.88
 1,,Brazil,0.75
 2,Adamantina,Brazil,1.82
-3,Ãguas De SÃ£o Pedro,Brazil,2.73
+3,ÃGuas De Sã£O Pedro,Brazil,2.73
 4,Agudos,Brazil,1.59
 5,Alfenas,Brazil,1.64
 6,Almenara,Brazil,1.49
 7,Americana,Brazil,0.89
 8,Apucarana,Brazil,0.91
 9,Argentino Viado,Brazil,0.13
-10,ArmaÃ§Ã£o De BÃºzios,Brazil,4.47
+10,Armaã§Ã£O De Bãºzios,Brazil,4.47
 11,Assis,Brazil,1.3
 12,Barretos,Brazil,1
 13,Bauru,Brazil,1.82
 14,Belo Horizonte,Brazil,1.49
 15,Blumenau,Brazil,0.91
 16,Boa Vista,Brazil,3.99
-17,BraganÃ§a Paulista,Brazil,2.21
+17,Braganã§A Paulista,Brazil,2.21
 18,Brasilia,Brazil,1.85
 19,Brusque,Brazil,1.31
 20,Campinas,Brazil,2.52
-21,Campos Do JordÃ£o,Brazil,10.91
+21,Campos Do Jordã£O,Brazil,10.91
 22,Canela,Brazil,1.82
 23,Caxias Do Sul,Brazil,1.09
-24,ChuÃ­,Brazil,1.73
+24,Chuã­,Brazil,1.73
 25,Copacabana,Brazil,1.27
-26,CuiabÃ¡,Brazil,1.27
+26,Cuiabã¡,Brazil,1.27
 27,Curitiba,Brazil,4.98
 28,Florianopolis,Brazil,1.92
 29,Fortaleza,Brazil,1.27
-30,GoiÃ¢nia,Brazil,2.4
+30,Goiã¢Nia,Brazil,2.4
 31,Gramado,Brazil,2.73
 32,Guaratingueta,Brazil,2.89
-33,GuarujÃ¡,Brazil,1.27
+33,Guarujã¡,Brazil,1.27
 34,Guarulhos,Brazil,4.54
 35,Herval D`Oeste,Brazil,2.09
 36,Itaipava,Brazil,0.82
 37,Itaperuna,Brazil,1.19
 38,Itu,Brazil,0.89
 39,Jales,Brazil,0.95
-40,JaÃº,Brazil,1.27
+40,Jaãº,Brazil,1.27
 41,Joinville,Brazil,1
-42,JundiaÃ­,Brazil,2.26
+42,Jundiaã­,Brazil,2.26
 43,Limoeiro Do Norte,Brazil,1
 44,Londrina,Brazil,0.91
-45,MacapÃ¡,Brazil,0.76
-46,MarabÃ¡,Brazil,0.95
-47,MaringÃ¡,Brazil,0.95
+45,Macapã¡,Brazil,0.76
+46,Marabã¡,Brazil,0.95
+47,Maringã¡,Brazil,0.95
 48,Natal,Brazil,1.06
 49,Osasco,Brazil,1.82
 50,Paulinia,Brazil,5.45
 51,Pelotas,Brazil,0.75
-52,PetrÃ³polis,Brazil,2
+52,Petrã³Polis,Brazil,2
 53,Piracicaba,Brazil,2.18
 54,Porto Alegre,Brazil,1.5
 55,Porto Seguro,Brazil,1.49
@@ -790,10 +788,9 @@
 58,Rio,Brazil,3.23
 59,Rio De Janeiro,Brazil,2.09
 60,Salvador,Brazil,1.37
-61,Santa BÃ¡rbara D'Oeste,Brazil,npriced
 62,Santos,Brazil,1.27
 63,Sao Jose,Brazil,3.73
-64,SÃ£o JosÃ© Dos Campos,Brazil,1.82
+64,Sã£O Josã© Dos Campos,Brazil,1.82
 65,Sao Paulo,Brazil,1.5
 66,Sorocaba,Brazil,1
 67,Taquara,Brazil,1.36
@@ -840,7 +837,7 @@
 6,Delta,Canada,1.21
 7,Edmonton,Canada,5.63
 8,Fernie,Canada,4.02
-9,Fort McMurray,Canada,5.08
+9,Fort Mcmurray,Canada,5.08
 10,Fort St. John,Canada,9.25
 11,Fredricton,Canada,3.89
 12,Gatineau,Canada,4.66
@@ -868,9 +865,7 @@
 34,Regina,Canada,4.83
 35,Saskatoon,Canada,4.83
 36,St John,Canada,3.62
-37,St John's,Canada,npriced
 38,St Stephen,Canada,4.43
-39,St. John's,Canada,npriced
 40,Toronto,Canada,5.63
 41,Vancouver,Canada,4.75
 42,Victoria,Canada,4.53
@@ -886,12 +881,11 @@
 2,Santa Maria,Cape Verde,4.89
 1,George Town,Cayman Islands,3.58
 2,Grand Cayman,Cayman Islands,4.62
-1,N'Djamena,Chad,npriced
 1,Calama,Chile,0.75
 2,Concepcion,Chile,1.49
 3,Las Condes,Chile,3.43
 4,Providencia,Chile,2.0
-5,PucÃ³n,Chile,2.8
+5,Pucã³N,Chile,2.8
 6,Santiago,Chile,2.19
 7,Santiago Metropolitan Region,Chile,2.98
 8,Valparaiso,Chile,1.36
@@ -919,7 +913,6 @@
 22,Tianjin,China,4.47
 23,Wuhan,China,0.67
 24,Wuhu,China,0.24
-25,Xi'an,China,npriced
 26,Xiamen,China,4.47
 27,Yangzhou,China,1.58
 28,Yantai,China,0.57
@@ -936,7 +929,7 @@
 10,Medellin,Colombia,0.92
 11,Neiva,Colombia,0.42
 12,Pereira,Colombia,0.75
-13,Santa Marta (Distrito TurÃ­stico Cultural,Colombia,0.95
+13,Santa Marta (Distrito Turã­Stico Cultural,Colombia,0.95
 14,Santiago De Cali,Colombia,1.42
 1,Itsandra,Comoros Islands,3.89
 1,Brazzaville,Congo,4.75
@@ -953,23 +946,23 @@
 7,Manuel Antonio,Costa Rica,2.68
 8,Monteverde,Costa Rica,0.58
 9,Puerto Quepos,Costa Rica,1.31
-10,SÃ¡mara,Costa Rica,1.5
+10,Sã¡Mara,Costa Rica,1.5
 11,San Jose,Costa Rica,2.0
 12,Tamarindo,Costa Rica,1.5
 1,Borovo Selo,Croatia,0.15
-2,Äakovec,Croatia,2.01
+2,ÄAkovec,Croatia,2.01
 3,City Of Zagreb,Croatia,1.88
 4,Cres,Croatia,3.16
 5,Djakovo,Croatia,1.82
 6,Dubrovnik,Croatia,4.32
 7,Gradac,Croatia,0.86
 8,Hvar,Croatia,2.98
-9,KorÄula,Croatia,3.41
+9,KoräUla,Croatia,3.41
 10,Medulin,Croatia,1.89
 11,Novalja,Croatia,3.5
-12,OrebiÄ,Croatia,2.46
+12,Orebiä,Croatia,2.46
 13,Osijek,Croatia,1.27
-14,PoreÄ,Croatia,3.02
+14,Poreä,Croatia,3.02
 15,Primorje-Gorski Kotar,Croatia,1.49
 16,Pula,Croatia,2.16
 17,Rijeka (Fiume),Croatia,1.3
@@ -1000,52 +993,52 @@
 9,Paphos,Cyprus,2.7
 10,Peyia,Cyprus,3.23
 11,Pissouri,Cyprus,4.1
-1,BenÃ¡tky Nad Jizerou,Czech Republic,0.8
+1,Benã¡Tky Nad Jizerou,Czech Republic,0.8
 2,Brandys Nad Labem,Czech Republic,1.03
 3,Breclav,Czech Republic,1.16
 4,Brno,Czech Republic,1.04
 5,Broumov,Czech Republic,1.15
-6,BruntÃ¡l,Czech Republic,1.06
+6,Bruntã¡L,Czech Republic,1.06
 7,Budweis,Czech Republic,1.33
 8,Carlsbad,Czech Republic,1.18
 9,Ceska Lipa,Czech Republic,0.88
 10,Cesky Krumlov,Czech Republic,1.49
-11,ChoceÅ,Czech Republic,1.18
-12,ChodovÃ¡ PlanÃ¡,Czech Republic,0.7
+11,Choceå,Czech Republic,1.18
+12,Chodovã¡ Planã¡,Czech Republic,0.7
 13,Chrudim,Czech Republic,1.22
 14,Chvaletice,Czech Republic,1.3
-15,ChvalÅ¡iny,Czech Republic,0.77
+15,Chvalå¡Iny,Czech Republic,0.77
 16,Dobruska,Czech Republic,1.03
 17,Domazlice,Czech Republic,1.3
-18,FrÃ½dek-MÃ­stek,Czech Republic,0.94
-19,HavÃ­Åov,Czech Republic,0.95
-20,HlaveÄnÃ­k,Czech Republic,0.76
-21,HluÄÃ­n,Czech Republic,1.12
-22,HodonÃ­n,Czech Republic,1.28
+18,Frã½Dek-Mã­Stek,Czech Republic,0.94
+19,Havã­ÅOv,Czech Republic,0.95
+20,HlaveäNã­K,Czech Republic,0.76
+21,HluäÃ­N,Czech Republic,1.12
+22,Hodonã­N,Czech Republic,1.28
 23,Hradec Kralove,Czech Republic,1.01
 24,Jablonec Nad Nisou,Czech Republic,0.82
-25,JablonnÃ© Nad OrlicÃ­,Czech Republic,0.97
-26,JamnÃ© Nad OrlicÃ­,Czech Republic,0.75
-27,JarcovÃ¡,Czech Republic,0.76
+25,Jablonnã© Nad Orlicã­,Czech Republic,0.97
+26,Jamnã© Nad Orlicã­,Czech Republic,0.75
+27,Jarcovã¡,Czech Republic,0.76
 28,Jihlava,Czech Republic,0.82
 29,Jindrichuv Hradec,Czech Republic,0.83
-30,KarvinÃ¡,Czech Republic,0.67
-31,KobeÅice,Czech Republic,1.18
+30,Karvinã¡,Czech Republic,0.67
+31,KobeåIce,Czech Republic,1.18
 32,Kromeriz,Czech Republic,1.18
-33,KutnÃ¡ Hora,Czech Republic,1.34
+33,Kutnã¡ Hora,Czech Republic,1.34
 34,Lanskroun,Czech Republic,0.88
 35,Letohrad,Czech Republic,1.18
 36,Liberec,Czech Republic,1.04
 37,Litomysl,Czech Republic,0.89
-38,MariÃ¡nskÃ© LÃ¡znÄ,Czech Republic,1.18
-39,MÄdÄnec,Czech Republic,1.18
-40,MiroÅ¡ovice,Czech Republic,0.85
+38,Mariã¡Nskã© Lã¡Znä,Czech Republic,1.18
+39,MäDäNec,Czech Republic,1.18
+40,Miroå¡Ovice,Czech Republic,0.85
 41,Mlada Boleslav,Czech Republic,1.18
-42,NÃ¡chod,Czech Republic,0.21
-43,NovÃ¡ Role,Czech Republic,0.7
+42,Nã¡Chod,Czech Republic,0.21
+43,Novã¡ Role,Czech Republic,0.7
 44,Olomouc,Czech Republic,0.98
 45,Opava,Czech Republic,0.94
-46,OrlovÃ¡,Czech Republic,1.04
+46,Orlovã¡,Czech Republic,1.04
 47,Ostrava,Czech Republic,1.18
 48,Ostrov,Czech Republic,1.18
 49,Pacov,Czech Republic,0.92
@@ -1056,36 +1049,36 @@
 54,Plzen,Czech Republic,2.09
 55,Pocinovice,Czech Republic,0.82
 56,Prague,Czech Republic,1.49
-57,ProstÅednÃ­ BeÄva,Czech Republic,0.89
-58,Radimovice U Å½elÄe,Czech Republic,0.45
+57,ProståEdnã­ BeäVa,Czech Republic,0.89
+58,Radimovice U Å½EläE,Czech Republic,0.45
 59,Rakovnik,Czech Republic,0.88
 60,Rokytnice Nad Jizerou,Czech Republic,0.94
 61,Roudnice Nad Labem,Czech Republic,0.94
-62,RÃ½maÅov,Czech Republic,1.06
-63,StarÃ¡ Ves,Czech Republic,0.82
-64,Å tramberk,Czech Republic,1.18
+62,Rã½MaåOv,Czech Republic,1.06
+63,Starã¡ Ves,Czech Republic,0.82
+64,Å Tramberk,Czech Republic,1.18
 65,Strizkov,Czech Republic,1.77
 66,Sumperk,Czech Republic,0.82
-67,SuÅ¡ice,Czech Republic,1.18
+67,Suå¡Ice,Czech Republic,1.18
 68,Svijany,Czech Republic,0.63
 69,Tabor,Czech Republic,0.75
 70,Tanvald,Czech Republic,0.3
-71,TÅebÃ­Ä,Czech Republic,1.18
-72,TÅeboÅ,Czech Republic,1.06
+71,TåEbã­Ä,Czech Republic,1.18
+72,TåEboå,Czech Republic,1.06
 73,Trinec,Czech Republic,1.1
 74,Usti Nad Labem,Czech Republic,1.16
 75,Valasske Mezirici,Czech Republic,0.88
 76,Vamberk,Czech Republic,0.85
-77,VeleÅ¡Ã­n,Czech Republic,0.94
-78,VÄÅ¾,Czech Republic,0.82
+77,Veleå¡Ã­N,Czech Republic,0.94
+78,VäÅ¾,Czech Republic,0.82
 79,Vimperk,Czech Republic,2.38
 80,Vrchotovy Janovice,Czech Republic,0.75
-81,VyÅ¡kov,Czech Republic,1.18
+81,Vyå¡Kov,Czech Republic,1.18
 82,Zatec,Czech Republic,0.7
-83,Å½ÄÃ¡r Nad SÃ¡zavou,Czech Republic,0.97
-84,Å½erÄice,Czech Republic,1.46
-85,Å½iÅ¾kovo Pole,Czech Republic,0.58
-86,ZlÃ­n,Czech Republic,1.04
+83,Å½ÄÃ¡R Nad Sã¡Zavou,Czech Republic,0.97
+84,Å½EräIce,Czech Republic,1.46
+85,Å½Iå¾Kovo Pole,Czech Republic,0.58
+86,Zlã­N,Czech Republic,1.04
 1,Aalborg,Denmark,2.34
 2,Aarhus,Denmark,5.13
 3,Billund,Denmark,7.6
@@ -1093,18 +1086,18 @@
 5,Copenhagen,Denmark,7.57
 6,Haslev,Denmark,5.22
 7,Kastrup,Denmark,10.76
-8,KlitmÃ¸ller,Denmark,5.27
+8,Klitmã¸Ller,Denmark,5.27
 9,Koege,Denmark,9.07
-10,NÃ¸rre VorupÃ¸r,Denmark,5.63
+10,Nã¸Rre Vorupã¸R,Denmark,5.63
 11,Odense,Denmark,2.98
 12,"Pinden, Aarhus",Denmark,3.73
 13,Randers,Denmark,8.02
 14,Roskilde,Denmark,6.3
-15,SÃ¸nderborg,Denmark,9.97
+15,Sã¸Nderborg,Denmark,9.97
 16,Vejle,Denmark,5.04
 17,Viborg,Denmark,7.49
 18,Vinding,Denmark,3.78
-19,ÃrÃ¸skÃ¸bing,Denmark,7.0
+19,ÃRã¸Skã¸Bing,Denmark,7.0
 1,Djibouti,Djibouti,8.17
 1,Mahaut,Dominica,2.73
 2,Portsmouth,Dominica,1.68
@@ -1117,7 +1110,7 @@
 6,Santiago,Dominican Republic,0.75
 7,Santo Domingo,Dominican Republic,1.42
 8,Sosua,Dominican Republic,5.16
-1,BaÃ±os De Agua Santa,Ecuador,1.5
+1,Baã±Os De Agua Santa,Ecuador,1.5
 2,Guayaquil,Ecuador,0.45
 3,Machala,Ecuador,0.3
 4,Quito,Ecuador,1.12
@@ -1135,16 +1128,16 @@
 1,Malabo,Equatorial Guinea,5.96
 1,Asmera,Eritrea,0.69
 1,Kuressaare,Estonia,2.4
-2,PÃ¤rnu,Estonia,2.25
+2,Pã¤Rnu,Estonia,2.25
 3,Rakvere,Estonia,0.58
 4,Tallinn,Estonia,2.95
 5,Tartu,Estonia,2.09
 1,Addis Ababa,Ethiopia,0.64
 2,Awassa,Ethiopia,0.57
 1,Stanley,Falkland Islands,2.98
-1,SvÃ­noy,Faroe Islands,4.47
-2,TÃ³rshavn,Faroe Islands,7.45
-3,TvÃ¸royri,Faroe Islands,5.56
+1,Svã­Noy,Faroe Islands,4.47
+2,Tã³Rshavn,Faroe Islands,7.45
+3,Tvã¸Royri,Faroe Islands,5.56
 1,Nadi,Fiji,2.18
 2,Suva,Fiji,1.55
 3,Yasawa Islands,Fiji,3.52
@@ -1152,14 +1145,14 @@
 2,Hameenlinna,Finland,6.32
 3,Helsinki,Finland,7.23
 4,Imatra,Finland,5.05
-5,JÃ¤msÃ¤,Finland,6.48
+5,Jã¤Msã¤,Finland,6.48
 6,Joensuu,Finland,7.03
-7,JyvÃ¤skylÃ¤,Finland,5.05
+7,Jyvã¤Skylã¤,Finland,5.05
 8,Kerava,Finland,5.19
 9,Konnevesi,Finland,6.32
 10,Kouvola,Finland,5.05
 11,Kuopio,Finland,4.69
-12,KyyjÃ¤rvi,Finland,6.32
+12,Kyyjã¤Rvi,Finland,6.32
 13,Lahti,Finland,6.32
 14,Lammi,Finland,6.48
 15,Lohja,Finland,5.68
@@ -1172,7 +1165,7 @@
 22,Porvoo,Finland,5.05
 23,Riihimaki,Finland,6.06
 24,Rovaniemi,Finland,5.62
-25,SeinÃ¤joki,Finland,5.05
+25,Seinã¤Joki,Finland,5.05
 26,Tampere,Finland,6.32
 27,Turku,Finland,5.05
 28,Urjala,Finland,7.12
@@ -1181,44 +1174,44 @@
 31,Vuorela,Finland,6.32
 1,,France,5.87
 2,Ajaccio,France,10.1
-3,AmbÃ©rieu-en-Bugey,France,6.73
+3,Ambã©Rieu-En-Bugey,France,6.73
 4,Angers,France,4.43
-5,AngoulÃªme,France,8.94
+5,Angoulãªme,France,8.94
 6,Annecy,France,5.68
 7,Antibes,France,7.03
 8,Antony,France,12.13
-9,Ars-sur-Moselle,France,3.87
+9,Ars-Sur-Moselle,France,3.87
 10,Avignon,France,7.78
 11,Barcelona,France,2.59
-12,Beaulieu-sur-Mer,France,8.21
+12,Beaulieu-Sur-Mer,France,8.21
 13,Beaune,France,5.05
-14,BellÃªme,France,2.52
-15,BÃ©ziers,France,6.32
+14,Bellãªme,France,2.52
+15,Bã©Ziers,France,6.32
 16,Biarritz,France,8.94
 17,Biot,France,8.42
 18,Blagnac,France,8.48
 19,Bonifacio,France,6.32
 20,Bordeaux,France,7.72
 21,Bourg St Maurice,France,7.12
-22,Bourg-en-Bresse,France,6.35
+22,Bourg-En-Bresse,France,6.35
 23,Brest,France,5.56
-24,BrianÃ§on,France,9.69
+24,Brianã§On,France,9.69
 25,Cahors,France,4.47
 26,Calais,France,6.71
 27,Cannes,France,9.15
 28,Cannis,France,1.49
 29,Carcassonne,France,6.94
-30,ChambÃ©ry,France,6.94
+30,Chambã©Ry,France,6.94
 31,Chamonix,France,7.03
-32,Charleville-MÃ©ziÃ¨res,France,4.17
+32,Charleville-Mã©Ziã¨Res,France,4.17
 33,Clusaz,France,8.2
-34,Croissy-sur-Seine,France,1.49
+34,Croissy-Sur-Seine,France,1.49
 35,Dijon,France,7.57
 36,Garches,France,3.16
 37,Grenoble,France,6.2
 38,Guingamp,France,5.05
 39,Honfleur,France,10.28
-40,Ãle-de-France,France,11.18
+40,ÃLe-De-France,France,11.18
 41,La Rochelle,France,6.48
 42,Lacanau,France,8.42
 43,Lannion,France,7.44
@@ -1229,16 +1222,16 @@
 48,Lestrem,France,2.52
 49,Lille,France,6.32
 50,Limoges,France,4.43
-51,LodÃ¨ve,France,3.16
+51,Lodã¨Ve,France,3.16
 52,Lourdes,France,8.2
-53,LuÃ§on,France,5.05
+53,Luã§On,France,5.05
 54,Lyon,France,6.32
-55,MÃ¢con,France,7.78
+55,Mã¢Con,France,7.78
 56,Marseille,France,8.84
 57,Megeve,France,12.96
 58,Menton,France,5.87
 59,Metz,France,3.37
-60,MontgenÃ¨vre,France,8.22
+60,Montgenã¨Vre,France,8.22
 61,Montpellier,France,6.32
 62,Nantes,France,4.66
 63,Narbonne,France,4.23
@@ -1246,7 +1239,7 @@
 65,Paris,France,8.7
 66,Parisse,France,1.49
 67,Perpignan,France,1.94
-68,Port-en-Bessin-Huppain,France,6.82
+68,Port-En-Bessin-Huppain,France,6.82
 69,Quimper,France,5.68
 70,Rambouillet,France,8.42
 71,Reims,France,8.25
@@ -1254,8 +1247,8 @@
 73,Rochelle,France,3.78
 74,Rouen,France,6.71
 75,Saint-Malo,France,7.57
-76,Saint-Martin-de-Belleville,France,8.2
-77,Saint-Maurice-de-RÃ©mens,France,5.71
+76,Saint-Martin-De-Belleville,France,8.2
+77,Saint-Maurice-De-Rã©Mens,France,5.71
 78,Saint-Tropez,France,9.48
 79,Strasbourg,France,5.87
 80,Tignes,France,10.43
@@ -1263,7 +1256,7 @@
 82,Tours,France,3.78
 83,Troyes,France,8.97
 84,Vaujany,France,2.85
-85,VÃ©zac,France,6.2
+85,Vã©Zac,France,6.2
 1,Cayenne,French Guiana,1.18
 1,Huahine,French Polynesia,4.89
 2,Papeete,French Polynesia,7.45
@@ -1322,12 +1315,12 @@
 43,Kaufbeuren,Germany,2.59
 44,Kehl,Germany,3.84
 45,Kemnath,Germany,1.52
-46,Korntal-MÃ¼nchingen,Germany,0.95
+46,Korntal-Mã¼Nchingen,Germany,0.95
 47,Korschenbroich,Germany,2.52
 48,Krefeld,Germany,2.59
 49,Leipzig,Germany,3.89
 50,Lohne,Germany,1.8
-51,LÃ¼nne,Germany,2.52
+51,Lã¼Nne,Germany,2.52
 52,Magdeburg,Germany,2.52
 53,Mannheim,Germany,4.62
 54,Marburg,Germany,2.94
@@ -1345,14 +1338,14 @@
 66,Regensburg,Germany,2.56
 67,Reisbach,Germany,2.34
 68,Rostock,Germany,3.16
-69,SaarbrÃ¼cken,Germany,5.17
+69,Saarbrã¼Cken,Germany,5.17
 70,Schauenstein,Germany,1.18
 71,Selbitz,Germany,2.4
 72,Speyer,Germany,2.91
 73,Straubing,Germany,2.34
 74,Stuttgart,Germany,3.89
 75,Thurland,Germany,2.52
-76,TÃ¼bingen,Germany,3.28
+76,Tã¼Bingen,Germany,3.28
 77,Ulm,Germany,3.78
 78,Weissenburg,Germany,2.34
 79,Wetzlar,Germany,3.78
@@ -1407,7 +1400,7 @@
 42,Skiathos,Greece,4.47
 43,Skiathos Town,Greece,3.23
 44,Taminei,Greece,3.78
-45,"Thassos,potos,limenas.",Greece,6.32
+45,"Thassos,Potos,Limenas.",Greece,6.32
 46,Thessalonika,Greece,5.05
 47,"Tilos, Dodecanese",Greece,3.23
 48,Tingaki,Greece,3.75
@@ -1422,16 +1415,16 @@
 1,Basse-Terre,Guadeloupe,8.33
 2,Capesterre,Guadeloupe,6.41
 3,Saint-Claude,Guadeloupe,6.14
-1,HagÃ¥tÃ±a,Guam,1.49
+1,Hagã¥Tã±A,Guam,1.49
 2,Tamuning,Guam,7.0
 1,Antigua,Guatemala,1.88
 2,Guatemala,Guatemala,1.15
 1,Conakry,Guinea,0.6
 2,Sangaredi,Guinea,2.25
 1,Georgetown,Guyana,1.5
-1,GwomÃ²n,Haiti,0.91
+1,Gwomã²N,Haiti,0.91
 2,Labadee,Haiti,1.12
-1,CopÃ¡n Ruinas,Honduras,0.79
+1,Copã¡N Ruinas,Honduras,0.79
 2,Gracias A Dios,Honduras,0.75
 3,San Pedro Sula,Honduras,0.57
 4,Tegucigalpa,Honduras,0.79
@@ -1451,19 +1444,19 @@
 12,Wanchai,Hong Kong,6.44
 1,Bangaloe,Hungary,1.09
 2,Budapest,Hungary,1.8
-3,CsemÅ,Hungary,1.13
+3,Csemå,Hungary,1.13
 4,Debrecen,Hungary,1.22
 5,Eger,Hungary,1.27
 6,Esztergom,Hungary,1.34
-7,GÃ¶dÃ¶llÅ,Hungary,1.49
-8,HajdÃºbÃ¶szÃ¶rmÃ©ny,Hungary,1.01
-9,HÅgyÃ©sz,Hungary,0.91
-10,MezÅkÃ¶vesd,Hungary,1.27
+7,Gã¶Dã¶Llå,Hungary,1.49
+8,Hajdãºbã¶Szã¶Rmã©Ny,Hungary,1.01
+9,HåGyã©Sz,Hungary,0.91
+10,MezåKã¶Vesd,Hungary,1.27
 11,Siofok,Hungary,1.89
 12,Szeged,Hungary,1.39
 13,Szihalom,Hungary,1.49
 14,Szolnok,Hungary,1.27
-15,TamÃ¡si,Hungary,1.4
+15,Tamã¡Si,Hungary,1.4
 16,Tarnok,Hungary,0.91
 17,Veszprem,Hungary,1.3
 1,Myvatn,Iceland,7.45
@@ -1521,7 +1514,7 @@
 16,Ubud,Indonesia,1.3
 17,West Nusa Tenggara,Indonesia,2.98
 1,Dayyer,Iran,2.73
-2,GarmsÄr,Iran,7.49
+2,GarmsäR,Iran,7.49
 3,Karaj,Iran,2.98
 4,Mashhad,Iran,9.54
 5,Shiraz,Iran,6.36
@@ -1542,8 +1535,8 @@
 11,"Blackrock, Co.Dublin",Ireland,6.48
 12,Buncrana,Ireland,5.19
 13,Bundoran,Ireland,5.71
-14,Carrick-on-Shannon,Ireland,5.05
-15,Carrick-on-Suir,Ireland,5.83
+14,Carrick-On-Shannon,Ireland,5.05
+15,Carrick-On-Suir,Ireland,5.83
 16,Castlebar,Ireland,4.17
 17,Castlegregory,Ireland,5.44
 18,Claremorris,Ireland,5.05
@@ -1609,12 +1602,11 @@
 9,Kiryat Shmona,Israel,3.47
 10,Netanya,Israel,6.06
 11,Qiryat Shemona,Israel,9.46
-12,Ra'anana,Israel,npriced
 13,Rehovot,Israel,9.54
-14,Rishon LeZion,Israel,9.54
+14,Rishon Lezion,Israel,9.54
 15,T-A,Israel,9.98
 16,Tel Aviv,Israel,9.39
-17,Tel-aviv,Israel,8
+17,Tel-Aviv,Israel,8
 1,Alessandria,Italy,5.27
 2,Alghero,Italy,4.11
 3,Amalfi,Italy,5.22
@@ -1628,7 +1620,7 @@
 11,Catania,Italy,7.57
 12,Como,Italy,4.53
 13,Conversano,Italy,5.05
-14,FiÃ© Allo Sciliar,Italy,5.19
+14,Fiã© Allo Sciliar,Italy,5.19
 15,Firenze,Italy,6.48
 16,Florence,Italy,5.36
 17,Garda,Italy,6.71
@@ -1712,9 +1704,9 @@
 1,Pyongyang,Korea N,0.57
 1,Busan,Korea S,2.98
 2,Daegu,Korea S,2.37
-3,Mokpo-si,Korea S,3.73
+3,Mokpo-Si,Korea S,3.73
 4,Seoul,Korea S,1.86
-5,Uijeongbu-si,Korea S,4.22
+5,Uijeongbu-Si,Korea S,4.22
 6,Ulsan,Korea S,2.94
 1,Gjakova,Kosovo,1.3
 2,Prishtina,Kosovo,1.76
@@ -1750,7 +1742,7 @@
 2,Dudelange,Luxembourg,2.52
 3,Larochette,Luxembourg,4.17
 4,Luxembourg,Luxembourg,4.02
-5,Luxembourg Main Square (pizza Hut),Luxembourg,3.4
+5,Luxembourg Main Square (Pizza Hut),Luxembourg,3.4
 6,Luxemburg City,Luxembourg,7.12
 7,Remich,Luxembourg,2.12
 8,Vianden,Luxembourg,4.1
@@ -1768,7 +1760,7 @@
 10,Negotino,Macedonia,0.82
 11,Ohrid,Macedonia,1.52
 12,Prilep,Macedonia,1.18
-13,ProbiÅ¡tip,Macedonia,0.94
+13,Probiå¡Tip,Macedonia,0.94
 14,Skopje,Macedonia,1.7
 15,"Skopje, R.Macedonia",Macedonia,1.68
 16,Stip,Macedonia,0.94
@@ -1800,9 +1792,9 @@
 17,Pulau Pinang,Malaysia,2.88
 1,Fihaalhohi,Maldives,2.73
 2,Hulumale,Maldives,11.5
-3,MalÃ©,Maldives,6.36
+3,Malã©,Maldives,6.36
 1,Bamako,Mali,1.12
-1,BuÄ¡ibba,Malta,1.89
+1,Buä¡Ibba,Malta,1.89
 2,Marsaskala,Malta,4.69
 3,Mellieha,Malta,2.59
 4,Mosta,Malta,3.73
@@ -1811,11 +1803,10 @@
 7,Qawra,Malta,3.89
 8,Saint Lawrence,Malta,3.53
 9,Sliema,Malta,2.77
-10,St Julian's,Malta,npriced
 11,St Julians,Malta,2.24
 12,Valletta,Malta,2.34
 13,Victoria,Malta,3.53
-1,Fort-de-France,Martinique,5.87
+1,Fort-De-France,Martinique,5.87
 1,Grand Baie,Mauritius,2.44
 2,Trou Aux Biches,Mauritius,1.27
 1,Acapulco,Mexico,0.69
@@ -1826,14 +1817,14 @@
 6,Cozumel,Mexico,1.82
 7,Cuernavaca,Mexico,1.27
 8,Culiacan,Mexico,1.27
-9,DF,Mexico,0.98
+9,Df,Mexico,0.98
 10,Ensenada,Mexico,3.64
 11,Hermosillo,Mexico,1.82
 12,Huatulco,Mexico,1.45
 13,Iguala De La Independencia,Mexico,0.54
 14,Ixtapa,Mexico,1.4
 15,La Paz,Mexico,1.82
-16,"Leon, GT (MX)",Mexico,2.99
+16,"Leon, Gt (Mx)",Mexico,2.99
 17,Mazatlan,Mexico,1.36
 18,Mexico,Mexico,2.24
 19,Mexico City,Mexico,1.91
@@ -1854,7 +1845,7 @@
 2,Koror,Micronesia,2.62
 1,Chisinau,Moldova,0.86
 2,Tiraspol,Moldova,1.49
-3,VulcÄnesti,Moldova,0.7
+3,VulcäNesti,Moldova,0.7
 1,Monaco,Monaco,2.24
 2,Pisteoff,Monaco,6.71
 1,Ulaanbaatar,Mongolia,1.37
@@ -1883,10 +1874,6 @@
 1,Kathmandu,Nepal,2.26
 2,Patan,Nepal,2.52
 3,Pokhara,Nepal,3.73
-1,'S Hertogenbosch,Netherlands,npriced
-2,'s-Heerenberg,Netherlands,npriced
-3,'s-Hertochenbosch,Netherlands,npriced
-4,'s-Hertogenbosch,Netherlands,npriced
 5,A Gen Baan,Netherlands,2.03
 6,Aalten,Netherlands,2.15
 7,Abcoude,Netherlands,2.52
@@ -1985,8 +1972,7 @@
 100,Roosendaal,Netherlands,2.65
 101,Rosmalen,Netherlands,1.27
 102,Rotterdam,Netherlands,2.77
-103,S'Hertogenbosch,Netherlands,npriced
-104,S-hertogenbosch,Netherlands,2.98
+104,S-Hertogenbosch,Netherlands,2.98
 105,Schagen,Netherlands,2.52
 106,Schelle,Netherlands,2.65
 107,Schiphol,Netherlands,7.78
@@ -2022,7 +2008,7 @@
 137,Zwaffeloo,Netherlands,8.21
 138,Zwartebroek,Netherlands,0.88
 139,Zwolle,Netherlands,2.52
-1,CuraÃ§ao,Netherlands Antilles,0.94
+1,Curaã§Ao,Netherlands Antilles,0.94
 2,Kralendijk,Netherlands Antilles,6.94
 3,St Maarten,Netherlands Antilles,1.88
 4,Willemstad,Netherlands Antilles,4.69
@@ -2063,7 +2049,7 @@
 6,Onne,Nigeria,1.3
 1,Aalesund,Norway,12.98
 2,Akershus,Norway,11.92
-3,Ãlesund,Norway,10.43
+3,ÃLesund,Norway,10.43
 4,Alta,Norway,12.62
 5,Andselv,Norway,11.92
 6,Aremark,Norway,8.34
@@ -2071,33 +2057,33 @@
 8,Aust-Agder,Norway,10.0
 9,Bergen,Norway,10.43
 10,Bodo,Norway,11.92
-11,BodÃ¸,Norway,10.12
+11,Bodã¸,Norway,10.12
 12,Bryne,Norway,11.65
 13,Drammen,Norway,8.87
 14,Egersund,Norway,10.1
 15,Elverum,Norway,10.43
 16,Finnmark,Norway,10.1
-17,FosnavÃ¥g,Norway,10.43
+17,Fosnavã¥G,Norway,10.43
 18,Fredrikstad,Norway,11.92
-19,GjÃ¸vik,Norway,11.92
+19,Gjã¸Vik,Norway,11.92
 20,Halden,Norway,10.43
 21,Hamar,Norway,9.39
 22,Hammerfest,Norway,10.91
 23,Harstad,Norway,11.65
 24,Haugesund,Norway,10.88
-25,HavÃ¸ysund,Norway,11.37
+25,Havã¸Ysund,Norway,11.37
 26,Hedmark,Norway,11.92
-27,HonningsvÃ¥g,Norway,7.45
+27,Honningsvã¥G,Norway,7.45
 28,Hordaland,Norway,10.43
 29,Horten,Norway,10.43
-30,HÃ¸nefoss,Norway,5.3
+30,Hã¸Nefoss,Norway,5.3
 31,Knarvik,Norway,11.96
 32,Korshamn,Norway,8.84
 33,Kristiansand,Norway,8.94
 34,Kristiansund,Norway,11.18
 35,Levanger,Norway,11.01
 36,Lillehammer,Norway,10.43
-37,LillestrÃ¸m,Norway,8.94
+37,Lillestrã¸M,Norway,8.94
 38,Longyearbyen,Norway,5.44
 39,Molde,Norway,10.76
 40,Moss,Norway,11.01
@@ -2120,19 +2106,19 @@
 57,Stabekk,Norway,11.58
 58,Stavanger,Norway,10.43
 59,Steinkjer,Norway,7.57
-60,SvolvÃ¦r,Norway,8.94
+60,Svolvã¦R,Norway,8.94
 61,Tonsberg,Norway,11.03
 62,Tromso,Norway,11.37
-63,TromsÃ¸,Norway,8.88
+63,Tromsã¸,Norway,8.88
 64,Trondheim,Norway,10.43
-65,TÃ¸nsberg,Norway,11.18
+65,Tã¸Nsberg,Norway,11.18
 66,Ulsteinvik,Norway,8.94
-67,VadsÃ¸,Norway,8.05
+67,Vadsã¸,Norway,8.05
 68,Verdal,Norway,10.73
 69,Vest-Agder,Norway,10.43
 70,Vestby,Norway,8.94
 71,Voss,Norway,7.45
-72,Ãverbygd,Norway,12.67
+72,ÃVerbygd,Norway,12.67
 1,Masqat,Oman,5.14
 2,Muscat,Oman,6.33
 3,Sohar,Oman,9.0
@@ -2146,7 +2132,7 @@
 4,La Chorrera,Panama,0.31
 5,Panama,Panama,0.45
 6,Panama City,Panama,1.4
-7,PedasÃ­ District,Panama,0.91
+7,Pedasã­ District,Panama,0.91
 8,Penonome,Panama,0.49
 9,Tocumen,Panama,4.08
 1,Goroka,Papua New Guinea,0.82
@@ -2157,7 +2143,7 @@
 1,Chiclayo,Peru,1.36
 2,Cusco,Peru,2.06
 3,Lima,Peru,1.49
-4,MÃ¡ncora,Peru,1.18
+4,Mã¡Ncora,Peru,1.18
 5,Ollantaytambo,Peru,1.31
 6,Puerto Maldonado,Peru,2.4
 7,Trujillo,Peru,0.67
@@ -2191,14 +2177,14 @@
 11,Kolonowskie,Poland,1.12
 12,Krakow,Poland,2.24
 13,Kwidzyn,Poland,1.64
-14,LeÅ¼ajsk,Poland,2.68
+14,Leå¼Ajsk,Poland,2.68
 15,Lubin,Poland,1.79
 16,Lublin,Poland,1.43
 17,Mragowo,Poland,1.27
 18,Oborniki,Poland,1.27
 19,Olsztyn,Poland,1.13
 20,Ostrowiec,Poland,1.27
-21,PiotrkÃ³w Trybunalski,Poland,1.27
+21,Piotrkã³W Trybunalski,Poland,1.27
 22,Plock,Poland,1.27
 23,Pobierowo,Poland,1.58
 24,Poznan,Poland,2.12
@@ -2236,7 +2222,7 @@
 16,Lisbon,Portugal,2.24
 17,Moncarapacho,Portugal,2.59
 18,Ovar,Portugal,3.78
-19,PortimÃ£o,Portugal,2.79
+19,Portimã£O,Portugal,2.79
 20,Porto,Portugal,1.53
 21,Seia,Portugal,1.3
 22,Setubal,Portugal,1.01
@@ -2245,15 +2231,14 @@
 25,Tondela,Portugal,1.18
 26,Viana Do Castelo Municipality,Portugal,1.01
 27,Vila Real,Portugal,1.52
-28,Vila Real De Santo AntÃ³nio,Portugal,3.11
+28,Vila Real De Santo Antã³Nio,Portugal,3.11
 1,Caguas,Puerto Rico,1.0
 2,Humacao,Puerto Rico,1.0
-3,MayagÃ¼ez,Puerto Rico,1.88
+3,Mayagã¼Ez,Puerto Rico,1.88
 4,Ponce,Puerto Rico,1.12
 5,San Juan,Puerto Rico,3.9
 6,Vieques,Puerto Rico,1.61
 1,Doha,Qatar,9.52
-1,'DROP Table,Romania,npriced
 2,Braov,Romania,1.27
 3,Brasov,Romania,1.42
 4,Bucharest,Romania,1.79
@@ -2263,11 +2248,11 @@
 8,Constanța,Romania,1.68
 9,Craiova,Romania,1.27
 10,Curtea De Arges,Romania,0.67
-11,FÄgÄraÅ,Romania,12.62
+11,FäGäRaå,Romania,12.62
 12,Galati,Romania,0.37
-13,Piatra-NeamÈ,Romania,0.79
+13,Piatra-Neamè,Romania,0.79
 14,Pitesti,Romania,1.3
-15,Poiana BraÈov,Romania,2.07
+15,Poiana BraèOv,Romania,2.07
 16,Sibiu,Romania,1.27
 17,Suceava,Romania,1.12
 18,Targu Mures,Romania,1.27
@@ -2291,7 +2276,7 @@
 17,Nizhniy Novgorod,Russian Federation,0.75
 18,Novokuzneck,Russian Federation,0.37
 19,Novosibirsk,Russian Federation,3.23
-20,Rostov-on-Don,Russian Federation,1.4
+20,Rostov-On-Don,Russian Federation,1.4
 21,Sochi,Russian Federation,1.88
 22,St Petersburg,Russian Federation,2.24
 23,Staraya Kupavna,Russian Federation,2.25
@@ -2329,10 +2314,10 @@
 8,Novi Sad,Serbia,1.42
 9,Pancevo,Serbia,1.18
 10,Podgorica And All Other Places In Crna G,Serbia,1.27
-11,Å abac,Serbia,2.28
+11,Å Abac,Serbia,2.28
 12,Smederevo,Serbia,1.27
 13,Subotica,Serbia,2.0
-14,UÅ¾ice,Serbia,1.4
+14,Uå¾Ice,Serbia,1.4
 15,Vladicin Han,Serbia,0.77
 16,Vlajkovac,Serbia,1.18
 17,Å½. A. P.,Serbia,3.8
@@ -2342,35 +2327,35 @@
 1,Victoria,Seychelles,3.71
 1,Freetown,Sierra Leone,1.3
 1,Singapore,Singapore,8.05
-1,BÃ¡novce Nad Bebravou,Slovakia,1.04
+1,Bã¡Novce Nad Bebravou,Slovakia,1.04
 2,Banska Birnika,Slovakia,1.82
 3,Banska Bystrica,Slovakia,1.3
 4,Bratislava,Slovakia,1.4
-5,DolnÃ¡ MarikovÃ¡,Slovakia,0.75
-6,ÄurÄinÃ¡,Slovakia,0.61
+5,Dolnã¡ Marikovã¡,Slovakia,0.75
+6,ÄUräInã¡,Slovakia,0.61
 7,Hlohovec,Slovakia,1.13
-8,KomÃ¡rno,Slovakia,1.27
+8,Komã¡Rno,Slovakia,1.27
 9,Kosice,Slovakia,1.27
 10,Nitra,Slovakia,1.18
 11,Poprad,Slovakia,0.91
-12,PreÅ¡ov,Slovakia,1.22
-13,PÃºchov,Slovakia,1.18
-14,RajeckÃ© Teplice,Slovakia,1.22
+12,Preå¡Ov,Slovakia,1.22
+13,Pãºchov,Slovakia,1.18
+14,Rajeckã© Teplice,Slovakia,1.22
 15,Spisska Nova Ves,Slovakia,0.82
 16,Topolcany,Slovakia,0.94
 17,Trencin,Slovakia,1.03
 18,Trnava,Slovakia,1.04
-19,VyÅ¡kovce Nad IpÄ¾om,Slovakia,0.58
+19,Vyå¡Kovce Nad Ipä¾Om,Slovakia,0.58
 20,Zilina,Slovakia,0.94
 21,Zvolen,Slovakia,1.43
 1,Benedikt,Slovenia,3.16
 2,Bled,Slovenia,2.74
 3,Bovec,Slovenia,2.04
 4,Celje,Slovenia,1.27
-5,DivaÄa,Slovenia,2.28
+5,DivaäA,Slovenia,2.28
 6,Gornja Radgona,Slovenia,2.28
 7,Grosuplje,Slovenia,2.59
-8,HoÄe-Slivnica,Slovenia,2.12
+8,HoäE-Slivnica,Slovenia,2.12
 9,Jesenice,Slovenia,2.62
 10,Kamnik,Slovenia,3.23
 11,Koper,Slovenia,2.85
@@ -2382,22 +2367,22 @@
 17,Ljutomer,Slovenia,1.27
 18,Maribor,Slovenia,2.52
 19,Maribur,Slovenia,5.22
-20,MeÅ¾ica,Slovenia,2.03
+20,Meå¾Ica,Slovenia,2.03
 21,Muretinci,Slovenia,2.59
 22,Nova Gorica,Slovenia,2.34
 23,Novo Mesto,Slovenia,2.4
 24,Piran,Slovenia,2.52
-25,PororoÅ¾,Slovenia,3.78
-26,PortoroÅ¾,Slovenia,3.78
+25,Pororoå¾,Slovenia,3.78
+26,Portoroå¾,Slovenia,3.78
 27,Ptuj,Slovenia,2.59
-28,RuÅ¡e,Slovenia,2.52
-29,Å enÄur,Slovenia,2.46
+28,Ruå¡E,Slovenia,2.52
+29,Å EnäUr,Slovenia,2.46
 30,Skofja Loka,Slovenia,2.52
 31,Slovenska Bistrica,Slovenia,3.16
 32,Slovenske Konjice,Slovenia,2.52
 33,Tolmin,Slovenia,1.89
 34,Velenje,Slovenia,1.27
-35,Å½iri,Slovenia,1.27
+35,Å½Iri,Slovenia,1.27
 1,Gizo,Solomon Islands,0.75
 2,Honiara,Solomon Islands,4.23
 1,Mogadishu,Somalia,1.49
@@ -2416,14 +2401,14 @@
 13,Stellenbosch,South Africa,1.1
 1,Adeje,Spain,1.45
 2,Aguadulce,Spain,3.78
-3,AgÃ¼imes,Spain,1.64
+3,Agã¼Imes,Spain,1.64
 4,Albacete,Spain,1.89
-5,AlcalÃ  De Xivert,Spain,2.15
-6,AlcÃºdia,Spain,3.52
+5,Alcalã  De Xivert,Spain,2.15
+6,Alcãºdia,Spain,3.52
 7,Alicante,Spain,3.89
 8,Alpedrete,Spain,3.78
 9,Arona,Spain,1.27
-10,ARONA (TENERIFE),Spain,1.7
+10,Arona (Tenerife),Spain,1.7
 11,Arrecife,Spain,2.26
 12,Badajoz,Spain,1.27
 13,Barcelona,Spain,5.05
@@ -2432,15 +2417,14 @@
 16,Bilbao,Spain,4.43
 17,Burgos,Spain,2.59
 18,Cadiz,Spain,1.89
-19,Callosa D'En SarriÃ,Spain,npriced
 20,Calp,Spain,1.52
-21,CalviÃ,Spain,2.52
+21,Calviã,Spain,2.52
 22,Calvia (Mallorca),Spain,2.98
 23,Canarias,Spain,5.05
-24,CastellÃ³ De Rugat,Spain,2.52
+24,Castellã³ De Rugat,Spain,2.52
 25,Castro-Urdiales,Spain,2.59
 26,Cesuras,Spain,1.27
-27,CÃ³mpeta,Spain,1.39
+27,Cã³Mpeta,Spain,1.39
 28,Cordova,Spain,3.28
 29,Corunna,Spain,3.78
 30,Costa Adeje,Spain,3.5
@@ -2454,7 +2438,7 @@
 38,Formentera,Spain,6.48
 39,Fuengirola,Spain,2.52
 40,Getxo,Spain,3.16
-41,GijÃ³n,Spain,2.34
+41,Gijã³N,Spain,2.34
 42,Girona,Spain,1.88
 43,Granada,Spain,3.55
 44,Granollers,Spain,2.52
@@ -2465,7 +2449,6 @@
 49,Huesca,Spain,1.3
 50,Ibiza,Spain,6.32
 51,Javea,Spain,4.1
-52,L'AlfÃ s Del Pi,Spain,npriced
 53,La Florida,Spain,3.11
 54,Las Rozas De Madrid,Spain,4.53
 55,Los Christianos,Spain,1.94
@@ -2490,7 +2473,7 @@
 74,Ponferrada,Spain,1.3
 75,Pontedeume,Spain,1.3
 76,Pontevedra,Spain,3.89
-77,Port De PollenÃ§a,Spain,1.49
+77,Port De Pollenã§A,Spain,1.49
 78,Puerto De Mazarron,Spain,2.64
 79,Puerto Del Carmen,Spain,2.24
 80,Puertollano,Spain,2.34
@@ -2499,12 +2482,12 @@
 83,Rubi,Spain,1.3
 84,Sagunto,Spain,1.82
 85,Salou,Spain,2.83
-86,San BartolomÃ© De Tirajana,Spain,3.16
+86,San Bartolomã© De Tirajana,Spain,3.16
 87,San Javier,Spain,2.34
 88,Sant Cugat,Spain,2.59
 89,Santa Cruz De Tenerife,Spain,1.89
 90,Santa Pola,Spain,3.73
-91,SantanyÃ­,Spain,1.18
+91,Santanyã­,Spain,1.18
 92,Santiago De Compostela,Spain,2.32
 93,Segovia,Spain,2.59
 94,Sentmenat,Spain,1.3
@@ -2523,9 +2506,9 @@
 107,Valencia,Spain,5.68
 108,Valladolid,Spain,2.59
 109,Vigo,Spain,4.14
-110,Vila-seca,Spain,1.89
+110,Vila-Seca,Spain,1.89
 111,Villablanca,Spain,1.27
-112,VILLAJOYOSA,Spain,3.64
+112,Villajoyosa,Spain,3.64
 113,Villarejo De Fuentes,Spain,1.39
 114,Villena,Spain,2.98
 115,Zamora,Spain,3.17
@@ -2544,10 +2527,10 @@
 2,Reno,Sudan,1.0
 1,Paramaribo,Suriname,1.12
 1,Mbabane,Swaziland,1.22
-1,Ãngelholm,Sweden,4.47
-2,Ãngelholm Municipality,Sweden,5.05
+1,ÃNgelholm,Sweden,4.47
+2,ÃNgelholm Municipality,Sweden,5.05
 3,Arlanda,Sweden,11.0
-4,BorÃ¥s,Sweden,7.27
+4,Borã¥S,Sweden,7.27
 5,Emmaboda,Sweden,5.05
 6,Essunga Municipality,Sweden,5.38
 7,Goteborg,Sweden,3.78
@@ -2555,16 +2538,16 @@
 9,Halmstad,Sweden,6.71
 10,Helsingborg,Sweden,1.27
 11,Hudiksvall,Sweden,5.05
-12,JÃ¶nkÃ¶ping,Sweden,8.94
+12,Jã¶Nkã¶Ping,Sweden,8.94
 13,Karlstad,Sweden,7.36
-14,LidkÃ¶ping Municipality,Sweden,7.57
-15,LinkÃ¶ping,Sweden,7.33
+14,Lidkã¶Ping Municipality,Sweden,7.57
+15,Linkã¶Ping,Sweden,7.33
 16,Lund,Sweden,5.8
 17,Malmo,Sweden,7.57
-18,NorrkÃ¶ping,Sweden,8.15
+18,Norrkã¶Ping,Sweden,8.15
 19,Nykoping,Sweden,8.94
-20,Ãrebro,Sweden,7.45
-21,Ãrebro County,Sweden,7.45
+20,ÃRebro,Sweden,7.45
+21,ÃRebro County,Sweden,7.45
 22,Sandviken,Sweden,9.69
 23,Skara,Sweden,6.32
 24,Solna,Sweden,4.47
@@ -2575,8 +2558,8 @@
 29,Trollhattan,Sweden,5.23
 30,Uppsala,Sweden,7.78
 31,Varberg,Sweden,9.69
-32,VÃ¤sterÃ¥s,Sweden,8.85
-33,VÃ¤sterÃ¥s Municipality,Sweden,11.92
+32,Vã¤Sterã¥S,Sweden,8.85
+33,Vã¤Sterã¥S Municipality,Sweden,11.92
 1,Bagnes,Switzerland,8.94
 2,Basel,Switzerland,6.91
 3,Bern,Switzerland,8.94
@@ -2587,10 +2570,10 @@
 8,Frauenfeld,Switzerland,1.12
 9,Fribourg,Switzerland,4.04
 10,Geneva,Switzerland,8.84
-11,GenÃ¨ve,Switzerland,6.33
+11,Genã¨Ve,Switzerland,6.33
 12,Interlaken,Switzerland,8.94
 13,Intragna,Switzerland,4.69
-14,La Chaux-de-Fonds,Switzerland,4.86
+14,La Chaux-De-Fonds,Switzerland,4.86
 15,Laax,Switzerland,5.05
 16,Lachen,Switzerland,8.14
 17,Lausanne,Switzerland,9.46
@@ -2605,7 +2588,7 @@
 26,Sion,Switzerland,7.97
 27,St Gallen,Switzerland,5.1
 28,St Moritz,Switzerland,5.74
-29,UrnÃ¤sch,Switzerland,3.4
+29,Urnã¤Sch,Switzerland,3.4
 30,Verbier,Switzerland,6.71
 31,Villars,Switzerland,11.18
 32,Wetzikon,Switzerland,11.67
@@ -2631,7 +2614,7 @@
 4,Chiang Mai,Thailand,1.49
 5,Hua Hin,Thailand,1.58
 6,Karon Beach,Thailand,2.09
-7,Ko Pha-ngan,Thailand,1.27
+7,Ko Pha-Ngan,Thailand,1.27
 8,Koh Phangan,Thailand,1.79
 9,Koh Samui,Thailand,1.46
 10,Krabi,Thailand,2.09
@@ -2646,7 +2629,6 @@
 19,Udon Thani,Thailand,1.3
 1,Lome,Togo,1.27
 1,Neiafu,Tonga,2.25
-2,Nuku'alofa,Tonga,npriced
 1,Couva,Trinidad and Tobago,2.68
 2,Point Fortin,Trinidad and Tobago,0.75
 3,Port Of Spain,Trinidad and Tobago,1.56
@@ -2670,7 +2652,7 @@
 5,Ankara,Turkey,3.53
 6,Antalier,Turkey,2.52
 7,Antalya,Turkey,3.43
-8,AydÄ±n Province,Turkey,3.23
+8,Aydä±N Province,Turkey,3.23
 9,Bitez,Turkey,3.28
 10,Bodrum,Turkey,3.34
 11,Bursa,Turkey,3.1
@@ -2679,19 +2661,19 @@
 14,Edirne,Turkey,1.89
 15,Eskişehir,Turkey,4.81
 16,Gaziantep,Turkey,3.43
-17,Ä°Ã§meler,Turkey,2.24
+17,Ä°Ã§Meler,Turkey,2.24
 18,Istanbul,Turkey,3.71
 19,Izmir,Turkey,1.89
 20,Kalkan,Turkey,3.73
 21,Kayseri,Turkey,1.89
 22,Koycegiz,Turkey,2.94
 23,Marmaris,Turkey,2.98
-24,MuÄla,Turkey,2.5
+24,MuäLa,Turkey,2.5
 25,Olu Deniz,Turkey,2.24
 26,Oludeniz,Turkey,3.35
 27,Side,Turkey,4.13
 28,Turunc,Turkey,3.73
-29,VARIOUS,Turkey,7.78
+29,Various,Turkey,7.78
 1,Ashgabat,Turkmenistan,3.99
 1,Cockburn Town,Turks and Caicos Islands,5.1
 1,Funafuti,Tuvalu,2.77
@@ -2700,7 +2682,6 @@
 3,Pader,Uganda,0.89
 1,Запорl,Ukraine,0.51
 2,Dnepropetrovsk,Ukraine,1.19
-3,Donets'k,Ukraine,npriced
 4,Feodosiya,Ukraine,0.91
 5,Ivano-Frankivsk,Ukraine,0.49
 6,Kharkiv,Ukraine,1.64
@@ -2709,7 +2690,6 @@
 9,Kiev,Ukraine,1.31
 10,Kryvyi Rih,Ukraine,0.48
 11,Kyiv,Ukraine,0.89
-12,L'viv,Ukraine,npriced
 13,Lviv,Ukraine,0.6
 14,Melitopol,Ukraine,0.4
 15,Nikolayev,Ukraine,0.72
@@ -2719,7 +2699,6 @@
 19,Pustomyty,Ukraine,0.67
 20,Rivne,Ukraine,0.75
 21,Shostka,Ukraine,0.6
-22,Ternopil',Ukraine,npriced
 23,Ukraine,Ukraine,1.04
 24,Uzhgorod,Ukraine,0.46
 25,Vinnytsia,Ukraine,0.82
@@ -2754,7 +2733,7 @@
 23,Columbus,United States,3.99
 24,Coshocton,United States,2.5
 25,Detroit,United States,2.5
-26,Disney World FL,United States,8.49
+26,Disney World Fl,United States,8.49
 27,Ditnietis,United States,3.78
 28,Flagstaff,United States,4.5
 29,Fort Collins,United States,2.76
@@ -2768,7 +2747,7 @@
 37,Guasti,United States,4.56
 38,Houston,United States,4.31
 39,Jackson,United States,4.08
-40,Kellogg ID,United States,4.01
+40,Kellogg Id,United States,4.01
 41,Kenosha,United States,3.73
 42,Kent Island,United States,1.04
 43,Laguna Niguel,United States,5.01
@@ -2781,7 +2760,7 @@
 50,Lubbock,United States,3.75
 51,Lynchburg,United States,1.68
 52,Macon,United States,3.99
-53,"Marlborough, MA",United States,4.75
+53,"Marlborough, Ma",United States,4.75
 54,Maumee,United States,2.98
 55,Memphis,United States,2.06
 56,Miami,United States,9.51
@@ -2789,10 +2768,10 @@
 58,Minersville,United States,1.82
 59,Minneapolis,United States,5.01
 60,Mobile,United States,2.8
-61,"Montclair, NJ",United States,2.0
-62,"Murphysboro, IL",United States,3.99
+61,"Montclair, Nj",United States,2.0
+62,"Murphysboro, Il",United States,3.99
 63,Nashville,United States,4.35
-64,Necedah WI,United States,2.99
+64,Necedah Wi,United States,2.99
 65,New Haven,United States,4.59
 66,New Orleans,United States,5.07
 67,New York,United States,5.9
@@ -2814,10 +2793,10 @@
 83,Raleigh,United States,4.54
 84,Reno,United States,5.01
 85,Riverside,United States,9.51
-86,"Rochester, NY",United States,3.5
+86,"Rochester, Ny",United States,3.5
 87,Rome,United States,2.25
 88,Saint Louis,United States,1.74
-89,"Salem, OR",United States,3.99
+89,"Salem, Or",United States,3.99
 90,Salem/Dallas,United States,1.74
 91,Salt Lake City,United States,2.26
 92,San Antonio,United States,3.99
@@ -2860,11 +2839,10 @@
 7,Kien Giang,Vietnam,0.91
 8,Nha Trang,Vietnam,0.75
 9,Phan Thiet,Vietnam,0.16
-10,Tp. Há»i An,Vietnam,0.75
+10,Tp. Há»I An,Vietnam,0.75
 11,Vietnam,Vietnam,1.34
 12,Vung Tau,Vietnam,0.97
 1,Aden,Yemen,2.58
-2,Sana'a,Yemen,npriced
 1,Livingstone,Zambia,0.06
 2,Lusaka,Zambia,1.5
 3,Petauke,Zambia,0.91

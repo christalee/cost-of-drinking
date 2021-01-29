@@ -4,7 +4,7 @@ Tirana,Albania, https://www.expatistan.com/cost-of-living/tirana
 Algiers,Algeria, https://www.expatistan.com/cost-of-living/algiers
 Athens,Greece, https://www.expatistan.com/cost-of-living/athens-greece
 Buenos Aires,Argentina, https://www.expatistan.com/cost-of-living/buenos-aires
-Santa Rosa,United States, https://www.expatistan.com/cost-of-living/santa-rosa
+Santa Rosa,Argentina, https://www.expatistan.com/cost-of-living/santa-rosa
 Yerevan,Armenia, https://www.expatistan.com/cost-of-living/yerevan
 Adelaide,Australia, https://www.expatistan.com/cost-of-living/adelaide
 Brisbane,Australia, https://www.expatistan.com/cost-of-living/brisbane
@@ -84,7 +84,7 @@ Split,Croatia, https://www.expatistan.com/cost-of-living/split
 Zadar,Croatia, https://www.expatistan.com/cost-of-living/zadar
 Zagreb,Croatia, https://www.expatistan.com/cost-of-living/zagreb-croatia
 Havana,Cuba, https://www.expatistan.com/cost-of-living/havana
-Santa Clara,United States, https://www.expatistan.com/cost-of-living/santa-clara
+Santa Clara,Cuba, https://www.expatistan.com/cost-of-living/santa-clara
 Larnaca,Cyprus, https://www.expatistan.com/cost-of-living/larnaca
 Limassol,Cyprus, https://www.expatistan.com/cost-of-living/limassol
 Nicosia,Cyprus, https://www.expatistan.com/cost-of-living/nicosia
@@ -485,7 +485,7 @@ Vancouver,Canada, https://www.expatistan.com/cost-of-living/vancouver
 Seattle,United States, https://www.expatistan.com/cost-of-living/seattle
 Spokane,United States, https://www.expatistan.com/cost-of-living/spokane-washington
 St. Louis,United States, https://www.expatistan.com/cost-of-living/st-louis
-St. Petersburg,Russia, https://www.expatistan.com/cost-of-living/st-petersburg-florida
+St. Petersburg,United States, https://www.expatistan.com/cost-of-living/st-petersburg-florida
 Tacoma,United States, https://www.expatistan.com/cost-of-living/tacoma
 Tallahassee,United States, https://www.expatistan.com/cost-of-living/tallahassee
 Tampa,United States, https://www.expatistan.com/cost-of-living/tampa
@@ -501,3 +501,64 @@ Hanoi,Vietnam, https://www.expatistan.com/cost-of-living/hanoi
 Ho Chi Minh City,Vietnam, https://www.expatistan.com/cost-of-living/ho-chi-minh-city
 Lusaka,Zambia, https://www.expatistan.com/cost-of-living/lusaka
 Harare,Zimbabwe, https://www.expatistan.com/cost-of-living/harare
+New York,United States, https://www.expatistan.com/cost-of-living/new-york-city
+Tel Aviv,Israel, https://www.expatistan.com/cost-of-living/tel-aviv
+Tromso,Norway, https://www.expatistan.com/cost-of-living/troms
+Aarhus,Denmark, https://www.expatistan.com/cost-of-living/aarhus
+Gent,Belgium, https://www.expatistan.com/cost-of-living/ghent
+Santa Cruz,Bolivia, https://www.expatistan.com/cost-of-living/santa-cruz-de-la-sierra
+Brasilia,Brazil, https://www.expatistan.com/cost-of-living/brasilia
+Goiania,Brazil, https://www.expatistan.com/cost-of-living/goiania
+Sao Paulo,Brazil, https://www.expatistan.com/cost-of-living/sao-paulo
+Kingston,Canada, https://www.expatistan.com/cost-of-living/kingston-canada
+Kitchener,Canada, https://www.expatistan.com/cost-of-living/kitchener-waterloo
+Medellin,Colombia, https://www.expatistan.com/cost-of-living/medellin
+Bogota,Colombia, https://www.expatistan.com/cost-of-living/bogota
+Dusseldorf,Germany, https://www.expatistan.com/cost-of-living/dusseldorf
+Brighton,United Kingdom, https://www.expatistan.com/cost-of-living/brighton-and-hove
+Minneapolis,United States, https://www.expatistan.com/cost-of-living/minneapolis
+Washington,United States, https://www.expatistan.com/cost-of-living/washington-d-c
+Mobile,United States, https://www.expatistan.com/cost-of-living/mobile-alabama
+Freiburg,Germany, https://www.expatistan.com/cost-of-living/freiburg
+Frankfurt,Germany, https://www.expatistan.com/cost-of-living/frankfurt-am-main
+Calicut,India, https://www.expatistan.com/cost-of-living/kozhikode
+Lucknow,India, https://www.expatistan.com/cost-of-living/lucknow
+Padua,Italy, https://www.expatistan.com/cost-of-living/padua
+Astana,Kazakhstan, https://www.expatistan.com/cost-of-living/astana
+Pristina,Kosovo, https://www.expatistan.com/cost-of-living/pristina
+Penang,Malaysia, https://www.expatistan.com/cost-of-living/georgetown-penang
+Kota Kinabalu,Malaysia, https://www.expatistan.com/cost-of-living/kota-kinabalu
+Male,Maldives, https://www.expatistan.com/cost-of-living/male
+Cancun,Mexico, https://www.expatistan.com/cost-of-living/cancun
+Merida,Mexico, https://www.expatistan.com/cost-of-living/merida
+Chisinau,Moldova, https://www.expatistan.com/cost-of-living/chisinau
+Ulaanbaatar,Mongolia, https://www.expatistan.com/cost-of-living/ulan-bator
+Windhoek,Namibia, https://www.expatistan.com/cost-of-living/windhoek
+Asuncion,Paraguay, https://www.expatistan.com/cost-of-living/asuncion
+Dumaguete,Philippines, https://www.expatistan.com/cost-of-living/dumaguete-city
+Cebu,Philippines, https://www.expatistan.com/cost-of-living/cebu-city
+Gdansk,Poland, https://www.expatistan.com/cost-of-living/gdansk
+Wroclaw,Poland, https://www.expatistan.com/cost-of-living/wroclaw
+Rzeszow,Poland, https://www.expatistan.com/cost-of-living/rzeszow
+Bialystok,Poland, https://www.expatistan.com/cost-of-living/bialystok
+Krakow,Poland, https://www.expatistan.com/cost-of-living/krakow
+Porto,Portugal, https://www.expatistan.com/cost-of-living/oporto
+Constanta,Romania, https://www.expatistan.com/cost-of-living/constanta
+Ploiesti,Romania, https://www.expatistan.com/cost-of-living/ploiesti
+Nizhniy Novgorod,Russia, https://www.expatistan.com/cost-of-living/nizhniy-novgorod
+Kazan,Russia, https://www.expatistan.com/cost-of-living/kazan
+Tyumen,Russia, https://www.expatistan.com/cost-of-living/tyumen
+Rostov-na-donu,Russia, https://www.expatistan.com/cost-of-living/rostov-on-don
+Saint Petersburg,Russia, https://www.expatistan.com/cost-of-living/saint-petersburg
+Ad Dammam,Saudi Arabia, https://www.expatistan.com/cost-of-living/dammam
+Nis,Serbia, https://www.expatistan.com/cost-of-living/nis
+Kaohsiung,Taiwan, https://www.expatistan.com/cost-of-living/kao-hsiung
+Izmir,Turkey, https://www.expatistan.com/cost-of-living/izmir
+Ivano-Frankivsk,Ukraine, https://www.expatistan.com/cost-of-living/ivano-frankivskk
+Mykolaiv,Ukraine, https://www.expatistan.com/cost-of-living/mykolayiv
+Kyiv,Ukraine, https://www.expatistan.com/cost-of-living/kyiv
+Odessa,Ukraine, https://www.expatistan.com/cost-of-living/odessa
+Vinnytsia,Ukraine, https://www.expatistan.com/cost-of-living/vinnytsya
+The Hague,Netherlands, https://www.expatistan.com/cost-of-living/the-hague
+Zaragoza,Spain, https://www.expatistan.com/cost-of-living/zaragoza
+Seville,Spain, https://www.expatistan.com/cost-of-living/seville

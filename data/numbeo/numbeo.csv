@@ -31,14 +31,14 @@
 29,Boston,3.37,7.0,3.16,4.31,United States
 30,Wellington,3.33,6.43,2.03,3.41,New Zealand
 31,New York,3.29,7.35,3.78,4.82,United States
-32,Tel Aviv-Yafo,3.29,9.12,2.39,4.21,Israel
+32,Tel Aviv,3.29,9.12,2.39,4.21,Israel
 33,Philadelphia,3.26,5.0,2.83,3.92,United States
 34,Reykjavik,3.26,9.28,3.66,4.61,Iceland
 35,Tokyo,3.25,4.82,2.16,3.77,Japan
 36,Lausanne,3.21,8.98,3.37,4.99,Switzerland
 37,San Jose,3.2,7.0,3.22,4.66,United States
 38,Limerick,3.06,6.04,1.9,3.79,Ireland
-39,Arhus,3.05,8.12,2.87,6.57,Denmark
+39,Aarhus,3.05,8.12,2.87,6.57,Denmark
 40,Colorado Springs,3.04,5.0,2.54,4.83,United States
 41,Raleigh,3.04,5.0,2.78,4.29,United States
 42,Gold Coast,3.02,6.15,2.42,3.65,Australia
@@ -271,7 +271,7 @@
 269,Rome,1.52,6.04,2.28,1.57,Italy
 270,Amsterdam,1.52,6.04,2.18,4.09,Netherlands
 271,Pretoria,1.51,1.97,0.96,1.88,South Africa
-272,Lucknow (Lakhnau),1.51,1.91,0.46,1.68,India
+272,Lucknow,1.51,1.91,0.46,1.68,India
 273,Brescia,1.5,6.04,3.28,1.97,Italy
 274,Trieste,1.5,6.04,2.42,1.91,Italy
 275,Kaunas,1.5,3.62,1.11,2.86,Lithuania
@@ -344,7 +344,7 @@
 342,Baghdad,1.17,2.0,0.72,1.48,Iraq
 343,Merida,1.16,1.64,1.41,2.44,Mexico
 344,Nuremberg,1.16,4.11,1.56,3.43,Germany
-345,Zaragoza (Saragossa),1.15,1.81,1.34,1.79,Spain
+345,Zaragoza,1.15,1.81,1.34,1.79,Spain
 346,Hannover,1.15,4.23,1.12,3.18,Germany
 347,Coimbra,1.15,1.63,,1.61,Portugal
 348,Podgorica,1.14,2.05,0.66,1.84,Montenegro
@@ -414,7 +414,7 @@
 412,Chelyabinsk,0.94,0.94,0.42,1.45,Russia
 413,Budapest,0.93,1.68,0.87,1.71,Hungary
 414,Szeged,0.93,1.34,0.82,1.39,Hungary
-415,Krakow (Cracow),0.93,2.66,0.9,2.58,Poland
+415,Krakow,0.93,2.66,0.9,2.58,Poland
 416,Astana (Nur-Sultan),0.92,1.19,0.38,1.89,Kazakhstan
 417,Kosice,0.92,1.45,1.16,2.24,Slovakia
 418,Poznan,0.92,2.39,0.88,2.63,Poland
@@ -486,9 +486,9 @@
 484,Samara,0.73,1.09,0.45,1.74,Russia
 485,Yekaterinburg,0.73,0.97,0.42,1.55,Russia
 486,Belgrade,0.73,2.05,0.52,1.86,Serbia
-487,Odessa (Odesa),0.73,0.89,0.54,1.2,Ukraine
+487,Odessa,0.73,0.89,0.54,1.2,Ukraine
 488,Hanoi,0.73,0.86,0.71,1.66,Vietnam
-489,Kiev (Kyiv),0.72,1.06,0.59,1.21,Ukraine
+489,Kyiv,0.72,1.06,0.59,1.21,Ukraine
 490,Cali,0.72,0.87,0.89,1.35,Colombia
 491,La Marsa,0.72,1.84,0.18,1.28,Tunisia
 492,Lviv,0.72,1.06,0.54,1.2,Ukraine

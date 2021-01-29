@@ -1,11 +1,13 @@
 import csv
 import json
 import logging
+
+import numpy as np
 import requests
 from bs4 import BeautifulSoup
-import numpy as np
 
 logging.basicConfig(level=logging.INFO, filename='logs.txt')
+
 
 def make_soup(url, session):
     ''' get HTML for each location '''
@@ -14,6 +16,7 @@ def make_soup(url, session):
         logging.info(f'{request.url}')
         soup = BeautifulSoup(request.content, 'lxml')
         return soup
+
 
 def scrape_city_data(soup):
     ''' get coffee and beer data from each location and store in dict '''
@@ -61,10 +64,12 @@ def scrape_city_data(soup):
             pass
     return city_price_data
 
+
 def write_city_data(data):
     ''' write city data to json file '''
-    with open('expatistan-data-15Jan20.json', 'w') as f:
+    with open('expatistan-data.json', 'w') as f:
         json.dump(data, f)
+
 
 def main():
     all_city_data = []
@@ -80,6 +85,7 @@ def main():
                                   'country': country,
                                   'data': city_data})
     write_city_data(all_city_data)
+
 
 if __name__ == "__main__":
     main()
