@@ -1,4 +1,5 @@
 # Cost of Drinking
+<a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>
 
 ## City Data
 - City, Country, Latitude, Longitude, and Population data sourced from [Simple Maps](https://simplemaps.com/data/world-cities)
@@ -27,5 +28,3 @@
 
 ## PintPrice Data Set
 - Data gathered January 2021 on the price of a pint / local equivalent from [PintPrice.com](http://www.pintprice.com/index.php)
-
-<a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>
