@@ -9,27 +9,30 @@ const Esri_WorldStreetMap = L.tileLayer(
 Esri_WorldStreetMap.addTo(mymap);
 
 // create all the markers and collect them in an array
-const markers = new Array();
-const mark = function (coords, popup, color) {
+let markers;
+
+function mark(coords, popup, color) {
   const c = L.circleMarker(coords, {
     weight: 1,
     color: "black",
     fillColor: color,
     fillOpacity: 1,
-    radius: 3
+    radius: 4
   });
 
   c.bindPopup(popup);
   markers.push(c);
 }
 
-// A helper fn to return the appropriate color for each band of prices
 const colors = ['#ffffd4', '#fed98e', '#fe9929', '#d95f0e', '#993404'];
+let bins;
 
-let bins = new Array();
-
-function make_bins() {
-  const prices = Object.values(raw.price)
+function make_bins(data) {
+  bins = new Array();
+  let prices = new Array();
+  for (const x of data) {
+    prices.push(x.total);
+  }
   const price_range = [Math.min(...prices), Math.max(...prices)]
   const price_interval = (price_range[1] - price_range[0]) / 4;
   for (let x = 0; x < 5; x += 1) {
@@ -38,6 +41,7 @@ function make_bins() {
   }
 }
 
+// A helper fn to return the appropriate color for each band of prices
 function m_color(val) {
   if (val >= bins[0] && val < bins[1]) {
     return colors[0];
@@ -68,14 +72,12 @@ legend.onAdd = function (map) {
     div.innerHTML += '<i style="background: ' + colors[i] + '"></i> ' +
       String(bins[i]) + (bins[i + 1] ? ' &ndash; ' + String(bins[i + 1]) +
         '<br>' : '+');
-    // div.innerHTML += '<i style="background:' + colors[i] + '"></i> ' +
-    //   bins[i] + (bins[i + 1] ? '&ndash;' + bins[i + 1] + '<br>' : '+');
   }
 
   return div;
 };
 
-// To filter the markers on the screen to the top 50 (?) by population,
+// To filter the markers on the screen to the top cities by population,
 // you need a list of what's currently on the screen, and a way to sort them
 function between(marker, bounds) {
   const lat = [bounds.getSouth(), bounds.getNorth()];
@@ -92,7 +94,7 @@ function between(marker, bounds) {
 
 function inbounds_sort(marker) {
   const latlng = marker.getLatLng();
-  for (const x of db_beer) {
+  for (const x of df) {
     if (latlng.lat === x.latitude && latlng.lng === x.longitude) {
       return x.population;
     }
@@ -109,25 +111,49 @@ function onMapZoom(e) {
     }
   }
   inbounds.sort((a, b) => inbounds_sort(b) - inbounds_sort(a));
-  for (const x of inbounds.slice(0, 50)) {
+  for (const x of inbounds.slice(0, 300)) {
     x.addTo(mymap);
   }
 }
 
-// mymap.on("load", onMapZoom);
+mymap.on("load", onMapZoom);
 mymap.on("zoomend", onMapZoom);
 mymap.on("moveend", onMapZoom);
 
-//
-// fetch('http://localhost:8000/graphs/Seoul.html', {
-//     mode: 'same-origin'
-//   }).then(response => response.text())
-//   .then(data => {
-//     // console.log(data);
-//     circle.bindPopup(html, {
-//       minWidth: 400
-//     });
-//   });
+const labels = ['avg_pub', 'avg_market', 'avg_bread', 'avg_coffee'];
+let isChecked;
+
+function layerAdd() {
+  isChecked = new Array();
+  for (const l of document.getElementsByClassName(
+      "leaflet-control-layers-selector")) {
+    if (l.checked) {
+      isChecked.push(l.nextSibling.firstChild.data);
+    }
+  }
+  if (isChecked.length === 0) {
+    markData(df);
+  } else {
+    markData(sliceData());
+  }
+}
+
+function markerSelect(labels) {
+  let m = new Map();
+  for (const l of labels) {
+    m.set(l, L.featureGroup(markers)
+      .on('add', layerAdd)
+      .on('remove', layerAdd)
+    );
+  }
+
+  return Object.fromEntries(m);
+}
+
+let layers = markerSelect(labels);
+
+let raw;
+let df;
 
 // Creates an array of objects, each containing 1 row of data
 function parse(json) {
@@ -136,7 +162,7 @@ function parse(json) {
   let a = new Array();
   for (let i = 0; i < y.length; i += 1) {
     let b = new Object();
-    for (const [k, v] of Object.entries(json)) {
+    for (const [k, v] of x) {
       b[k] = v[i];
     }
     a.push(b);
@@ -145,61 +171,49 @@ function parse(json) {
   return a;
 };
 
+function sliceData() {
+  let data = new Array();
+  for (let i in raw['city_ascii']) {
+    let x = new Object();
+    for (const k of ['city_ascii', 'latitude', 'longitude', 'population']) {
+      x[k] = raw[k][i];
+    }
+    x['total'] = 0;
+    for (const j of isChecked) {
+      x['total'] += raw[j.trim()][i];
+    }
+    data.push(x);
+  }
+
+  return data;
+}
+
+function markData(data) {
+  make_bins(data);
+  legend.remove();
+  legend.addTo(mymap);
+  markers = new Array();
+  for (const x of data) {
+    let text = String(x.city_ascii) + ": " + String(x.total);
+    mark([x.latitude, x.longitude], text, m_color(x.total));
+  }
+  for (const y of markers) {
+    y.addTo(mymap);
+  }
+}
+
 // Fetches the JSON and dumps it into variables for later use,
 // also draws the markers
-let raw;
-let db_beer;
-fetch(
-    'http://localhost:8000/data/deutschebank/beer-clean.json', {
-      mode: 'same-origin'
-    })
-  .then(response => response.json())
-  .then(data => {
-    raw = data;
-    make_bins();
-
-    db_beer = parse(data);
-    for (const x of db_beer) {
-      let text = String(x.city_ascii) + ": " + String(x.price)
-      mark([x.latitude, x.longitude], text, m_color(x.price));
-    }
-    for (const y of markers) {
-      y.addTo(mymap);
-    }
-    legend.addTo(mymap);
-  });
-
-// an effort to figure out how to add charts to popups
-const html =
-  `<head>
-  <style>
-    .error {
-        color: red;
-    }
-  </style>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
-</head>
-<body>
-  <div id="vis"></div>
-  <script>
-    (function(vegaEmbed) {
-      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-436c0630e7e4313a1c81d15b3666107b"}, "mark": "bar", "encoding": {"x": {"type": "nominal", "field": "Seoul"}, "y": {"type": "quantitative", "field": "price ($)"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-436c0630e7e4313a1c81d15b3666107b": [{"Seoul": "beer", "price ($)": 2.44}, {"Seoul": "bread", "price ($)": 2.76}, {"Seoul": "coffee", "price ($)": 4.34}]}};
-      var embedOpt = {"mode": "vega-lite"};
-
-      function showError(el, error){
-          el.innerHTML = ('<div class="error" style="color:red;">'
-                          + '<p>JavaScript Error: ' + error.message + '</p>'
-                          + "<p>This usually means there's a typo in your chart specification. "
-                          + "See the javascript console for the full traceback.</p>"
-                          + '</div>');
-          throw error;
-      }
-      const el = document.getElementById('vis');
-      vegaEmbed("#vis", spec, embedOpt)
-        .catch(error => showError(el, error));
-    })(vegaEmbed);
-
-  </script>
-</body>`
+window.onload = function () {
+  fetch(
+      'http://localhost:3000/df_final.json', {
+        mode: 'same-origin'
+      })
+    .then(response => response.json())
+    .then(data => {
+      raw = data;
+      df = parse(data);
+      markData(df);
+      L.control.layers(null, layers).addTo(mymap);
+    });
+}
