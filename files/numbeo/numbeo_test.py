@@ -1,4 +1,5 @@
 import pandas as pd
+import pytest
 from numbeo import *
 
 
@@ -17,6 +18,29 @@ def test_clean(sample_df):
     assert clean(sample_df(t1), find_str="D", find_col="country", edit_col="city_ascii").equals(sample_df(t5))
     assert clean(sample_df(t2), find_str="t").equals(sample_df(t6))
     assert clean(sample_df(t2), find_str="t", edit_col="country").equals(sample_df(t7))
+
+
+t1 = [['a', 'b', 'c', 'd'], ['A', 'B', 'C', "D"]]
+t2 = [['test', 'b', 'c', 'd'], ['A', 'B', 'C', "D"]]
+t3 = [['a', 'b', 'c', 'd'], ['A', 'TEST', 'C', "D"]]
+t4 = [['a', 'b', 'c', 'd'], ['A', 'B', 'TEST', "D"]]
+t5 = [['a', 'b', 'c', 'D'], ['A', 'B', 'C', "D"]]
+t6 = [['t', 'b', 'c', 'd'], ['A', 'B', 'C', "D"]]
+t7 = [['test', 'b', 'c', 'd'], ['t', 'B', 'C', "D"]]
+
+
+def clean_params():
+    return [(t1, "a", None, "test", None, t2),
+            (t1, "B", "country", "TEST", None, t3),
+            (t1, "c", None, "TEST", "country", t4),
+            (t1, "D", "country", None, "city_ascii", t5),
+            (t2, "t", None, None, None, t6),
+            (t2, "t", None, None, "country", t7)]
+
+
+@pytest.mark.parametrize("input, find_str, find_col, edit_str, edit_col, output", clean_params())
+def test_clean2(sample_df, input, find_str, find_col, edit_str, edit_col, output):
+    assert clean(sample_df(input), find_str=find_str, find_col=find_col, edit_str=edit_str, edit_col=edit_col).equals(sample_df(output))
 
 
 def test_read_numbeo():

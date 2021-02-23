@@ -15,17 +15,17 @@
 A throwaway comment on the price of beer in Budapest inspired me to see if beer could be used as a cost of living metric. The first articles I found polled a single city per country, typically the capital or largest city, which seemed unrepresentative: everyone knows the cost of living is high in New York, Tokyo, or London. So I wanted to gather data by city, average it across various sources, and map it. Since beer is not globally popular, though (in Saudi Arabia, it's illegal), I decided to expand my analysis to coffee, which is widely available even in non-coffee cultures, and bread, since everyone needs something to nibble on with their beer. (In my household, we make some of our beer and bake some of our bread; we do not roast our own coffee.) I hope the results are entertaining and thought-provoking.
 
 ## Sources
-### City Data
+### City Data (by [apettenati](https://github.com/apettenati))
 - City, Country, Latitude, Longitude, and Population data sourced from [Simple Maps](https://simplemaps.com/data/world-cities)
 - Region data sourced from [Wikimedia](https://meta.wikimedia.org/wiki/List_of_countries_by_regional_classification)
 - City ASCII column used for merging datasets
 
-### Deutsche Bank
+### Deutsche Bank (by [apettenati](https://github.com/apettenati))
 - Data gathered from [Mapping the World Prices 2019](https://www.dbresearch.com/PROD/RPS_EN-PROD/Mapping_the_world_prices_2019/RPS_EN_DOC_VIEW.calias?rwnode=PROD0000000000436748&ProdCollection=PROD0000000000505140):
   - cappuccino
   - 500 mL beer in neighbourhood pub
 
-### [Expatistan](https://www.expatistan.com/)
+### [Expatistan](https://www.expatistan.com/) (by [apettenati](https://github.com/apettenati))
 - Data gathered January 2021 on:
   - bread for 2 people for 1 day
   - cappuccino in expat area of the city

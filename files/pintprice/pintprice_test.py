@@ -1,9 +1,17 @@
+import pickle
+from unittest.mock import patch
+
 import pandas as pd
+from bs4 import BeautifulSoup
 from pintprice import *
 
+html = open('congo.htm', 'r', encoding="windows-1252")
 
-def test_get_soup():
-    assert get_soup("asdf") is None
+
+@patch("pintprice.request.urlopen", return_value=html)
+def test_get_soup(mock_soup):
+    # assert get_soup("asdf") is None
+    mock_soup.return_value.status = 200
 
     congo = get_soup("Congo")
     assert "Congo" in str(congo)
@@ -20,8 +28,9 @@ def test_get_prices():
     assert type(congo) == list
 
 
-def test_get_countries():
-    congo = get_countries(get_soup("Congo"))
+@patch("pintprice.get_soup", return_value=BeautifulSoup(html, 'html.parser'))
+def test_get_countries(mock_soup):
+    congo = get_countries(mock_soup("Congo"))
 
     assert "Congo" in congo
     assert "United Kingdom" in congo

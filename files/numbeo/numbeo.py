@@ -8,8 +8,10 @@ import qwikidata.sparql
 from requests import Session
 
 
-def clean(df, find_str, find_col="city_ascii", edit_str=None, edit_col=None):
+def clean(df, find_str, find_col=None, edit_str=None, edit_col=None):
     '''Given a df, a column to search, a search string, a column to edit, and a string to edit in, return the df with the column edited appropriately.'''
+    if not find_col:
+        find_col = "city_ascii"
     if not edit_str:
         edit_str = find_str
     if not edit_col:
@@ -22,10 +24,6 @@ def read_numbeo():
     '''Read and merge all Numbeo data tables.'''
     categories = ["beer_market", "beer_pub", "bread", "coffee"]
     numbeo_beer_market, numbeo_beer_pub, numbeo_bread, numbeo_coffee = [pd.read_table('numbeo_' + x + ".txt", names=['rank', 'city', x], index_col='rank') for x in categories]
-    # numbeo_beer_market = pd.read_table('numbeo_beer_market.txt', names=["rank", "city", "beer_market"], index_col="rank")
-    # numbeo_beer_pub = pd.read_table("numbeo_beer_pub.txt", names=["rank", "city", "beer_pub"], index_col="rank")
-    # numbeo_bread = pd.read_table('numbeo_bread.txt', names=["rank", "city", "bread"], index_col="rank")
-    # numbeo_coffee = pd.read_table("numbeo_coffee.txt", names=['rank', 'city', 'coffee'], index_col="rank")
 
     numbeo = pd.merge(numbeo_beer_market, numbeo_beer_pub, how="outer", on="city")
     numbeo = pd.merge(numbeo, numbeo_bread, how="outer", on="city")

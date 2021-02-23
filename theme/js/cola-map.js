@@ -1,5 +1,5 @@
 // Start by instantiating a map and using ESRI tiles
-let mymap = L.map('mapid').setView([0, 0], 1);
+let myMap = L.map('mapid').setView([0, 0], 1);
 
 const Esri_WorldStreetMap = L.tileLayer(
   'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
@@ -12,8 +12,8 @@ const CartoDB_Positron = L.tileLayer(
     subdomains: 'abcd',
     maxZoom: 19
   })
-Esri_WorldStreetMap.addTo(mymap);
-// CartoDB_Positron.addTo(mymap);
+Esri_WorldStreetMap.addTo(myMap);
+// CartoDB_Positron.addTo(myMap);
 
 // create bins and assign colors for legend
 const colors = ['#ffffd4', '#fed98e', '#fe9929', '#d95f0e', '#993404'];
@@ -22,8 +22,8 @@ let bins;
 function make_bins(data) {
   bins = new Array();
   let prices = new Array();
-  for (const x of data) {
-    prices.push(x.total);
+  for (const row of data) {
+    prices.push(row.total);
   }
   const price_range = [Math.min(...prices), Math.max(...prices)]
   const price_interval = (price_range[1] - price_range[0]) / 4;
@@ -34,7 +34,7 @@ function make_bins(data) {
 }
 
 // A helper fn to return the appropriate color for each band of prices
-function m_color(val) {
+function mark_color(val) {
   if (val >= bins[0] && val < bins[1]) {
     return colors[0];
   }
@@ -58,8 +58,8 @@ let legend = L.control({
 legend.onAdd = function (map) {
   let div = L.DomUtil.create('div', 'info legend');
 
-  // loop through our density intervals and generate a label with a colored square
-  // for each interval
+  // loop through our density intervals and generate a label
+  // with a colored square for each interval
   for (let i = 0; i < colors.length; i++) {
     div.innerHTML += '<i style="background: ' + colors[i] + '"></i> ' +
       String(bins[i]) + (bins[i + 1] ? ' &ndash; ' + String(bins[i + 1]) +
@@ -73,7 +73,7 @@ legend.onAdd = function (map) {
 let markers;
 
 function mark(coords, popup, color) {
-  const c = L.circleMarker(coords, {
+  const circle = L.circleMarker(coords, {
     weight: 1,
     color: "black",
     fillColor: color,
@@ -81,8 +81,8 @@ function mark(coords, popup, color) {
     radius: 4
   });
 
-  c.bindPopup(popup);
-  markers.push(c);
+  circle.bindPopup(popup);
+  markers.push(circle);
 }
 
 // To filter the markers on the screen to the top cities by population,
@@ -90,10 +90,9 @@ function mark(coords, popup, color) {
 function between(marker, bounds) {
   const lat = [bounds.getSouth(), bounds.getNorth()];
   const lng = [bounds.getWest(), bounds.getEast()];
-  const m_latlng = marker.getLatLng();
-  if (m_latlng.lat >= lat[0] && m_latlng.lat <= lat[1] && m_latlng.lng >=
-    lng[0] &&
-    m_latlng.lng <= lng[1]) {
+  const mark_latlng = marker.getLatLng();
+  if (mark_latlng.lat >= lat[0] && mark_latlng.lat <= lat[1] && mark_latlng.lng >=
+    lng[0] && mark_latlng.lng <= lng[1]) {
     return true;
   } else {
     return false;
@@ -102,33 +101,33 @@ function between(marker, bounds) {
 
 // sort by population
 function inbounds_sort(marker) {
-  const latlng = marker.getLatLng();
-  for (const x of df) {
-    if (latlng.lat === x.latitude && latlng.lng === x.longitude) {
-      return x.population;
+  const mark_latlng = marker.getLatLng();
+  for (const row of df) {
+    if (mark_latlng.lat === row.latitude && mark_latlng.lng === row.longitude) {
+      return row.population;
     }
   }
 }
 
 // generate a list of visible markers and display the top 300 by population
-function onMapZoom(e) {
-  const bounds = mymap.getBounds();
+function onMapZoom() {
+  const bounds = myMap.getBounds();
   let inbounds = new Array();
-  for (const m of markers) {
-    m.remove()
-    if (between(m, bounds)) {
-      inbounds.push(m);
+  for (const mark of markers) {
+    mark.remove()
+    if (between(mark, bounds)) {
+      inbounds.push(mark);
     }
   }
   inbounds.sort((a, b) => inbounds_sort(b) - inbounds_sort(a));
-  for (const x of inbounds.slice(0, 300)) {
-    x.addTo(mymap);
+  for (const mark of inbounds.slice(0, 300)) {
+    mark.addTo(myMap);
   }
 }
 
-mymap.on("load", onMapZoom);
-mymap.on("zoomend", onMapZoom);
-mymap.on("moveend", onMapZoom);
+myMap.on("load", onMapZoom)
+  .on("zoomend", onMapZoom)
+  .on("moveend", onMapZoom);
 
 // create layers for each data metric
 const labels = ['beer @ pub', 'beer @ market', 'bread @ market',
@@ -144,10 +143,10 @@ let isChecked;
 // populate isChecked from currently checked boxes and update the markers
 function layerUpdate() {
   isChecked = new Array();
-  for (const l of document.getElementsByClassName(
+  for (const layer of document.getElementsByClassName(
       "leaflet-control-layers-selector")) {
-    if (l.checked) {
-      isChecked.push(l.nextSibling.firstChild.data);
+    if (layer.checked) {
+      isChecked.push(layer.nextSibling.firstChild.data);
     }
   }
   if (isChecked.length === 0) {
@@ -155,20 +154,20 @@ function layerUpdate() {
   } else {
     markData(sliceData());
   }
-  onMapZoom(l);
+  onMapZoom();
 }
 
 // create the layer selector label object
 function markerSelect(labels) {
-  let m = new Map();
-  for (const l of labels) {
-    m.set(l, L.featureGroup(markers)
+  let mark_group = new Map();
+  for (const lbl of labels) {
+    mark_group.set(lbl, L.featureGroup(markers)
       .on('add', layerUpdate)
       .on('remove', layerUpdate)
     );
   }
 
-  return Object.fromEntries(m);
+  return Object.fromEntries(mark_group);
 }
 
 let layers = markerSelect(labels);
@@ -179,33 +178,33 @@ let df;
 
 // Creates an array of objects, each containing 1 row of data
 function parse(json) {
-  const x = Object.entries(json);
-  const y = Object.entries(x[0][1]);
-  let a = new Array();
-  for (let i = 0; i < y.length; i += 1) {
-    let b = new Object();
-    for (const [k, v] of x) {
-      b[k] = v[i];
+  const json_obj = Object.entries(json);
+  const indices = Object.entries(json_obj[0][1]);
+  let data = new Array();
+  for (let i = 0; i < indices.length; i += 1) {
+    let row = new Object();
+    for (const [k, v] of json_obj) {
+      row[k] = v[i];
     }
-    a.push(b);
+    data.push(row);
   }
 
-  return a;
+  return data;
 };
 
 // when boxes get checked, generate a corresponding data series
 function sliceData() {
   let data = new Array();
   for (let i in raw['city_ascii']) {
-    let x = new Object();
+    let row = new Object();
     for (const k of ['city_ascii', 'latitude', 'longitude', 'population']) {
-      x[k] = raw[k][i];
+      row[k] = raw[k][i];
     }
-    x['total'] = 0;
-    for (const j of isChecked) {
-      x['total'] += raw[layersToKeys.get(j.trim())][i];
+    row['total'] = 0;
+    for (const label of isChecked) {
+      row['total'] += raw[layersToKeys.get(label.trim())][i];
     }
-    data.push(x);
+    data.push(row);
   }
 
   return data;
@@ -215,14 +214,14 @@ function sliceData() {
 function markData(data) {
   make_bins(data);
   legend.remove();
-  legend.addTo(mymap);
+  legend.addTo(myMap);
   markers = new Array();
-  for (const x of data) {
-    let text = String(x.city_ascii) + ": " + String(x.total);
-    mark([x.latitude, x.longitude], text, m_color(x.total));
+  for (const row of data) {
+    let text = String(row.city_ascii) + ": " + String(row.total);
+    mark([row.latitude, row.longitude], text, mark_color(row.total));
   }
-  for (const y of markers) {
-    y.addTo(mymap);
+  for (const mark of markers) {
+    mark.addTo(myMap);
   }
 }
 
@@ -230,15 +229,15 @@ function markData(data) {
 // also draws the markers and layer selector
 window.onload = function () {
   fetch(
-      'http://localhost:3000/df_final.json', {
+      '../../files/df_final.json', {
         mode: 'same-origin'
       })
     .then(response => response.json())
     .then(data => {
       raw = data;
-      mymap.zoomIn(); // this is a hack to trigger onMapZoom initially
+      myMap.zoomIn(); // this is a hack to trigger onMapZoom initially
       df = parse(data);
       markData(df);
-      L.control.layers(null, layers).addTo(mymap);
+      L.control.layers(null, layers).addTo(myMap);
     });
 }
