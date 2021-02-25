@@ -33,14 +33,14 @@ A throwaway comment on the price of beer in Budapest inspired me to see if beer 
   - 500 mL or 16 oz. domestic beer in the supermarket
 - Expatistan data used with permission.
 
-### Numbeo
+### Numbeo (by [christalee](https://github.com/christalee))
 - Data gathered January 2021 on:
   - [cappuccino in cafes](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=114)
   - [500 mL beer in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=15)
   - [500 mL beer in restaurants](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=4)
   - [500 g bread in markets](https://www.numbeo.com/cost-of-living/prices_by_city.jsp?displayCurrency=USD&itemId=9)
 
-### [PintPrice](http://www.pintprice.com/index.php)
+### [PintPrice](http://www.pintprice.com/index.php) (by [christalee](https://github.com/christalee))
 - Data gathered January 2021 on the price of 16 oz. / 500 mL beer, presumably in a neighbourhood pub
 
 <a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>

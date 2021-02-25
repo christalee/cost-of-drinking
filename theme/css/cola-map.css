@@ -24,3 +24,17 @@
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
 }
+
+.chart-container {
+  height: 245px;
+  width: 245px;
+}
+
+#info-pane {
+  /* position: absolute;
+   top: 10px;
+   right: 10px;
+   z-index: 400; */
+  padding: 1em;
+  background: white;
+}

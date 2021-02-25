@@ -17,10 +17,10 @@ Esri_WorldStreetMap.addTo(myMap);
 
 // create bins and assign colors for legend
 const colors = ['#ffffd4', '#fed98e', '#fe9929', '#d95f0e', '#993404'];
-let bins;
+let total_bins;
 
 function make_bins(data) {
-  bins = new Array();
+  total_bins = new Array();
   let prices = new Array();
   for (const row of data) {
     prices.push(row.total);
@@ -29,12 +29,12 @@ function make_bins(data) {
   const price_interval = (price_range[1] - price_range[0]) / 4;
   for (let x = 0; x < 5; x += 1) {
     let cut = Math.round((price_range[0] + x * price_interval) * 100) / 100;
-    bins.push(cut);
+    total_bins.push(cut);
   }
 }
 
 // A helper fn to return the appropriate color for each band of prices
-function mark_color(val) {
+function mark_color(val, bins) {
   if (val >= bins[0] && val < bins[1]) {
     return colors[0];
   }
@@ -62,7 +62,7 @@ legend.onAdd = function (map) {
   // with a colored square for each interval
   for (let i = 0; i < colors.length; i++) {
     div.innerHTML += '<i style="background: ' + colors[i] + '"></i> ' +
-      String(bins[i]) + (bins[i + 1] ? ' &ndash; ' + String(bins[i + 1]) +
+      String(total_bins[i]) + (total_bins[i + 1] ? ' &ndash; ' + String(total_bins[i + 1]) +
         '<br>' : '+');
   }
 
@@ -72,16 +72,17 @@ legend.onAdd = function (map) {
 // create all the markers and collect them in an array
 let markers;
 
-function mark(coords, popup, color) {
+function mark(coords, text, color) {
   const circle = L.circleMarker(coords, {
     weight: 1,
     color: "black",
     fillColor: color,
     fillOpacity: 1,
-    radius: 4
+    radius: 4,
+    alt: text
   });
-
-  circle.bindPopup(popup);
+  p = L.popup(circle).setContent(`<div id="info-pane" class="chart-container"><canvas id="${text}"></canvas></div>`);
+  circle.bindPopup(p);
   markers.push(circle);
 }
 
@@ -127,7 +128,8 @@ function onMapZoom() {
 
 myMap.on("load", onMapZoom)
   .on("zoomend", onMapZoom)
-  .on("moveend", onMapZoom);
+  .on("moveend", onMapZoom)
+  .on("popupopen", popupChart);
 
 // create layers for each data metric
 const labels = ['beer @ pub', 'beer @ market', 'bread @ market',
@@ -210,6 +212,15 @@ function sliceData() {
   return data;
 }
 
+function popupChart(e) {
+  const city = e.popup.options.options.alt;
+  let chart = new Chart(city, {
+    type: 'bar',
+    data: initialChartData(city),
+    options: chartOptions
+  });
+}
+
 // given some data, update the legend and plot the markers
 function markData(data) {
   make_bins(data);
@@ -217,13 +228,110 @@ function markData(data) {
   legend.addTo(myMap);
   markers = new Array();
   for (const row of data) {
-    let text = String(row.city_ascii) + ": " + String(row.total);
-    mark([row.latitude, row.longitude], text, mark_color(row.total));
+    mark([row.latitude, row.longitude], row.city_ascii, mark_color(row.total, total_bins));
   }
   for (const mark of markers) {
     mark.addTo(myMap);
   }
 }
+
+let dfMinMax = new Map();
+function minmax () {
+  let totalMin = 0;
+  let totalMax = 0;
+  for (const k of keys) {
+    let prices = new Array();
+    for (const i in raw[k]) {
+      prices.push(raw[k][i]);
+    }
+    let price_range = [Math.min(...prices), Math.max(...prices)];
+    totalMin += price_range[0];
+    totalMax += price_range[1];
+    // console.log(price_range);
+    dfMinMax.set(k, price_range);
+  }
+  dfMinMax.set("total", [totalMin, totalMax]);
+}
+
+let dfBins = new Map();
+function chartBins() {
+  for (const k of keys) {
+    let bins = new Array();
+    price_range = dfMinMax.get(k);
+    const price_interval = (price_range[1] - price_range[0]) / 4;
+    for (let x = 0; x < 5; x += 1) {
+      let cut = Math.round((price_range[0] + x * price_interval) * 100) / 100;
+      bins.push(cut);
+    }
+    dfBins.set(k, bins);
+  }
+}
+
+function chartColors (data) {
+  let colors = new Array();
+  for (const i in data) {
+    bins = dfBins.get(keys[i]);
+    colors.push(mark_color(data[i], bins));
+  }
+
+  return colors;
+}
+
+function initialChartData (city) {
+  let data = new Array();
+
+  for (const row of df) {
+    if (row.city_ascii == city) {
+      for (const k of keys) {
+        data.push(row[k]);
+      }
+      cColors = chartColors(data);
+    }
+  }
+return {
+  labels: labels,
+   datasets: [{
+     label: city,
+     backgroundColor: cColors,
+     borderColor: "#000000",
+     borderWidth: 1,
+     data: data
+   }
+ ]};}
+
+const chartOptions = {
+  scales: {
+      xAxes: [{
+        // stacked: true,
+        scaleLabel: {
+          display: true,
+          labelString: 'products'
+        },
+        ticks: {
+          beginAtZero: true,
+          // max: 250,
+          // stepSize: 50
+        }
+      }],
+      yAxes: [{
+        // stacked: true,
+        scaleLabel: {
+          display: true,
+          labelString: 'cost ($ USD)'
+        },
+        ticks: {
+          beginAtZero: true,
+          // max: 250,
+          // stepSize: 50
+        }
+      }]
+    },
+    maintainAspectRatio: false,
+    // turn off animations during chart data updates
+    // animation: {
+    //   duration: 0
+    // }
+  };
 
 // Fetches the JSON and dumps it into variables,
 // also draws the markers and layer selector
@@ -239,5 +347,7 @@ window.onload = function () {
       df = parse(data);
       markData(df);
       L.control.layers(null, layers).addTo(myMap);
+      minmax();
+      chartBins();
     });
 }

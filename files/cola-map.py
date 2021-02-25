@@ -77,6 +77,19 @@ def db_correct(db):
     return db
 
 
+def df_clean():
+    place_cols = ["city_ascii", "admin_name", "country", "region", "latitude", "longitude", "population"]
+
+    df_clean = df_all[place_cols]
+    for x in ['pub', 'market', 'bread', 'coffee']:
+        x_cols = list(filter(lambda y: x in y, df_all.columns))
+        df_clean["avg_" + x] = df_all[x_cols].mean(axis=1).apply(lambda x: round(x, 2))
+
+    df_clean['total'] = df_clean[['avg_pub', 'avg_market', 'avg_bread', 'avg_coffee']].sum(axis=1)
+
+    return df_clean
+
+
 def main():
     # load in numbeo & expatistan data
     n_e = pd.read_csv('data/numbeo/n_e_clean.csv').drop(columns=["Unnamed: 0"])
@@ -101,6 +114,9 @@ def main():
 
     df_all.to_csv("df_all.csv")
     df_all.to_json("df_all.json")
+
+    df_clean = df_clean()
+    df_clean.to_json("df_final.json")
 
 
 if __name__ == "__main__":
