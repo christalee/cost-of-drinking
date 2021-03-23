@@ -19,7 +19,7 @@ Esri_WorldStreetMap.addTo(myMap);
 const colors = ['#ffffd4', '#fed98e', '#fe9929', '#d95f0e', '#993404'];
 let total_bins;
 
-function make_bins(data) {
+function legendBins(data) {
   total_bins = new Array();
   let prices = new Array();
   for (const row of data) {
@@ -216,14 +216,14 @@ function popupChart(e) {
   const city = e.popup.options.options.alt;
   let chart = new Chart(city, {
     type: 'bar',
-    data: initialChartData(city),
+    data: chartData(city),
     options: chartOptions
   });
 }
 
 // given some data, update the legend and plot the markers
 function markData(data) {
-  make_bins(data);
+  legendBins(data);
   legend.remove();
   legend.addTo(myMap);
   markers = new Array();
@@ -247,7 +247,6 @@ function minmax () {
     let price_range = [Math.min(...prices), Math.max(...prices)];
     totalMin += price_range[0];
     totalMax += price_range[1];
-    // console.log(price_range);
     dfMinMax.set(k, price_range);
   }
   dfMinMax.set("total", [totalMin, totalMax]);
@@ -277,7 +276,7 @@ function chartColors (data) {
   return colors;
 }
 
-function initialChartData (city) {
+function chartData (city) {
   let data = new Array();
 
   for (const row of df) {

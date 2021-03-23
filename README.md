@@ -1,7 +1,7 @@
 # Cost of Drinking
 ## What this project is
 
-- An excuse to scrape and clean some data with pandas, process and map it with Leaflet.JS, and review event handling in JavaScript, with a visually attractive result.
+- An excuse to scrape and clean some data with [pandas](https://pandas.pydata.org/), process and map it with [Leaflet.JS](https://leafletjs.com/) and [Chart.JS](https://www.chartjs.org/), and review event handling in JavaScript, with a visually attractive result.
 - A naive look at the cost of beer, coffee, and bread around the world, based on crowdsourced data.
 
 ## What this project is not
@@ -12,7 +12,15 @@
 
 ## Motivation
 
-A throwaway comment on the price of beer in Budapest inspired me to see if beer could be used as a cost of living metric. The first articles I found polled a single city per country, typically the capital or largest city, which seemed unrepresentative: everyone knows the cost of living is high in New York, Tokyo, or London. So I wanted to gather data by city, average it across various sources, and map it. Since beer is not globally popular, though (in Saudi Arabia, it's illegal), I decided to expand my analysis to coffee, which is widely available even in non-coffee cultures, and bread, since everyone needs something to nibble on with their beer. (In my household, we make some of our beer and bake some of our bread; we do not roast our own coffee.) I hope the results are entertaining and thought-provoking.
+A throwaway comment on the price of beer in Budapest inspired me to see if beer could be used as a cost of living metric. The first maps I found polled a single city per country, typically the capital or largest city, which seemed unrepresentative: everyone knows the cost of living is high in New York, Tokyo, or London. So I wanted to gather data by city, average it across various sources, and map it. Since beer is not globally popular, though (in Saudi Arabia, it's illegal), I decided to expand my analysis to coffee, which is widely available even in non-coffee cultures, and bread, since everyone needs something to nibble on with their beer. (In my household, we make some of our beer and bake some of our bread; we do not roast our own coffee.) I hope the results are entertaining and thought-provoking.
+
+## Prior Art
+
+"[Beer Prices Around the World.](https://graphics.wsj.com/table/BEER_062415)" Wall Street Journal, 2015.
+
+"[The Cost of a Beer Around the World.](https://www.finder.com/international-beer-price-map)" Finder, 2018.
+
+"[Mapping the Price of Beer Around the World.](https://www.visualcapitalist.com/mapping-price-of-beer-around-world/)" Visual Capitalist, 2018.
 
 ## Sources
 ### City Data (by [apettenati](https://github.com/apettenati))

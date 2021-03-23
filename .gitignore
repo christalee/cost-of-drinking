@@ -8,3 +8,4 @@ logs.txt
 /data/expatistan/clean-expatistan.py
 /data/numbeo-city-edit.csv
 /data/expatistan/archive/
+*.sh
